@@ -25,6 +25,7 @@ hrefs to dev articles
 + [string#as alias](https://gist.github.com/dfkaye/96637eda4e262dfe91ee)
 + [simple string dependency graph](https://gist.github.com/dfkaye/cf2f3ee752d90b4af21f)
 + [constructor function pattern question for @WebReflection](https://gist.github.com/dfkaye/11362770)
++ [Configure and run multiple framework launchers for testem](https://gist.github.com/dfkaye/8773266)
 + [ap:richtexteditor](https://gist.github.com/dfkaye/8494067)
 + [ap:packager](https://gist.github.com/dfkaye/8493821)
 + [ap:eventsource#subscribe](https://gist.github.com/dfkaye/8493708)
@@ -48,15 +49,3 @@ hrefs to dev articles
 + [testling, tape, github](https://gist.github.com/dfkaye/5225546)
 + [simple-path-normalize](https://gist.github.com/dfkaye/5017089)
 + [requestCSS](https://gist.github.com/dfkaye/4773010)
-
-
-
-
-
-
-
-
-
-
-
-+ [Configure and run multiple framework launchers for testem](https://gist.github.com/dfkaye/8773266)
