@@ -1,13 +1,25 @@
 # dev-links
 hrefs to dev articles 
 
-# javascript repos
+# repos
 + [Eric Elliott: object-list](https://github.com/ericelliott/object-list)
 + [Poornima Venkat: fastPath JSONpath parser](https://github.com/pvenkatakrishnan/fastPath)
 + [Svilen Gospodinov: conveyor-belt asset mgmt for Node](https://github.com/svileng/conveyor-belt)
 + [Neil Green: Writing Custom DSLs](https://github.com/ngreen77/Writing-Custom-DSLs)
++ [Shaun LeBron: visualizing projections](https://github.com/shaunlebron/visualizing-projections)
+
+# demos
++ [online svg editor](http://speckyboy.com/2015/03/06/online-editor-to-change-the-look-of-your-svgs/)
+
+# articles
++ [automagically load gulp plugins](http://blog.donnywals.com/automagically-load-your-gulp-plugins/)
++ [essential gulp plugins](http://ipestov.com/essential-plugins-for-gulp/)
++ [Boiling React to few lines in jQuery](http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/)
++ [Heydon Pickering: CSS classes are obsolete](http://www.smashingmagazine.com/2012/06/19/classes-where-were-going-we-dont-need-classes/)
++ [Heydon Pickering: Owl selector](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)
 
 # dfkaye gists
++ [supports-event-type ~ dom level 0 for @Rich_Harris](https://gist.github.com/dfkaye/6debeddde5295f637661)
 + [javascript garbage collection for @duhroach](https://gist.github.com/dfkaye/cc9de5685442aa0978ef)
 + [continuous](https://gist.github.com/dfkaye/a1597ff98739c2e80af1)
 + [clone](https://gist.github.com/dfkaye/cdf674a4ae8f6fe5ff70)
