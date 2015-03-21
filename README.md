@@ -17,7 +17,7 @@ hrefs/links to web dev articles
 + [number, money and currency parsing/formatting](https://github.com/openexchangerates/accounting.js)
 + [printable paper for UX sketch](http://inspirationhut.net/printable-paper/)
 + [reddit: favorite lightweight libs w/lots of punch](http://www.reddit.com/r/javascript/comments/24wwcy/what_are_your_favorite_lightweight_libraries_that/chbnmd8)
-
++ [parse5 HTML parsing/serialization toolset for Node and io.js.](http://inikulin.github.io/parse5/)
 
 # demos
 + [online svg editor](http://speckyboy.com/2015/03/06/online-editor-to-change-the-look-of-your-svgs/)
