@@ -2,6 +2,7 @@
 hrefs/links to web dev articles 
 
 # repos
++ [node-quickcheck](https://github.com/mcandre/node-quickcheck)
 + [webdrivercss ~ CSS regression testing](https://github.com/webdriverio/webdrivercss)
 + [Quixote - CSS Unit Testing](https://github.com/jamesshore/quixote)
 + [CSS Stress Test](https://github.com/andyedinborough/stress-css)
