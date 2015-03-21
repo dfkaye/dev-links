@@ -13,6 +13,7 @@ hrefs/links to web dev articles
 + [Neil Green: Writing Custom DSLs](https://github.com/ngreen77/Writing-Custom-DSLs)
 + [Shaun LeBron: visualizing projections](https://github.com/shaunlebron/visualizing-projections)
 + [exceljs](https://github.com/guyonroche/exceljs)
++ [number, money and currency parsing/formatting](https://github.com/openexchangerates/accounting.js)
 + [printable paper for UX sketch](http://inspirationhut.net/printable-paper/)
 + [reddit: favorite lightweight libs w/lots of punch](http://www.reddit.com/r/javascript/comments/24wwcy/what_are_your_favorite_lightweight_libraries_that/chbnmd8)
 
