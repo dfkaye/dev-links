@@ -23,6 +23,8 @@ hrefs/links to web dev articles
 + [sheetjs live grid demo](http://oss.sheetjs.com/)
 
 # articles
++ [writing command line tools with node.js](http://javascriptplayground.com/blog/2015/03/node-command-line-tool/)
++ [JSStudyGuide](https://github.com/dxhackers/JSStudyGuide)
 + [offline data in the browser](http://lattapartners.com/offline-data-in-the-browser/)
 + [speed up lodash with lazy evaluation](http://filimanjaro.com/blog/2014/introducing-lazy-evaluation/)
 + [automagically load gulp plugins](http://blog.donnywals.com/automagically-load-your-gulp-plugins/)
