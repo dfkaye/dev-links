@@ -1,22 +1,36 @@
 # dev-links
-hrefs to dev articles 
+hrefs/links to web dev articles 
 
 # repos
++ [webdrivercss ~ CSS regression testing](https://github.com/webdriverio/webdrivercss)
++ [Quixote - CSS Unit Testing](https://github.com/jamesshore/quixote)
++ [CSS Stress Test](https://github.com/andyedinborough/stress-css)
++ [Gremlins ~ Monkey testing library for web apps and Node.js](https://github.com/marmelab/gremlins.js)
++ [MockHttpRequest ~ mock implementation of XMLHttpRequest for unit testing ](https://github.com/philikon/MockHttpRequest)
 + [Eric Elliott: object-list](https://github.com/ericelliott/object-list)
 + [Poornima Venkat: fastPath JSONpath parser](https://github.com/pvenkatakrishnan/fastPath)
 + [Svilen Gospodinov: conveyor-belt asset mgmt for Node](https://github.com/svileng/conveyor-belt)
 + [Neil Green: Writing Custom DSLs](https://github.com/ngreen77/Writing-Custom-DSLs)
 + [Shaun LeBron: visualizing projections](https://github.com/shaunlebron/visualizing-projections)
++ [exceljs](https://github.com/guyonroche/exceljs)
++ [printable paper for UX sketch](http://inspirationhut.net/printable-paper/)
++ [reddit: favorite lightweight libs w/lots of punch](http://www.reddit.com/r/javascript/comments/24wwcy/what_are_your_favorite_lightweight_libraries_that/chbnmd8)
+
 
 # demos
 + [online svg editor](http://speckyboy.com/2015/03/06/online-editor-to-change-the-look-of-your-svgs/)
++ [sheetjs live grid demo](http://oss.sheetjs.com/)
 
 # articles
++ [offline data in the browser](http://lattapartners.com/offline-data-in-the-browser/)
++ [speed up lodash with lazy evaluation](http://filimanjaro.com/blog/2014/introducing-lazy-evaluation/)
 + [automagically load gulp plugins](http://blog.donnywals.com/automagically-load-your-gulp-plugins/)
 + [essential gulp plugins](http://ipestov.com/essential-plugins-for-gulp/)
 + [Boiling React to few lines in jQuery](http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/)
 + [Heydon Pickering: CSS classes are obsolete](http://www.smashingmagazine.com/2012/06/19/classes-where-were-going-we-dont-need-classes/)
 + [Heydon Pickering: Owl selector](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)
++ [Getting started with Selenium Webdriver for node.js](http://bites.goodeggs.com/posts/selenium-webdriver-nodejs-tutorial/)
++ [Patterns ~ An accessible widget & pattern library](http://a11yproject.com/patterns/)
 
 # dfkaye gists
 + [supports-event-type ~ dom level 0 for @Rich_Harris](https://gist.github.com/dfkaye/6debeddde5295f637661)
