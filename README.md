@@ -33,7 +33,7 @@ hrefs/links to web dev articles
 + [Patterns ~ An accessible widget & pattern library](http://a11yproject.com/patterns/)
 
 # dfkaye gists
-+ [<select> onchange, onkeyup event fix](https://gist.github.com/dfkaye/c6f674826d7d0e903fa2)
++ [`<select>` onchange, onkeyup event fix](https://gist.github.com/dfkaye/c6f674826d7d0e903fa2)
 + [supports-event-type ~ dom level 0 for @Rich_Harris](https://gist.github.com/dfkaye/6debeddde5295f637661)
 + [javascript garbage collection for @duhroach](https://gist.github.com/dfkaye/cc9de5685442aa0978ef)
 + [continuous](https://gist.github.com/dfkaye/a1597ff98739c2e80af1)
