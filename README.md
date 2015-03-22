@@ -22,6 +22,7 @@ hrefs/links to web dev articles
 # demos
 + [online svg editor](http://speckyboy.com/2015/03/06/online-editor-to-change-the-look-of-your-svgs/)
 + [sheetjs live grid demo](http://oss.sheetjs.com/)
++ [annyang! SpeechRecognition that just works](https://www.talater.com/annyang/)
 
 # articles
 + [writing command line tools with node.js](http://javascriptplayground.com/blog/2015/03/node-command-line-tool/)
