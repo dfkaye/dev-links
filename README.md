@@ -1,5 +1,4 @@
-# dev-links
-hrefs/links to web dev articles 
+# dev-links to&hellips;
 
 # repos
 + [node-quickcheck](https://github.com/mcandre/node-quickcheck)
@@ -25,7 +24,7 @@ hrefs/links to web dev articles
 + [annyang! SpeechRecognition that just works](https://www.talater.com/annyang/)
 
 # articles
-+ [Paul Irish requestAnimationFrame for Smart Animating](https://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
++ [Paul Irish: requestAnimationFrame for Smart Animating](https://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
 + [writing command line tools with node.js](http://javascriptplayground.com/blog/2015/03/node-command-line-tool/)
 + [JSStudyGuide](https://github.com/dxhackers/JSStudyGuide)
 + [offline data in the browser](http://lattapartners.com/offline-data-in-the-browser/)
@@ -37,7 +36,8 @@ hrefs/links to web dev articles
 + [Heydon Pickering: Owl selector](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)
 + [Getting started with Selenium Webdriver for node.js](http://bites.goodeggs.com/posts/selenium-webdriver-nodejs-tutorial/)
 + [Patterns ~ An accessible widget & pattern library](http://a11yproject.com/patterns/)
-
++ [dfkaye: TDD boilerplate for JavaScript](http://dfkaye.github.io/2014/03/04/tdd-boilerplate/)
++ 
 # dfkaye gists
 + [`<select>` onchange, onkeyup event fix](https://gist.github.com/dfkaye/c6f674826d7d0e903fa2)
 + [supports-event-type ~ dom level 0 for @Rich_Harris](https://gist.github.com/dfkaye/6debeddde5295f637661)
@@ -82,3 +82,4 @@ hrefs/links to web dev articles
 + [testling, tape, github](https://gist.github.com/dfkaye/5225546)
 + [simple-path-normalize](https://gist.github.com/dfkaye/5017089)
 + [requestCSS](https://gist.github.com/dfkaye/4773010)
+
