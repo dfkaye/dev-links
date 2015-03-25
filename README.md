@@ -18,10 +18,12 @@
 + [reddit: favorite lightweight libs w/lots of punch](http://www.reddit.com/r/javascript/comments/24wwcy/what_are_your_favorite_lightweight_libraries_that/chbnmd8)
 + [parse5 HTML parsing/serialization toolset for Node and io.js.](http://inikulin.github.io/parse5/)
 
+
 # demos
 + [online svg editor](http://speckyboy.com/2015/03/06/online-editor-to-change-the-look-of-your-svgs/)
 + [sheetjs live grid demo](http://oss.sheetjs.com/)
 + [annyang! SpeechRecognition that just works](https://www.talater.com/annyang/)
+
 
 # articles
 + [Paul Irish: requestAnimationFrame for Smart Animating](https://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
@@ -37,7 +39,8 @@
 + [Getting started with Selenium Webdriver for node.js](http://bites.goodeggs.com/posts/selenium-webdriver-nodejs-tutorial/)
 + [Patterns ~ An accessible widget & pattern library](http://a11yproject.com/patterns/)
 + [dfkaye: TDD boilerplate for JavaScript](http://dfkaye.github.io/2014/03/04/tdd-boilerplate/)
-+ 
+
+ 
 # dfkaye gists
 + [`<select>` onchange, onkeyup event fix](https://gist.github.com/dfkaye/c6f674826d7d0e903fa2)
 + [supports-event-type ~ dom level 0 for @Rich_Harris](https://gist.github.com/dfkaye/6debeddde5295f637661)
