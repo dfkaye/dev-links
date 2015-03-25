@@ -39,6 +39,7 @@
 + [Getting started with Selenium Webdriver for node.js](http://bites.goodeggs.com/posts/selenium-webdriver-nodejs-tutorial/)
 + [Patterns ~ An accessible widget & pattern library](http://a11yproject.com/patterns/)
 + [dfkaye: TDD boilerplate for JavaScript](http://dfkaye.github.io/2014/03/04/tdd-boilerplate/)
++ [dfkaye: Preserve multiline strings with uglify](http://dfkaye.github.io/2014/03/24/preserve-multiline-strings-with-uglify/)
 
  
 # dfkaye gists
