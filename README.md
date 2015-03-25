@@ -1,4 +1,4 @@
-# dev-links to&hellips;
+# dev-links to&hellip;
 
 # repos
 + [node-quickcheck](https://github.com/mcandre/node-quickcheck)
