@@ -25,6 +25,7 @@ hrefs/links to web dev articles
 + [annyang! SpeechRecognition that just works](https://www.talater.com/annyang/)
 
 # articles
++ [Paul Irish requestAnimationFrame for Smart Animating](https://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
 + [writing command line tools with node.js](http://javascriptplayground.com/blog/2015/03/node-command-line-tool/)
 + [JSStudyGuide](https://github.com/dxhackers/JSStudyGuide)
 + [offline data in the browser](http://lattapartners.com/offline-data-in-the-browser/)
