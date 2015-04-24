@@ -26,7 +26,7 @@
 + [online svg editor](http://speckyboy.com/2015/03/06/online-editor-to-change-the-look-of-your-svgs/)
 + [sheetjs live grid demo](http://oss.sheetjs.com/)
 + [annyang! SpeechRecognition that just works](https://www.talater.com/annyang/)
-
++ [Elevator.js fixes those awkward "scroll to top" moments the old fashioned way](http://tholman.com/elevator.js/)
 
 # articles
 + [Paul Irish: requestAnimationFrame for Smart Animating](https://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
