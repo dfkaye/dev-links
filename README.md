@@ -17,6 +17,9 @@
 + [printable paper for UX sketch](http://inspirationhut.net/printable-paper/)
 + [reddit: favorite lightweight libs w/lots of punch](http://www.reddit.com/r/javascript/comments/24wwcy/what_are_your_favorite_lightweight_libraries_that/chbnmd8)
 + [parse5 HTML parsing/serialization toolset for Node and io.js.](http://inikulin.github.io/parse5/)
++ [add typos to your javascript](https://github.com/airportyh/tupo)
++ [Miller Madeiros: js-signals](http://millermedeiros.github.io/js-signals/)
++ [@substack: multi-dimensional data format](https://github.com/substack/mddf) 
 
 
 # demos
@@ -40,9 +43,15 @@
 + [Patterns ~ An accessible widget & pattern library](http://a11yproject.com/patterns/)
 + [dfkaye: TDD boilerplate for JavaScript](http://dfkaye.github.io/2014/03/04/tdd-boilerplate/)
 + [dfkaye: Preserve multiline strings with uglify](http://dfkaye.github.io/2014/03/24/preserve-multiline-strings-with-uglify/)
++ [flexbox and quantity queries](http://www.aaron-gustafson.com/notebook/playing-with-flexbox-and-quantity-queries/)
++ [javascript state pattern](robdodson.me/take-control-of-your-app-with-the-javascript-state-patten/)
++ [Club Ajax: plaintext v innerText v textContent](http://clubajax.org/plain-text-vs-innertext-vs-textcontent/)
++ [Observables are the root of all evil](http://www.thesoftwaresimpleton.com/blog/2015/04/07/observables-evil/)
++ [@mpersandjs in a nutshell](http://silvdb.github.io/2015/04/20/ampersand-js-in-a-nutshell/)
++ [Using schema.org with microdata](http://tink.uk/using-schema-org-with-microdata/)
 
- 
 # dfkaye gists
++ [get-factors-fast.js for @tevko](https://gist.github.com/dfkaye/ec3571efe73faa84372f)
 + [`<select>` onchange, onkeyup event fix](https://gist.github.com/dfkaye/c6f674826d7d0e903fa2)
 + [supports-event-type ~ dom level 0 for @Rich_Harris](https://gist.github.com/dfkaye/6debeddde5295f637661)
 + [javascript garbage collection for @duhroach](https://gist.github.com/dfkaye/cc9de5685442aa0978ef)
