@@ -20,6 +20,7 @@
 + [add typos to your javascript](https://github.com/airportyh/tupo)
 + [Miller Madeiros: js-signals](http://millermedeiros.github.io/js-signals/)
 + [@substack: multi-dimensional data format](https://github.com/substack/mddf) 
++ [progressively-enhanced collapsible regions using ARIA States and Properties](https://github.com/jgarber623/aria-collapsible)
 
 
 # demos
