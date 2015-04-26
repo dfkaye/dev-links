@@ -24,12 +24,16 @@
 
 
 # demos
++ [@heydonworks: Practical ARIA examples](http://heydonworks.com/practical_aria_examples/)
 + [online svg editor](http://speckyboy.com/2015/03/06/online-editor-to-change-the-look-of-your-svgs/)
 + [sheetjs live grid demo](http://oss.sheetjs.com/)
 + [annyang! SpeechRecognition that just works](https://www.talater.com/annyang/)
 + [Elevator.js fixes those awkward "scroll to top" moments the old fashioned way](http://tholman.com/elevator.js/)
 
+
 # articles
++ [@heydonworks: CSS classes are obsolete](http://www.smashingmagazine.com/2012/06/19/classes-where-were-going-we-dont-need-classes/)
++ [@heydonworks: Owl selector](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)
 + [Paul Irish: requestAnimationFrame for Smart Animating](https://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
 + [writing command line tools with node.js](http://javascriptplayground.com/blog/2015/03/node-command-line-tool/)
 + [JSStudyGuide](https://github.com/dxhackers/JSStudyGuide)
@@ -38,8 +42,6 @@
 + [automagically load gulp plugins](http://blog.donnywals.com/automagically-load-your-gulp-plugins/)
 + [essential gulp plugins](http://ipestov.com/essential-plugins-for-gulp/)
 + [Boiling React to few lines in jQuery](http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/)
-+ [Heydon Pickering: CSS classes are obsolete](http://www.smashingmagazine.com/2012/06/19/classes-where-were-going-we-dont-need-classes/)
-+ [Heydon Pickering: Owl selector](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)
 + [Getting started with Selenium Webdriver for node.js](http://bites.goodeggs.com/posts/selenium-webdriver-nodejs-tutorial/)
 + [Patterns ~ An accessible widget & pattern library](http://a11yproject.com/patterns/)
 + [dfkaye: TDD boilerplate for JavaScript](http://dfkaye.github.io/2014/03/04/tdd-boilerplate/)
