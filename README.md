@@ -1,6 +1,9 @@
 # dev-links to&hellip;
 
 # repos
+= [flyd: small stream/transducer frp js lib](https://github.com/paldepind/flyd)
++ [gregorio: html template in 100 lines](https://gist.github.com/jcgregorio/7fa68cdced1181416559)
++ [stealjs dependency loader](http://blog.bitovi.com/introducing-stealjs/)
 + [node-quickcheck](https://github.com/mcandre/node-quickcheck)
 + [webdrivercss ~ CSS regression testing](https://github.com/webdriverio/webdrivercss)
 + [Quixote - CSS Unit Testing](https://github.com/jamesshore/quixote)
@@ -31,7 +34,14 @@
 + [Elevator.js fixes those awkward "scroll to top" moments the old fashioned way](http://tholman.com/elevator.js/)
 
 
+# frameworks
++ [you probably shouldn't use a framework](http://snugug.com/musings/you-probably-shouldnt-use-javascript-framework)
++ [gregorio: i don't want your js framework but I love you](http://netpoetica.com/why-i-dont-want-your-javascript-framework-but-i-love-you/)
+
 # articles
++ [srcmaps](http://www.sitepoint.com/enhance-your-javascript-debugging-with-cross-browser-source-maps/)
++ [tim evko: don't load till it's needed](https://web-design-weekly.com/2015/04/30/dont-load-it-till-its-needed/)
++ [heydon: apps the feed back accessibility](http://www.smashingmagazine.com/2015/04/27/its-alive-apps-that-feed-back-accessibly/)
 + [@heydonworks: CSS classes are obsolete](http://www.smashingmagazine.com/2012/06/19/classes-where-were-going-we-dont-need-classes/)
 + [@heydonworks: Owl selector](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)
 + [Paul Irish: requestAnimationFrame for Smart Animating](https://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
