@@ -64,6 +64,10 @@
 + [Using schema.org with microdata](http://tink.uk/using-schema-org-with-microdata/)
 
 # dfkaye gists
++ [for-in loop implementations in some different languages](https://gist.github.com/dfkaye/4401e77d27bd88bf12a4)
++ [fluent comparators in js](https://gist.github.com/dfkaye/ca8d518aaab092df4681)
++ [IE9 layout thrashing issue ~ not solved yet](https://gist.github.com/dfkaye/bfbfa09a2377a57137dc)
++ [extending-native-dom-prototypes-without-collisions ~ alternative implementation of idea by @LeaVerou](https://gist.github.com/dfkaye/96ebc3fb4787a6cae6bb)
 + [get-factors-fast.js for @tevko](https://gist.github.com/dfkaye/ec3571efe73faa84372f)
 + [`<select>` onchange, onkeyup event fix](https://gist.github.com/dfkaye/c6f674826d7d0e903fa2)
 + [supports-event-type ~ dom level 0 for @Rich_Harris](https://gist.github.com/dfkaye/6debeddde5295f637661)
