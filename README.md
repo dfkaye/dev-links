@@ -1,7 +1,9 @@
 # dev-links to&hellip;
 
 # repos
-= [flyd: small stream/transducer frp js lib](https://github.com/paldepind/flyd)
++ [justice: A performance metric bar with a streaming FPS graph.](okor.github.io/justice/)
++ [json-rest-server](www.betterpixels.co.uk/projects/2015/05/09/mock-up-your-rest-api-with-json-server/)
++ [flyd: small stream/transducer frp js lib](https://github.com/paldepind/flyd)
 + [gregorio: html template in 100 lines](https://gist.github.com/jcgregorio/7fa68cdced1181416559)
 + [stealjs dependency loader](http://blog.bitovi.com/introducing-stealjs/)
 + [node-quickcheck](https://github.com/mcandre/node-quickcheck)
@@ -39,6 +41,8 @@
 + [gregorio: i don't want your js framework but I love you](http://netpoetica.com/why-i-dont-want-your-javascript-framework-but-i-love-you/)
 
 # articles
++ [prevent layout thrashing w/fastdom ~ @wilsonpage](wilsonpage.co.uk/preventing-layout-thrashing/)
++ [atomic css](http://acss.io/)
 + [srcmaps](http://www.sitepoint.com/enhance-your-javascript-debugging-with-cross-browser-source-maps/)
 + [tim evko: don't load till it's needed](https://web-design-weekly.com/2015/04/30/dont-load-it-till-its-needed/)
 + [heydon: apps the feed back accessibility](http://www.smashingmagazine.com/2015/04/27/its-alive-apps-that-feed-back-accessibly/)
