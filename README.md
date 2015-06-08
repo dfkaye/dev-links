@@ -1,6 +1,7 @@
 # dev-links to&hellip;
 
 # repos
++ [lazy arrays in javascript](https://github.com/Wolfy87/lazy-array)
 + [justice: performance metric bar with a streaming FPS graph.](okor.github.io/justice/)
 + [json-rest-server](www.betterpixels.co.uk/projects/2015/05/09/mock-up-your-rest-api-with-json-server/)
 + [flyd: small stream/transducer frp js lib](https://github.com/paldepind/flyd)
@@ -44,7 +45,6 @@
 # articles
 + [json to xml with node.js](https://templth.wordpress.com/2011/06/07/manipulating-json-and-xml-with-node-js/)
 + [xpath in javascript](http://timkadlec.com/2008/02/xpath-in-javascript-introduction/)
-+ [lazy arrays in javascript](http://oli.me.uk/2015/05/31/lazy-arrays-in-javascript/)
 + [prevent layout thrashing w/fastdom ~ @wilsonpage](wilsonpage.co.uk/preventing-layout-thrashing/)
 + [atomic css](http://acss.io/)
 + [srcmaps](http://www.sitepoint.com/enhance-your-javascript-debugging-with-cross-browser-source-maps/)
