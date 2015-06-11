@@ -41,7 +41,7 @@
 
 # gists
 + [nice scripts collection in a package.json](https://github.com/jeffbski/base-react-min/blob/master/package.json#L20-36)
-
++ 
 
 # frameworks
 + [you probably shouldn't use a framework](http://snugug.com/musings/you-probably-shouldnt-use-javascript-framework)
@@ -80,6 +80,8 @@
 
 
 # dfkaye gists
++ [Safari-wrench xpath library by @ravdaniels](https://gist.github.com/dfkaye/f90f2b6d7750fc2dd062)
++ [Tiny Observable implementation by @jhusain](https://gist.github.com/dfkaye/5d6251669f023f8fcc42)
 + [for-in loop implementations in some different languages](https://gist.github.com/dfkaye/4401e77d27bd88bf12a4)
 + [fluent comparators in js](https://gist.github.com/dfkaye/ca8d518aaab092df4681)
 + [IE9 layout thrashing issue ~ not solved yet](https://gist.github.com/dfkaye/bfbfa09a2377a57137dc)
