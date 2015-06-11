@@ -1,6 +1,7 @@
 # dev-links to&hellip;
 
 # repos
++ [AXE ~ Accessibility engine for automated Web UI testing](https://github.com/dequelabs/axe-core)
 + [lazy arrays in javascript](https://github.com/Wolfy87/lazy-array)
 + [justice: performance metric bar with a streaming FPS graph.](okor.github.io/justice/)
 + [json-rest-server](www.betterpixels.co.uk/projects/2015/05/09/mock-up-your-rest-api-with-json-server/)
@@ -30,11 +31,16 @@
 
 
 # demos
++ [How to Center in CSS](http://howtocenterincss.com/)
 + [@heydonworks: Practical ARIA examples](http://heydonworks.com/practical_aria_examples/)
 + [online svg editor](http://speckyboy.com/2015/03/06/online-editor-to-change-the-look-of-your-svgs/)
 + [sheetjs live grid demo](http://oss.sheetjs.com/)
 + [annyang! SpeechRecognition that just works](https://www.talater.com/annyang/)
 + [elevator.js fixes those awkward "scroll to top" moments the old fashioned way](http://tholman.com/elevator.js/)
+
+
+# gists
++ [nice scripts collection in a package.json](https://github.com/jeffbski/base-react-min/blob/master/package.json#L20-36)
 
 
 # frameworks
@@ -43,7 +49,8 @@
 
 
 # articles
-+ [json to xml with node.js](https://templth.wordpress.com/2011/06/07/manipulating-json-and-xml-with-node-js/)
++ [Reloader snippet that reloads itself ](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html#the-future-is-live)
++ [json to xml with node.js ~ see n.node() api fragments ](https://templth.wordpress.com/2011/06/07/manipulating-json-and-xml-with-node-js/)
 + [xpath in javascript](http://timkadlec.com/2008/02/xpath-in-javascript-introduction/)
 + [prevent layout thrashing w/fastdom ~ @wilsonpage](wilsonpage.co.uk/preventing-layout-thrashing/)
 + [atomic css](http://acss.io/)
@@ -70,6 +77,7 @@
 + [Observables are the root of all evil](http://www.thesoftwaresimpleton.com/blog/2015/04/07/observables-evil/)
 + [@mpersandjs in a nutshell](http://silvdb.github.io/2015/04/20/ampersand-js-in-a-nutshell/)
 + [Using schema.org with microdata](http://tink.uk/using-schema-org-with-microdata/)
+
 
 # dfkaye gists
 + [for-in loop implementations in some different languages](https://gist.github.com/dfkaye/4401e77d27bd88bf12a4)
