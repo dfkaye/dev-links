@@ -39,16 +39,14 @@
 + [elevator.js fixes those awkward "scroll to top" moments the old fashioned way](http://tholman.com/elevator.js/)
 
 
-# gists
-+ [nice scripts collection in a package.json](https://github.com/jeffbski/base-react-min/blob/master/package.json#L20-36)
-+ 
-
 # frameworks
 + [you probably shouldn't use a framework](http://snugug.com/musings/you-probably-shouldnt-use-javascript-framework)
 + [Joe Gregorio: Why I don't want your js framework but I love you](http://netpoetica.com/why-i-dont-want-your-javascript-framework-but-i-love-you/)
 
 
 # articles
++ [use npm as a build tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
+  + e.g., [nice scripts collection in a package.json](https://github.com/jeffbski/base-react-min/blob/master/package.json#L20-36)
 + [Reloader snippet that reloads itself ](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html#the-future-is-live)
 + [json to xml with node.js ~ see n.node() api fragments ](https://templth.wordpress.com/2011/06/07/manipulating-json-and-xml-with-node-js/)
 + [xpath in javascript](http://timkadlec.com/2008/02/xpath-in-javascript-introduction/)
