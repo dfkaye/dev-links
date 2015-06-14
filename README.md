@@ -20,6 +20,7 @@
 + [justice: performance metric bar with a streaming FPS graph.](okor.github.io/justice/)
 + [json-rest-server](www.betterpixels.co.uk/projects/2015/05/09/mock-up-your-rest-api-with-json-server/)
 + [flyd: small stream/transducer frp js lib](https://github.com/paldepind/flyd)
++ [reactive.js by @mattbaker](https://github.com/mattbaker/Reactive.js)
 + [gregorio: html template in 100 lines](https://gist.github.com/jcgregorio/7fa68cdced1181416559)
 + [stealjs dependency loader](http://blog.bitovi.com/introducing-stealjs/)
 + [node-quickcheck](https://github.com/mcandre/node-quickcheck)
