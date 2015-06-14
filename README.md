@@ -1,7 +1,14 @@
 # dev-links to&hellip;
 
-## todo 
-reorganize
+## todo ~ reorganize 
++ a11y, richsnippets, cssattributes, owlselector
++ paradigms
++ repos
++ testing
++ demos
++ opinions
++ my gists
+
 
 # repos
 + [@zzzzBov Use this when you want to handle query strings correctly](https://github.com/zzzzBov/QueryStringJS)
@@ -29,7 +36,7 @@ reorganize
 + [exceljs](https://github.com/guyonroche/exceljs)
 + [number, money and currency parsing/formatting](https://github.com/openexchangerates/accounting.js)
 + [printable paper for UX sketch](http://inspirationhut.net/printable-paper/)
-+ [reddit: favorite lightweight libs w/lots of punch](http://www.reddit.com/r/javascript/comments/24wwcy/what_are_your_favorite_lightweight_libraries_that/chbnmd8)
++ [reddit: favorite lightweight libs w/lots of punch ](http://www.reddit.com/r/javascript/comments/24wwcy/what_are_your_favorite_lightweight_libraries_that/chbnmd8)
 + [parse5 HTML parsing/serialization toolset for Node and io.js.](http://inikulin.github.io/parse5/)
 + [add typos to your javascript](https://github.com/airportyh/tupo)
 + [Miller Madeiros: js-signals](http://millermedeiros.github.io/js-signals/)
@@ -53,11 +60,12 @@ reorganize
 
 
 # articles
++ [MICRODATA, JSON-LD & SCHEMA.ORG RICH SNIPPETS ](http://builtvisible.com/micro-data-schema-org-guide-generating-rich-snippets/)
 + [@cjno Immutability in React](http://www.sitepoint.com/immutability-react/)
-+ [@cjno createComponent: 18 lines on top of React's non-JSX-hostile API.](https://gist.github.com/cjohansen/8f9001749dba5b9b306f)
++ [@cjno createComponent: 18 lines on top of React's non-JSX-hostile API ](https://gist.github.com/cjohansen/8f9001749dba5b9b306f)
 + [css-tricks: attribute selectors](https://css-tricks.com/almanac/selectors/a/attribute/)
 + [use npm as a build tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
-  + e.g., [nice scripts collection in a package.json](https://github.com/jeffbski/base-react-min/blob/master/package.json#L20-36)
+  + e.g., [nice scripts collection in a package.json ](https://github.com/jeffbski/base-react-min/blob/master/package.json#L20-36)
 + [Reloader snippet that reloads itself ](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html#the-future-is-live)
 + [json to xml with node.js ~ see n.node() api fragments ](https://templth.wordpress.com/2011/06/07/manipulating-json-and-xml-with-node-js/)
 + [xpath in javascript](http://timkadlec.com/2008/02/xpath-in-javascript-introduction/)
@@ -65,10 +73,10 @@ reorganize
 + [atomic css](http://acss.io/)
 + [srcmaps](http://www.sitepoint.com/enhance-your-javascript-debugging-with-cross-browser-source-maps/)
 + [@tevko: don't load till it's needed](https://web-design-weekly.com/2015/04/30/dont-load-it-till-its-needed/)
-+ [@heydonworks: apps the feed back accessibility](http://www.smashingmagazine.com/2015/04/27/its-alive-apps-that-feed-back-accessibly/)
-+ [@heydonworks: CSS classes are obsolete](http://www.smashingmagazine.com/2012/06/19/classes-where-were-going-we-dont-need-classes/)
++ [@heydonworks: apps the feed back accessibility ](http://www.smashingmagazine.com/2015/04/27/its-alive-apps-that-feed-back-accessibly/)
++ [@heydonworks: CSS classes are obsolete ](http://www.smashingmagazine.com/2012/06/19/classes-where-were-going-we-dont-need-classes/)
 + [@heydonworks: Owl selector](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)
-+ [Paul Irish: requestAnimationFrame for Smart Animating](https://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
++ [Paul Irish: requestAnimationFrame for Smart Animating ](https://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
 + [writing command line tools with node.js](http://javascriptplayground.com/blog/2015/03/node-command-line-tool/)
 + [JSStudyGuide](https://github.com/dxhackers/JSStudyGuide)
 + [offline data in the browser](http://lattapartners.com/offline-data-in-the-browser/)
@@ -79,7 +87,7 @@ reorganize
 + [Getting started with Selenium Webdriver for node.js](http://bites.goodeggs.com/posts/selenium-webdriver-nodejs-tutorial/)
 + [Patterns ~ An accessible widget & pattern library](http://a11yproject.com/patterns/)
 + [@dfkaye: TDD boilerplate for JavaScript](http://dfkaye.github.io/2014/03/04/tdd-boilerplate/)
-+ [@dfkaye: Preserve multiline strings with uglify](http://dfkaye.github.io/2014/03/24/preserve-multiline-strings-with-uglify/)
++ [@dfkaye: Preserve multiline strings with uglify ](http://dfkaye.github.io/2014/03/24/preserve-multiline-strings-with-uglify/)
 + [flexbox and quantity queries](http://www.aaron-gustafson.com/notebook/playing-with-flexbox-and-quantity-queries/)
 + [javascript state pattern](robdodson.me/take-control-of-your-app-with-the-javascript-state-patten/)
 + [Club Ajax: plaintext v innerText v textContent](http://clubajax.org/plain-text-vs-innertext-vs-textcontent/)
@@ -94,7 +102,7 @@ reorganize
 + [for-in loop implementations in some different languages](https://gist.github.com/dfkaye/4401e77d27bd88bf12a4)
 + [fluent comparators in js](https://gist.github.com/dfkaye/ca8d518aaab092df4681)
 + [IE9 layout thrashing issue ~ not solved yet](https://gist.github.com/dfkaye/bfbfa09a2377a57137dc)
-+ [extending-native-dom-prototypes-without-collisions ~ alternative implementation of idea by @LeaVerou](https://gist.github.com/dfkaye/96ebc3fb4787a6cae6bb)
++ [extending-native-dom-prototypes-without-collisions ~ alternative implementation of idea by @LeaVerou ](https://gist.github.com/dfkaye/96ebc3fb4787a6cae6bb)
 + [get-factors-fast.js for @tevko](https://gist.github.com/dfkaye/ec3571efe73faa84372f)
 + [`<select>` onchange, onkeyup event fix (actually anti-pattern)](https://gist.github.com/dfkaye/c6f674826d7d0e903fa2)
 + [supports-event-type ~ dom level 0 for @Rich_Harris](https://gist.github.com/dfkaye/6debeddde5295f637661)
