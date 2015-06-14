@@ -1,6 +1,9 @@
 # dev-links to&hellip;
 
 # repos
++ [tota11y ~ accessibility visualization toolkit](http://khan.github.io/tota11y/)
++ [trine ~ functional javascript lib](https://github.com/jussi-kalliokoski/trine)
++ [@_ericelliott ~ react-stampit](https://github.com/stampit-org/react-stampit)
 + [AXE ~ Accessibility engine for automated Web UI testing](https://github.com/dequelabs/axe-core)
 + [lazy arrays in javascript](https://github.com/Wolfy87/lazy-array)
 + [justice: performance metric bar with a streaming FPS graph.](okor.github.io/justice/)
@@ -31,6 +34,7 @@
 
 
 # demos
++ [schema creator for microdata/formats](http://schema-creator.org/)
 + [How to Center in CSS](http://howtocenterincss.com/)
 + [@heydonworks: Practical ARIA examples](http://heydonworks.com/practical_aria_examples/)
 + [online svg editor](http://speckyboy.com/2015/03/06/online-editor-to-change-the-look-of-your-svgs/)
@@ -45,6 +49,9 @@
 
 
 # articles
++ [@cjno Immutability in React](http://www.sitepoint.com/immutability-react/)
++ [@cjno createComponent: 18 lines on top of React's non-JSX-hostile API.](https://gist.github.com/cjohansen/8f9001749dba5b9b306f)
++ [css-tricks: attribute selectors](https://css-tricks.com/almanac/selectors/a/attribute/)
 + [use npm as a build tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
   + e.g., [nice scripts collection in a package.json](https://github.com/jeffbski/base-react-min/blob/master/package.json#L20-36)
 + [Reloader snippet that reloads itself ](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html#the-future-is-live)
