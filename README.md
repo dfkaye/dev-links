@@ -47,6 +47,7 @@
 
 
 # demos
++ [scan your site to assess the security based HTTP response headers](https://securityheaders.io/)
 + [schema creator for microdata/formats](http://schema-creator.org/)
 + [How to Center in CSS](http://howtocenterincss.com/)
 + [@heydonworks: Practical ARIA examples](http://heydonworks.com/practical_aria_examples/)
@@ -62,6 +63,7 @@
 
 
 # articles
++ [Things I've Learned About Building & Coding HTML Email Templates](http://www.leemunroe.com/building-html-email/)
 + [MICRODATA, JSON-LD & SCHEMA.ORG RICH SNIPPETS ](http://builtvisible.com/micro-data-schema-org-guide-generating-rich-snippets/)
 + [@cjno Immutability in React](http://www.sitepoint.com/immutability-react/)
 + [@cjno createComponent: 18 lines on top of React's non-JSX-hostile API ](https://gist.github.com/cjohansen/8f9001749dba5b9b306f)
