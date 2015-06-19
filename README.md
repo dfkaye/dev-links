@@ -11,6 +11,7 @@
 
 
 # repos
++ [kyle fuller on hyperdrive](http://blog.apiary.io/2015/06/04/Hyperdrive/) and [api blueprint](https://apiblueprint.org/) ~ all our specs should be written this way
 + [simpleWebRTC ~ build cool stuff with WebRTC in five minutes](https://simplewebrtc.com/)
 + [@zzzzBov Use this when you want to handle query strings correctly](https://github.com/zzzzBov/QueryStringJS)
 + [tota11y ~ accessibility visualization toolkit](http://khan.github.io/tota11y/)
@@ -63,6 +64,7 @@
 
 
 # articles
++ [stoyan ~ CSS performance: UI with fewer images](http://www.phpied.com/css-performance-ui-with-fewer-images/)
 + [How Can I Make My Forms A Little More Accessible? ](https://medium.com/@roblcopeland/how-can-i-make-my-forms-a-little-more-accessible-1726d63210f2)
 + ha ha ~ XSLT and JSP taught me this 10 years ago ~ ha ha ha => [Unit testing React components without a DOM
 ](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
@@ -73,7 +75,7 @@
 + [css-tricks: attribute selectors](https://css-tricks.com/almanac/selectors/a/attribute/)
 + [use npm as a build tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
   + e.g., [nice scripts collection in a package.json ](https://github.com/jeffbski/base-react-min/blob/master/package.json#L20-36)
-+ [Reloader snippet that reloads itself ](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html#the-future-is-live)
++ [reloader that reloads itself ](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html#the-future-is-live)
 + [json to xml with node.js ~ see n.node() api fragments ](https://templth.wordpress.com/2011/06/07/manipulating-json-and-xml-with-node-js/)
 + [xpath in javascript](http://timkadlec.com/2008/02/xpath-in-javascript-introduction/)
 + [prevent layout thrashing w/fastdom ~ @wilsonpage](wilsonpage.co.uk/preventing-layout-thrashing/)
@@ -104,6 +106,9 @@
 
 
 # dfkaye gists
++ [reverse-polish reducer interview test](https://gist.github.com/dfkaye/aeba0436f00ba3113a42)
++ [traffic signal interview test](https://gist.github.com/dfkaye/612d34a66b9bb74efc29)
++ [implement a Set in javascript ~ interview test](https://gist.github.com/dfkaye/dc108de2b2016c3e8dd0)
 + [Safari-wrench xpath library by @ravdaniels](https://gist.github.com/dfkaye/f90f2b6d7750fc2dd062)
 + [Tiny Observable implementation by @jhusain](https://gist.github.com/dfkaye/5d6251669f023f8fcc42)
 + [for-in loop implementations in some different languages](https://gist.github.com/dfkaye/4401e77d27bd88bf12a4)
