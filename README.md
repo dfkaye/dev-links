@@ -48,6 +48,7 @@
 
 
 # demos
++ [d3: what's warming the world](http://www.bloomberg.com/graphics/2015-whats-warming-the-world/)
 + [scan your site to assess the security based HTTP response headers](https://securityheaders.io/)
 + [schema creator for microdata/formats](http://schema-creator.org/)
 + [How to Center in CSS](http://howtocenterincss.com/)
@@ -64,6 +65,7 @@
 
 
 # articles
++ [The Problem with Responsive Design](http://www.webdesignerdepot.com/2015/06/responsive-design-is-failing-mobile-ux/)
 + [stoyan ~ CSS performance: UI with fewer images](http://www.phpied.com/css-performance-ui-with-fewer-images/)
 + [How Can I Make My Forms A Little More Accessible? ](https://medium.com/@roblcopeland/how-can-i-make-my-forms-a-little-more-accessible-1726d63210f2)
 + ha ha ~ XSLT and JSP taught me this 10 years ago ~ ha ha ha => [Unit testing React components without a DOM
