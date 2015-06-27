@@ -1,16 +1,13 @@
 # dev-links to&hellip;
 
-## todo ~ reorganize 
-+ a11y, richsnippets, cssattributes, owlselector
-+ paradigms
-+ repos
-+ testing
-+ demos
-+ opinions
-+ my gists
-
-
 # repos
++ [lokijs: A fast, in-memory document-oriented datastore for node.js, browser and cordova](http://lokijs.org/)
++ [forward chaining Rules Engine](https://github.com/mithunsatheesh/node-rules)
++ [chakram: rest api testing framework](http://dareid.github.io/chakram/)
++ [fstorm: incredibly fast & reliable filewriter](https://github.com/leeluolee/fstorm)
++ [rollup: next-gen ES6 module bundler](https://github.com/rollup/rollup)
++ [display filepaths as a browsable directoryTree (jQuery)](https://github.com/samzscott/directoryTree)
++ [sanitize.css (scss)](https://github.com/jonathantneal/sanitize.css)
 + [kyle fuller on hyperdrive](http://blog.apiary.io/2015/06/04/Hyperdrive/) and [api blueprint](https://apiblueprint.org/) ~ all our specs should be written this way
 + [simpleWebRTC ~ build cool stuff with WebRTC in five minutes](https://simplewebrtc.com/)
 + [@zzzzBov Use this when you want to handle query strings correctly](https://github.com/zzzzBov/QueryStringJS)
