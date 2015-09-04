@@ -55,6 +55,8 @@
 + [annyang! SpeechRecognition that just works](https://www.talater.com/annyang/)
 + [elevator.js fixes those awkward "scroll to top" moments the old fashioned way](http://tholman.com/elevator.js/)
 
+# tools
++ [ColorZilla](http://www.colorzilla.com/)
 
 # frameworks
 + [you probably shouldn't use a framework](http://snugug.com/musings/you-probably-shouldnt-use-javascript-framework)
@@ -62,6 +64,9 @@
 
 
 # articles
++ [backward compatible CSS3 transitions](cases.azoft.com/backwards-compatible-css3-transitions/)
++ [postcss quantity queries](https://github.com/pascalduez/postcss-quantity-queries)
++ [using schema.org with microdata](tink.uk/using-schema-org-with-microdata/)
 + [Obvious Always Wins ~ pitfalls of hamburger menus (hidden menu lists)](http://www.lukew.com/ff/entry.asp?1945)
 + [The Problem with Responsive Design](http://www.webdesignerdepot.com/2015/06/responsive-design-is-failing-mobile-ux/)
 + [stoyan ~ CSS performance: UI with fewer images](http://www.phpied.com/css-performance-ui-with-fewer-images/)
