@@ -1,6 +1,22 @@
 # dev-links to&hellip;
 
-# repos
+# repos and snippets
++ [jade-query ~ makes `jade` possible in browser](https://github.com/charlieamer/jade-query)
++ [SUq ~ nodejs Scraping Utility for lazy people](https://github.com/MattMcFarland/SUq)
++ [minigrid - 2kB zero-dependency minimal cascading grid layout](http://alves.im/minigrid/)
++ [genthaler's jetty jsp unit test example](https://github.com/genthaler/jetty-jsp-unit-test-simple)
++ [protomorphism ~ js polymorphism](http://tobyho.com/2015/06/23/polymorphism-that-just-works/)
++ [rucksack ~ postcss bag of superpowers](http://simplaio.github.io/rucksack/)
++ [writ ~ opinionated classless styles for semantic html](https://writ.cmcenroe.me/)
++ [lost: postcss fractional grid system](http://corysimmons.github.io/lost/)
++ [deep-type ~ JS GraphQL-ish Type Checker (CoffeeScript)](https://github.com/BSteephenson/Deep-Type)
++ [abba ~ A/B test analysis](https://github.com/thumbtack/abba)
++ [morphdom ~ dom diff/patch w/o the virtual part](https://github.com/patrick-steele-idem/morphdom)
++ [purifycss ~ remove unused CSS even in SPAs](https://github.com/purifycss/purifycss)
++ [fastn ~ "forget frameworks, grab a nail gun"](http://korynunn.github.io/fastn/)
++ [simpler pushstate to store state in a URL](https://github.com/eugene-eeo/stateless.js)
++ [get queryString in JavaScript](http://www.sharepointfundas.com/get-query-string-in-javascript/)
++ [crossbrowser hashchange event](http://stackoverflow.com/questions/9339865/get-the-hashchange-event-to-work-in-all-browsers-including-ie7)
 + [lokijs: A fast, in-memory document-oriented datastore for node.js, browser and cordova](http://lokijs.org/)
 + [forward chaining Rules Engine](https://github.com/mithunsatheesh/node-rules)
 + [chakram: rest api testing framework](http://dareid.github.io/chakram/)
@@ -44,7 +60,13 @@
 + [progressively-enhanced collapsible regions using ARIA States and Properties](https://github.com/jgarber623/aria-collapsible)
 
 
-# demos
+# demos and tools
++ [learnjsdata: manipulating data using JavaScript ](learnjsdata.com)
++ [daspec ~ executable specs in markdown](http://daspec.com/)
++ [upup ~ offline-first](https://www.talater.com/upup/)
++ [mermaid Diagrams and flowcharts from textsimilar to markdown](http://knsv.github.io/mermaid/live_editor/)
++ [WebGL fundamentals](http://webglfundamentals.org/)
++ ["Edit this webpage with your voice" using the WebSpeech API](https://shaungallagher.github.io/say_restyle/)
 + [d3: what's warming the world](http://www.bloomberg.com/graphics/2015-whats-warming-the-world/)
 + [scan your site to assess the security based HTTP response headers](https://securityheaders.io/)
 + [schema creator for microdata/formats](http://schema-creator.org/)
@@ -54,9 +76,9 @@
 + [sheetjs live grid demo](http://oss.sheetjs.com/)
 + [annyang! SpeechRecognition that just works](https://www.talater.com/annyang/)
 + [elevator.js fixes those awkward "scroll to top" moments the old fashioned way](http://tholman.com/elevator.js/)
-
-# tools
 + [ColorZilla](http://www.colorzilla.com/)
++ [CSS stats](http://cssstats.com/)
+
 
 # frameworks
 + [you probably shouldn't use a framework](http://snugug.com/musings/you-probably-shouldnt-use-javascript-framework)
@@ -64,9 +86,16 @@
 
 
 # articles
++ [CSS TDD using Quixote, Mocha, and Karma](http://www.codecraftuk.org/events/2015/02/css-tdd-review/)
++ [Stoyan Stefanovich on repaint/reflow...](http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
++ [10 Ways to Minimize Reflows](http://www.sitepoint.com/10-ways-minimize-reflows-improve-performance/)
++ [Making Charts with CSS](https://css-tricks.com/making-charts-with-css/)
++ [Understanding Critical CSS](http://www.smashingmagazine.com/2015/08/understanding-critical-css/)
++ [Laying Out A Flexible Future For Web Design With Flexbox](http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/)
 + [backward compatible CSS3 transitions](cases.azoft.com/backwards-compatible-css3-transitions/)
++ [Constructing CSS Quantity Queries On The Fly](http://www.smashingmagazine.com/2015/07/constructing-css-quantity-queries-on-the-fly/)
++ [Quantity Ordering With CSS](http://www.smashingmagazine.com/2015/07/quantity-ordering-with-css/)
 + [postcss quantity queries](https://github.com/pascalduez/postcss-quantity-queries)
-+ [using schema.org with microdata](tink.uk/using-schema-org-with-microdata/)
 + [Obvious Always Wins ~ pitfalls of hamburger menus (hidden menu lists)](http://www.lukew.com/ff/entry.asp?1945)
 + [The Problem with Responsive Design](http://www.webdesignerdepot.com/2015/06/responsive-design-is-failing-mobile-ux/)
 + [stoyan ~ CSS performance: UI with fewer images](http://www.phpied.com/css-performance-ui-with-fewer-images/)
@@ -111,9 +140,18 @@
 
 
 # dfkaye gists
++ [`add()` answer to challenge ~ ES3-compatible version](https://gist.github.com/dfkaye/5c651c4f3107cefa3ec7)
++ [`supports()` function using `Function()` constructor](https://gist.github.com/dfkaye/533f76e43e94145aba0d)
++ [jade+backbone+brequire browser example](https://gist.github.com/dfkaye/07d216c07fbfbf92789c)
++ [fibonacci et al (mobileIron)](https://gist.github.com/dfkaye/f41b679285f5972991e6)
++ [dumplist (weatherbill)](https://gist.github.com/dfkaye/d63747bb98c468de60e3)
++ [fluent operable](https://gist.github.com/dfkaye/87895e1ee2c297429214)
++ [fluent comparable](https://gist.github.com/dfkaye/90b6243772a21259f0bf)
++ [state as `function.toString` (or `fn.valueOf`)](https://gist.github.com/dfkaye/7b62e6e8139436306f4b)
++ [parenthetical grouping](https://gist.github.com/dfkaye/40c51d3a59e6a9d433a1)
 + [reverse-polish reducer interview test](https://gist.github.com/dfkaye/aeba0436f00ba3113a42)
-+ [traffic signal interview test](https://gist.github.com/dfkaye/612d34a66b9bb74efc29)
-+ [implement a Set in javascript ~ interview test](https://gist.github.com/dfkaye/dc108de2b2016c3e8dd0)
++ [traffic signal interview test (vevo)](https://gist.github.com/dfkaye/612d34a66b9bb74efc29)
++ [implement a Set in javascript ~ interview test (vevo)](https://gist.github.com/dfkaye/dc108de2b2016c3e8dd0)
 + [Safari-wrench xpath library by @ravdaniels](https://gist.github.com/dfkaye/f90f2b6d7750fc2dd062)
 + [Tiny Observable implementation by @jhusain](https://gist.github.com/dfkaye/5d6251669f023f8fcc42)
 + [for-in loop implementations in some different languages](https://gist.github.com/dfkaye/4401e77d27bd88bf12a4)
