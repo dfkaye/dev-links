@@ -129,8 +129,6 @@
 + [Boiling React to few lines in jQuery](http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/)
 + [Getting started with Selenium Webdriver for node.js](http://bites.goodeggs.com/posts/selenium-webdriver-nodejs-tutorial/)
 + [Patterns ~ An accessible widget & pattern library](http://a11yproject.com/patterns/)
-+ [@dfkaye: TDD boilerplate for JavaScript](http://dfkaye.github.io/2014/03/04/tdd-boilerplate/)
-+ [@dfkaye: Preserve multiline strings with uglify ](http://dfkaye.github.io/2014/03/24/preserve-multiline-strings-with-uglify/)
 + [flexbox and quantity queries](http://www.aaron-gustafson.com/notebook/playing-with-flexbox-and-quantity-queries/)
 + [javascript state pattern](robdodson.me/take-control-of-your-app-with-the-javascript-state-patten/)
 + [Club Ajax: plaintext v innerText v textContent](http://clubajax.org/plain-text-vs-innertext-vs-textcontent/)
@@ -138,6 +136,11 @@
 + [@mpersandjs in a nutshell](http://silvdb.github.io/2015/04/20/ampersand-js-in-a-nutshell/)
 + [Using schema.org with microdata](http://tink.uk/using-schema-org-with-microdata/)
 
+# dfkaye posts
++ [@dfkaye: TDD boilerplate for JavaScript](https://dfkaye.wordpress.com/2015/07/29/tdd-javascript-boilerplate/)
++ [JavaScript’s `eval()` and `Function()`](https://dfkaye.wordpress.com/2015/07/31/javascripts-eval-and-function/)
++ [@dfkaye: Preserve multiline strings with uglify ](https://dfkaye.wordpress.com/2015/07/31/preserving-multiline-strings-with-uglifyjs2/)
++ [Mocking – not testing – private functions in JavaScript](https://dfkaye.wordpress.com/2015/08/27/mocking-not-testing-private-functions-in-javascript/)
 
 # dfkaye gists
 + [`add()` answer to challenge ~ ES3-compatible version](https://gist.github.com/dfkaye/5c651c4f3107cefa3ec7)
