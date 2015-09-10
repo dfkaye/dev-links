@@ -1,6 +1,11 @@
 # dev-links to&hellip;
 
 # repos and snippets
++ [nito ~ Minimal component library for jQuery, inspired by React and Riot](https://github.com/morris/nito)
++ [restyle object defs to CSS](https://github.com/WebReflection/restyle)
++ [jss loader for webpack](https://github.com/markdalgleish/jss-loader)
++ [jss ~ JSON to stylesheet compiler](https://github.com/jsstyles/jss)
++ [modcss Node.js require extension and Browserify transform to turn CSS or Stylus into JSON for React components](https://github.com/jameswomack/modcss)
 + [jade-query ~ makes `jade` possible in browser](https://github.com/charlieamer/jade-query)
 + [SUq ~ nodejs Scraping Utility for lazy people](https://github.com/MattMcFarland/SUq)
 + [minigrid - 2kB zero-dependency minimal cascading grid layout](http://alves.im/minigrid/)
@@ -61,6 +66,7 @@
 
 
 # demos and tools
++ [@heydonworks Getting Nowhere with CSS Best Practices](http://slides.com/heydon/getting-nowhere-with-css-best-practices#/)
 + [learnjsdata: manipulating data using JavaScript ](learnjsdata.com)
 + [daspec ~ executable specs in markdown](http://daspec.com/)
 + [upup ~ offline-first](https://www.talater.com/upup/)
@@ -86,6 +92,7 @@
 
 
 # articles
++ [The role of the Front-end Developer by @adambsilver](http://adamsilver.io/articles/the-role-of-the-front-end-developer/)
 + [CSS TDD using Quixote, Mocha, and Karma](http://www.codecraftuk.org/events/2015/02/css-tdd-review/)
 + [Stoyan Stefanovich on repaint/reflow...](http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
 + [10 Ways to Minimize Reflows](http://www.sitepoint.com/10-ways-minimize-reflows-improve-performance/)
