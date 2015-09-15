@@ -29,7 +29,8 @@
 + [rollup: next-gen ES6 module bundler](https://github.com/rollup/rollup)
 + [display filepaths as a browsable directoryTree (jQuery)](https://github.com/samzscott/directoryTree)
 + [sanitize.css (scss)](https://github.com/jonathantneal/sanitize.css)
-+ [kyle fuller on hyperdrive](http://blog.apiary.io/2015/06/04/Hyperdrive/) and [api blueprint](https://apiblueprint.org/) ~ all our specs should be written this way
++ [daspec ~ executable specs in markdown](http://daspec.com/) __as if @gojkoadzic had read my mind&hellip;__
++ [kyle fuller on hyperdrive](http://blog.apiary.io/2015/06/04/Hyperdrive/) and [api blueprint](https://apiblueprint.org/) ~ __all our specs should be written this way__
 + [simpleWebRTC ~ build cool stuff with WebRTC in five minutes](https://simplewebrtc.com/)
 + [@zzzzBov Use this when you want to handle query strings correctly](https://github.com/zzzzBov/QueryStringJS)
 + [tota11y ~ accessibility visualization toolkit](http://khan.github.io/tota11y/)
@@ -68,7 +69,6 @@
 # demos and tools
 + [@heydonworks Getting Nowhere with CSS Best Practices](http://slides.com/heydon/getting-nowhere-with-css-best-practices#/)
 + [learnjsdata: manipulating data using JavaScript ](learnjsdata.com)
-+ [daspec ~ executable specs in markdown](http://daspec.com/)
 + [upup ~ offline-first](https://www.talater.com/upup/)
 + [mermaid Diagrams and flowcharts from textsimilar to markdown](http://knsv.github.io/mermaid/live_editor/)
 + [WebGL fundamentals](http://webglfundamentals.org/)
