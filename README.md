@@ -151,6 +151,7 @@
 + [Mocking – not testing – private functions in JavaScript](https://dfkaye.wordpress.com/2015/08/27/mocking-not-testing-private-functions-in-javascript/)
 
 # dfkaye gists
++ [(fake xslt) st:template:script-element.html](https://gist.github.com/dfkaye/bcb85a337192e706002d)
 + [`add()` answer to challenge ~ ES3-compatible version](https://gist.github.com/dfkaye/5c651c4f3107cefa3ec7)
 + [`supports()` function using `Function()` constructor](https://gist.github.com/dfkaye/533f76e43e94145aba0d)
 + [jade+backbone+brequire browser example](https://gist.github.com/dfkaye/07d216c07fbfbf92789c)
