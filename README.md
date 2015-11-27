@@ -15,7 +15,8 @@
 + [philter - jquery plugin for css filters](http://specro.github.io/Philter/)
 + [to-css (from json)](https://github.com/joakimbeng/to-css)
 + [preact: Tiny & fast Component-based Virtual DOM framework](http://npm.im/preact)
-
++ [10 things to know about gulp](http://engineroom.teamwork.com/10-things-to-know-about-gulp/)
++ [How to fix a bad user interface](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
 
 # repos and snippets
 + [nito ~ Minimal component library for jQuery, inspired by React and Riot](https://github.com/morris/nito)
