@@ -9,7 +9,8 @@
 + [Testing Project Browserify Modules in Karma Test Runner with Gulp](http://ngokevin.com/blog/requiring-browserify-in-karma/)
 + [Browser Testing and Code Coverage with Karma, Tape, and Webpack](http://rmurphey.com/blog/2015/07/20/karma-webpack-tape-code-coverage)
 + [superagent & plugins](https://github.com/visionmedia/superagent#plugins)
-+ 
++ [karma, qunit](https://naimhamadi.wordpress.com/2014/05/11/javascript-tdd-using-qunit-and-karma/)
++ [karma tape reporter](https://github.com/terinjokes/karma-tape-reporter)
 
 # new to read and reread 27 NOV 2015
 + [jsverify: property-based testing like quickcheck](https://jsverify.github.io/)
