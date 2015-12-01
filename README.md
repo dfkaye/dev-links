@@ -1,5 +1,16 @@
 # dev-links to&hellip;
 
+# angular, browserify, gulp, karma, superagent, tape
++ [karma: How to Unit Test Controllers In AngularJS Without Setting Your Hair On Fire](http://nathanleclaire.com/blog/2013/12/13/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire/)
++ [angular's "controller as" syntax](http://toddmotto.com/digging-into-angulars-controller-as-syntax/)
++ [karma, jasmine:  unit and e2e testing ](http://www.sitepoint.com/unit-and-e2e-testing-in-angularjs/)
++ [karma: not just for angular](http://odetocode.com/blogs/scott/archive/2014/08/19/karma-is-not-just-for-angularjs.aspx)
++ [A Karma, Mocha, Gulp and Browserify Workflow](http://www.roblayton.com/2015/03/a-karma-mocha-gulp-and-browserify.html)
++ [Testing Project Browserify Modules in Karma Test Runner with Gulp](http://ngokevin.com/blog/requiring-browserify-in-karma/)
++ [Browser Testing and Code Coverage with Karma, Tape, and Webpack](http://rmurphey.com/blog/2015/07/20/karma-webpack-tape-code-coverage)
++ [superagent & plugins](https://github.com/visionmedia/superagent#plugins)
++ 
+
 # new to read and reread 27 NOV 2015
 + [jsverify: property-based testing like quickcheck](https://jsverify.github.io/)
 + [quick-check.js](http://eng.rightscale.com/2014/07/18/quick-check-js.html)
