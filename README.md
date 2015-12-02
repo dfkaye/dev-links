@@ -15,6 +15,7 @@
 + [unit testing angular on testem, jasmine, coffeescript](http://blog.freeside.co/2013/01/20/getting-started-with-angular-unit-tests/)
 
 # new to read and reread 27 NOV - 2 DEC 2015
++ i like this => [frameworkless javascript => minimal framework alternatives](http://www.sitepoint.com/frameworkless-javascript/#lets-meet-in-the-middle-of-the-road)
 + [gridly: flexbox-based css grids](http://ionicabizau.github.io/gridly/example/)
 + [jsverify: property-based testing like quickcheck](https://jsverify.github.io/)
 + [quick-check.js](http://eng.rightscale.com/2014/07/18/quick-check-js.html)
