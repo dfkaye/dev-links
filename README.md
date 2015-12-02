@@ -12,7 +12,8 @@
 + [karma, qunit](https://naimhamadi.wordpress.com/2014/05/11/javascript-tdd-using-qunit-and-karma/)
 + [karma tape reporter](https://github.com/terinjokes/karma-tape-reporter)
 
-# new to read and reread 27 NOV 2015
+# new to read and reread 27 NOV - 2 DEC 2015
++ [gridly: flexbox-based css grids](http://ionicabizau.github.io/gridly/example/)
 + [jsverify: property-based testing like quickcheck](https://jsverify.github.io/)
 + [quick-check.js](http://eng.rightscale.com/2014/07/18/quick-check-js.html)
 + [jets - css-based search](http://nexts.github.io/Jets.js/)
