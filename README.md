@@ -1,6 +1,6 @@
 # dev-links to&hellip;
 
-# angular, browserify, gulp, karma, superagent, tape
+# angular, browserify, gulp, karma, superagent, tape, testem
 + [karma: How to Unit Test Controllers In AngularJS Without Setting Your Hair On Fire](http://nathanleclaire.com/blog/2013/12/13/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire/)
 + [angular's "controller as" syntax](http://toddmotto.com/digging-into-angulars-controller-as-syntax/)
 + [karma, jasmine:  unit and e2e testing ](http://www.sitepoint.com/unit-and-e2e-testing-in-angularjs/)
@@ -11,6 +11,8 @@
 + [superagent & plugins](https://github.com/visionmedia/superagent#plugins)
 + [karma, qunit](https://naimhamadi.wordpress.com/2014/05/11/javascript-tdd-using-qunit-and-karma/)
 + [karma tape reporter](https://github.com/terinjokes/karma-tape-reporter)
++ [Thoughts on Testem vs Karma](http://zachlendon.github.io/blog/2013/03/26/quick-thoughts-on-testem-vs-testacular-karma/)
++ [unit testing angular on testem, jasmine, coffeescript](http://blog.freeside.co/2013/01/20/getting-started-with-angular-unit-tests/)
 
 # new to read and reread 27 NOV - 2 DEC 2015
 + [gridly: flexbox-based css grids](http://ionicabizau.github.io/gridly/example/)
