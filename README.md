@@ -22,7 +22,7 @@
 + [jets - css-based search](http://nexts.github.io/Jets.js/)
 + [css layout repaint triggers](http://csstriggers.com/)
 + [@cjno ~ composed form validators](http://www.sitepoint.com/thinking-outside-dom-composed-validators-data-collection/)
-+ [replace switch with object literals](http://toddmotto.com/deprecating-the-switch-statement-for-object-literals/
++ [replace switch with object literals](http://toddmotto.com/deprecating-the-switch-statement-for-object-literals/)
 + [how to write a layout engine](http://limpet.net/mbrubeck/2014/08/11/toy-layout-engine-2.html)
 + [js modules manager that fits in a tweet](http://bfontaine.net/blog/2015/10/29/a-javascript-modules-manager-that-fits-in-a-tweet/)
 + [using.nightwatch.js](http://geeks.bizzabo.com/post/132013976694/remove-the-frustration-of-writing-automation-using)
