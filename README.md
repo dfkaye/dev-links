@@ -1,6 +1,7 @@
 # dev-links to&hellip;
 
 # angular, browserify, gulp, karma, superagent, tape, testem
++ [ngMessageFormat](http://blog.thoughtram.io/angular/2015/12/10/ng-message-format-the-unheard-feature-in-angular.html)
 + [karma: How to Unit Test Controllers In AngularJS Without Setting Your Hair On Fire](http://nathanleclaire.com/blog/2013/12/13/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire/)
 + [angular's "controller as" syntax](http://toddmotto.com/digging-into-angulars-controller-as-syntax/)
 + [karma, jasmine:  unit and e2e testing ](http://www.sitepoint.com/unit-and-e2e-testing-in-angularjs/)
@@ -35,6 +36,7 @@
 + [How to fix a bad user interface](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
 
 # repos and snippets
++ [posthtml transform](https://github.com/posthtml/posthtml)
 + [nito ~ Minimal component library for jQuery, inspired by React and Riot](https://github.com/morris/nito)
 + [restyle object defs to CSS](https://github.com/WebReflection/restyle)
 + [jss loader for webpack](https://github.com/markdalgleish/jss-loader)
