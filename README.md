@@ -1,6 +1,7 @@
 # dev-links to&hellip;
 
 # angular, browserify, gulp, karma, superagent, tape, testem
++ [karma tap example](https://github.com/mapbox/karma-tap-example/blob/master/karma.conf.js)
 + [ngMessageFormat](http://blog.thoughtram.io/angular/2015/12/10/ng-message-format-the-unheard-feature-in-angular.html)
 + [karma: How to Unit Test Controllers In AngularJS Without Setting Your Hair On Fire](http://nathanleclaire.com/blog/2013/12/13/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire/)
 + [angular's "controller as" syntax](http://toddmotto.com/digging-into-angulars-controller-as-syntax/)
@@ -15,7 +16,20 @@
 + [Thoughts on Testem vs Karma](http://zachlendon.github.io/blog/2013/03/26/quick-thoughts-on-testem-vs-testacular-karma/)
 + [unit testing angular on testem, jasmine, coffeescript](http://blog.freeside.co/2013/01/20/getting-started-with-angular-unit-tests/)
 
-# new to read and reread 27 NOV - 2 DEC 2015
+
+# new 28 DEC 2015
++ => [is.js](http://is.js.org/)
++ [highway router](https://github.com/ashh640/Highway)
++ [Promises Represent the Dependence Graph of Values](https://medium.com/@isntitvacant/observations-on-promises-2b08a0d0c27#.38vakkfzg)
++ [Interactive diagrams of Rx Observables](https://github.com/staltz/rxmarbles)
++ [remy sharp's node test strategy](https://remysharp.com/2015/12/14/my-node-test-strategy)
++ [crystal lang](http://crystal-lang.org/2014/12/06/another-language.html)
++ [mutationObserver shim](https://github.com/megawac/MutationObserver.js)
++ [transpilers how-to](https://angularclass.com/making-a-mini-lisp-introduction-to-transpilers/)
++ [heydonworks: spas w/progressive enhancement](http://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
+
+
+# new NOV - 2 DEC 2015
 + i like this => [frameworkless javascript => minimal framework alternatives](http://www.sitepoint.com/frameworkless-javascript/#lets-meet-in-the-middle-of-the-road)
 + [gridly: flexbox-based css grids](http://ionicabizau.github.io/gridly/example/)
 + [jsverify: property-based testing like quickcheck](https://jsverify.github.io/)
