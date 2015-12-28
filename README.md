@@ -17,6 +17,11 @@
 + [unit testing angular on testem, jasmine, coffeescript](http://blog.freeside.co/2013/01/20/getting-started-with-angular-unit-tests/)
 
 
+# jsdom 10 DEC 2015
++ [jsdom](https://github.com/tmpvar/jsdom)
++ [mocha-jsdom](https://github.com/rstacruz/mocha-jsdom)
+
+
 # new 28 DEC 2015
 + => [is.js](http://is.js.org/)
 + [highway router](https://github.com/ashh640/Highway)
@@ -48,6 +53,7 @@
 + [preact: Tiny & fast Component-based Virtual DOM framework](http://npm.im/preact)
 + [10 things to know about gulp](http://engineroom.teamwork.com/10-things-to-know-about-gulp/)
 + [How to fix a bad user interface](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
+
 
 # repos and snippets
 + [posthtml transform](https://github.com/posthtml/posthtml)
@@ -195,11 +201,13 @@
 + [@mpersandjs in a nutshell](http://silvdb.github.io/2015/04/20/ampersand-js-in-a-nutshell/)
 + [Using schema.org with microdata](http://tink.uk/using-schema-org-with-microdata/)
 
+
 # dfkaye posts
 + [@dfkaye: TDD boilerplate for JavaScript](https://dfkaye.wordpress.com/2015/07/29/tdd-javascript-boilerplate/)
 + [JavaScript’s `eval()` and `Function()`](https://dfkaye.wordpress.com/2015/07/31/javascripts-eval-and-function/)
 + [@dfkaye: Preserve multiline strings with uglify ](https://dfkaye.wordpress.com/2015/07/31/preserving-multiline-strings-with-uglifyjs2/)
 + [Mocking – not testing – private functions in JavaScript](https://dfkaye.wordpress.com/2015/08/27/mocking-not-testing-private-functions-in-javascript/)
+
 
 # dfkaye gists
 + [(fake xslt) st:template:script-element.html](https://gist.github.com/dfkaye/bcb85a337192e706002d)
@@ -265,4 +273,3 @@
 + [testling, tape, github](https://gist.github.com/dfkaye/5225546)
 + [simple-path-normalize](https://gist.github.com/dfkaye/5017089)
 + [requestCSS](https://gist.github.com/dfkaye/4773010)
-
