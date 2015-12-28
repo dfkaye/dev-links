@@ -20,7 +20,7 @@
 # jsdom 10 DEC 2015
 + [jsdom](https://github.com/tmpvar/jsdom)
 + [mocha-jsdom](https://github.com/rstacruz/mocha-jsdom)
-
++ => [From Karma to Mocha, with a taste of jsdom](https://medium.com/podio-engineering-blog/from-karma-to-mocha-with-a-taste-of-jsdom-c9c703a06b21)
 
 # new 28 DEC 2015
 + => [is.js](http://is.js.org/)
