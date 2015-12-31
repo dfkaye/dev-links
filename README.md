@@ -23,6 +23,7 @@
 + => [From Karma to Mocha, with a taste of jsdom](https://medium.com/podio-engineering-blog/from-karma-to-mocha-with-a-taste-of-jsdom-c9c703a06b21)
 
 # new 28 DEC 2015
++ __*** and this =>__ [derivablejs](https://github.com/ds300/derivablejs) ~ "Derivables make it trivial to maintain consistent (i.e. sense-making) state at all times without requiring that it be kept all in one place."
 + __this=>__ [instant, self-rewriting application using ServiceWorker](https://github.com/bahmutov/bottle-service)
 + [run-js: A prototyping server that just works](https://github.com/remixz/run-js)
 + => [is.js](http://is.js.org/)
