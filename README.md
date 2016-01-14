@@ -1,6 +1,6 @@
 # dev-links to&hellip;
 
-# angular, browserify, gulp, karma, superagent, tape, testem
+# angular, browserify, gulp, karma, superagent, tape, testem, jsdom
 + [karma tap example](https://github.com/mapbox/karma-tap-example/blob/master/karma.conf.js)
 + [ngMessageFormat](http://blog.thoughtram.io/angular/2015/12/10/ng-message-format-the-unheard-feature-in-angular.html)
 + [karma: How to Unit Test Controllers In AngularJS Without Setting Your Hair On Fire](http://nathanleclaire.com/blog/2013/12/13/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire/)
@@ -15,12 +15,16 @@
 + [karma tape reporter](https://github.com/terinjokes/karma-tape-reporter)
 + [Thoughts on Testem vs Karma](http://zachlendon.github.io/blog/2013/03/26/quick-thoughts-on-testem-vs-testacular-karma/)
 + [unit testing angular on testem, jasmine, coffeescript](http://blog.freeside.co/2013/01/20/getting-started-with-angular-unit-tests/)
-
-
-# jsdom 10 DEC 2015
 + [jsdom](https://github.com/tmpvar/jsdom)
 + [mocha-jsdom](https://github.com/rstacruz/mocha-jsdom)
 + => [From Karma to Mocha, with a taste of jsdom](https://medium.com/podio-engineering-blog/from-karma-to-mocha-with-a-taste-of-jsdom-c9c703a06b21)
++ [prova - Test runner based on Tape and Browserify](https://github.com/azer/prova)
+
+
+# new jan 2016
++ [xeger - readable regex](https://github.com/JonAbrams/xeger)
++ [free-style: inline css style objects](https://github.com/blakeembrey/free-style)
++ => [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 # new 28 DEC 2015
 + __*** and this =>__ [derivablejs](https://github.com/ds300/derivablejs) ~ "Derivables make it trivial to maintain consistent (i.e. sense-making) state at all times without requiring that it be kept all in one place."
