@@ -20,13 +20,26 @@
 + => [From Karma to Mocha, with a taste of jsdom](https://medium.com/podio-engineering-blog/from-karma-to-mocha-with-a-taste-of-jsdom-c9c703a06b21)
 + [prova - Test runner based on Tape and Browserify](https://github.com/azer/prova)
 
+# Feb 2016
++ [Unit-Testing AngularJS in a Rails app using the Jasmine gem](https://blog.pivotal.io/labs/labs/unit-testing-angularjs-using-jasmine)
++ [Teaspoon: Javascript test runner for Rails](https://github.com/modeset/teaspoon)
++ *security:* [JavaScript Unapply Attack](https://glebbahmutov.com/blog/unapply-attack/)
++ [teenytest zero-config test runner](https://github.com/testdouble/teenytest)
++ [Learn raw reactjs](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/)
++ [Stateless Angular Components](https://toddmotto.com/stateless-angular-components/)
++ __awesome__: [HTML parser that recognizes content and string placeholders __and *allows JavaScript expressions as attribute values*__](https://github.com/philidem/htmljs-parser)
++ __challenging__: [SAM architecture, or 'No more MVC frameworks'](http://jdubray.github.io/sam/)
++ [nodeunit-b: easily test browser javascript with nodeunit](https://www.npmjs.com/package/nodeunit-b)
++ [Github Templates for Issues and Pull Requests](https://github.com/blog/2111-issue-and-pull-request-templates)
 
-# new jan 2016
+# Jan 2016
++ [Atom cheatsheet](http://sweetme.at/2014/03/10/atom-editor-cheat-sheet/)
++ [Git cheatsheet](http://www.rubycoloredglasses.com/cheat-sheets/git/)
 + [xeger - readable regex](https://github.com/JonAbrams/xeger)
 + [free-style: inline css style objects](https://github.com/blakeembrey/free-style)
 + => [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
-# new 28 DEC 2015
+# DEC 2015
 + __*** and this =>__ [derivablejs](https://github.com/ds300/derivablejs) ~ "Derivables make it trivial to maintain consistent (i.e. sense-making) state at all times without requiring that it be kept all in one place."
 + __this=>__ [instant, self-rewriting application using ServiceWorker](https://github.com/bahmutov/bottle-service)
 + [run-js: A prototyping server that just works](https://github.com/remixz/run-js)
@@ -41,7 +54,7 @@
 + [heydonworks: spas w/progressive enhancement](http://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
 
 
-# new NOV - 2 DEC 2015
+# NOV 2015
 + i like this => [frameworkless javascript => minimal framework alternatives](http://www.sitepoint.com/frameworkless-javascript/#lets-meet-in-the-middle-of-the-road)
 + [gridly: flexbox-based css grids](http://ionicabizau.github.io/gridly/example/)
 + [jsverify: property-based testing like quickcheck](https://jsverify.github.io/)
