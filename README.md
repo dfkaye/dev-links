@@ -235,7 +235,7 @@ These are messily arranged links to different topics of interest for developers 
 
 
 # dfkaye gists
-+ [re-structuring with array.sort(), plucking start and end values]()
++ [re-structuring with array.sort(), plucking start and end values](https://gist.github.com/dfkaye/2036fb62604b47f80534)
 + [Set type attributes explicitly on <button> elements](https://gist.github.com/dfkaye/f160001a0026b0b681d9)
 + [testing valueOf() and toString()](https://gist.github.com/dfkaye/6c00bb2c4e814b181c02)
 + [test xbar computation from @chrisstead's "Extending Functions with Decoration through Composition" post](https://gist.github.com/dfkaye/901f7c05d3ca82948155)
