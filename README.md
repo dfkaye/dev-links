@@ -168,6 +168,7 @@ These are messily arranged links to different topics of interest for developers 
 
 
 # frameworks
++ *JAN 2016* [Why I No Longer Use MVC Frameworks](http://www.infoq.com/articles/no-more-mvc-frameworks)
 + [you probably shouldn't use a framework](http://snugug.com/musings/you-probably-shouldnt-use-javascript-framework)
 + [Joe Gregorio: Why I don't want your js framework but I love you](http://netpoetica.com/why-i-dont-want-your-javascript-framework-but-i-love-you/)
 
@@ -234,6 +235,14 @@ These are messily arranged links to different topics of interest for developers 
 
 
 # dfkaye gists
++ [re-structuring with array.sort(), plucking start and end values]()
++ [Set type attributes explicitly on <button> elements](https://gist.github.com/dfkaye/f160001a0026b0b681d9)
++ [testing valueOf() and toString()](https://gist.github.com/dfkaye/6c00bb2c4e814b181c02)
++ [test xbar computation from @chrisstead's "Extending Functions with Decoration through Composition" post](https://gist.github.com/dfkaye/901f7c05d3ca82948155)
++ [loadImgOnScrollIntoView.js](https://gist.github.com/dfkaye/ae9d1fbd3f9d919ce6cd)
++ [orginal CSS line-comments post](https://gist.github.com/dfkaye/35e9bbbe973f4906fd76)
++ [responsive-table.css](https://gist.github.com/dfkaye/c9aabe537c5650caeaa2)
++ [hyphenate.css](https://gist.github.com/dfkaye/68abf5a94ca94f916d74)
 + [(fake xslt) st:template:script-element.html](https://gist.github.com/dfkaye/bcb85a337192e706002d)
 + [`add()` answer to challenge ~ ES3-compatible version](https://gist.github.com/dfkaye/5c651c4f3107cefa3ec7)
 + [`supports()` function using `Function()` constructor](https://gist.github.com/dfkaye/533f76e43e94145aba0d)
