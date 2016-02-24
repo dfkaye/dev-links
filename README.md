@@ -77,7 +77,7 @@ These are messily arranged links to different topics of interest for developers 
 + [@cjno ~ composed form validators](http://www.sitepoint.com/thinking-outside-dom-composed-validators-data-collection/)
 + [replace switch with object literals](http://toddmotto.com/deprecating-the-switch-statement-for-object-literals/)
 + [how to write a layout engine](http://limpet.net/mbrubeck/2014/08/11/toy-layout-engine-2.html)
-+ [js modules manager that fits in a tweet](http://bfontaine.net/blog/2015/10/29/a-javascript-modules-manager-that-fits-in-a-tweet/)
++ __/O\__ [js modules manager that fits in a tweet](http://bfontaine.net/blog/2015/10/29/a-javascript-modules-manager-that-fits-in-a-tweet/)
 + [using.nightwatch.js](http://geeks.bizzabo.com/post/132013976694/remove-the-frustration-of-writing-automation-using)
 + [node-dsl...](https://github.com/Submersible/node-dsl/blob/master/index.js)
 + [ebay css and accessibility](http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/)
