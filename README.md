@@ -15,6 +15,15 @@ These are messily arranged links to different topics of interest for developers 
 + __challenging__: [SAM architecture, or 'No more MVC frameworks'](http://jdubray.github.io/sam/)
 + [nodeunit-b: easily test browser javascript with nodeunit](https://www.npmjs.com/package/nodeunit-b)
 + [Github Templates for Issues and Pull Requests](https://github.com/blog/2111-issue-and-pull-request-templates)
++ [JavaScript implementation of Scientist, a library for carefully refactoring critical paths](https://github.com/ziyasal/scientist.js)
++ [Functional Reactive Programming Library for JavaScript](https://github.com/santoshrajan/frpjs)
++ __nice__ [Developing inside a node_modules folder](https://github.com/maxogden/dat/blob/master/CONTRIBUTING.md#developing-inside-a-node_modules-folder)
++ [JavaScript data structures wiki](https://github.com/Bishop92/JavaScript-Data-Structures/wiki)
++ [Lazy ~ Like Underscore, but lazier](https://github.com/dtao/lazy.js)
++ [Stamp ~ Joe Gregorio's HTML templates using the <template> tag](https://github.com/jcgregorio/stamp/wiki)
++ [bit.js ~ Krasimir's set of utility functions for JavaScript functions](https://github.com/krasimir/bit.js)
++ [immu ~ tiny, fail-fast, lazy, immutable Javascript objects library](https://github.com/scottcorgan/immu)
++ [ns-events ~ 1kB lib for namespacing events](https://github.com/activenode/ns-events.js)
 
 # Jan 2016
 + [Atom cheatsheet](http://sweetme.at/2014/03/10/atom-editor-cheat-sheet/)
