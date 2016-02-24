@@ -61,6 +61,7 @@ These are messily arranged links to different topics of interest for developers 
 + [run-js: A prototyping server that just works](https://github.com/remixz/run-js)
 + => [is.js](http://is.js.org/)
 + [highway router](https://github.com/ashh640/Highway)
++ [pidgeon ~ HTML preprocessor / template engine written in JavaScript](http://avxto.github.io/pigeon-js/)
 + [Promises Represent the Dependence Graph of Values](https://medium.com/@isntitvacant/observations-on-promises-2b08a0d0c27#.38vakkfzg)
 + [Interactive diagrams of Rx Observables](https://github.com/staltz/rxmarbles)
 + [remy sharp's node test strategy](https://remysharp.com/2015/12/14/my-node-test-strategy)
