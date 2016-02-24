@@ -4,7 +4,6 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 
 # Feb 2016
-
 + *slow and steady wins...* [Jetbrains: The unicorn Silicon Valley doesn't like to talk about](http://movingfulcrum.com/jetbrains-the-unicorn-silicon-valley-doesnt-like-to-talk-about/)
 + [Unit-Testing AngularJS in a Rails app using the Jasmine gem](https://blog.pivotal.io/labs/labs/unit-testing-angularjs-using-jasmine)
 + [Teaspoon: Javascript test runner for Rails](https://github.com/modeset/teaspoon)
@@ -67,7 +66,6 @@ These are messily arranged links to different topics of interest for developers 
 + [transpilers how-to](https://angularclass.com/making-a-mini-lisp-introduction-to-transpilers/)
 + [heydonworks: spas w/progressive enhancement](http://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
 
-
 # NOV 2015
 + i like this => [frameworkless javascript => minimal framework alternatives](http://www.sitepoint.com/frameworkless-javascript/#lets-meet-in-the-middle-of-the-road)
 + [gridly: flexbox-based css grids](http://ionicabizau.github.io/gridly/example/)
@@ -87,7 +85,6 @@ These are messily arranged links to different topics of interest for developers 
 + [preact: Tiny & fast Component-based Virtual DOM framework](http://npm.im/preact)
 + [10 things to know about gulp](http://engineroom.teamwork.com/10-things-to-know-about-gulp/)
 + [How to fix a bad user interface](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
-
 
 # repos and snippets
 + [posthtml transform](https://github.com/posthtml/posthtml)
@@ -155,7 +152,6 @@ These are messily arranged links to different topics of interest for developers 
 + [@substack: multi-dimensional data format](https://github.com/substack/mddf) 
 + [progressively-enhanced collapsible regions using ARIA States and Properties](https://github.com/jgarber623/aria-collapsible)
 
-
 # demos and tools
 + [@heydonworks Getting Nowhere with CSS Best Practices](http://slides.com/heydon/getting-nowhere-with-css-best-practices#/)
 + [learnjsdata: manipulating data using JavaScript ](learnjsdata.com)
@@ -176,12 +172,10 @@ These are messily arranged links to different topics of interest for developers 
 + [ColorZilla](http://www.colorzilla.com/)
 + [CSS stats](http://cssstats.com/)
 
-
 # frameworks
 + *JAN 2016* [Why I No Longer Use MVC Frameworks](http://www.infoq.com/articles/no-more-mvc-frameworks)
 + [you probably shouldn't use a framework](http://snugug.com/musings/you-probably-shouldnt-use-javascript-framework)
 + [Joe Gregorio: Why I don't want your js framework but I love you](http://netpoetica.com/why-i-dont-want-your-javascript-framework-but-i-love-you/)
-
 
 # articles
 + [Simplicity Will Improve Your Team Effectiveness](https://ketiljensen.wordpress.com/2015/09/12/simplicity-will-improve-your-team-effectiveness/)
@@ -236,13 +230,11 @@ These are messily arranged links to different topics of interest for developers 
 + [@mpersandjs in a nutshell](http://silvdb.github.io/2015/04/20/ampersand-js-in-a-nutshell/)
 + [Using schema.org with microdata](http://tink.uk/using-schema-org-with-microdata/)
 
-
 # dfkaye posts
 + [@dfkaye: TDD boilerplate for JavaScript](https://dfkaye.wordpress.com/2015/07/29/tdd-javascript-boilerplate/)
 + [JavaScript’s `eval()` and `Function()`](https://dfkaye.wordpress.com/2015/07/31/javascripts-eval-and-function/)
 + [@dfkaye: Preserve multiline strings with uglify ](https://dfkaye.wordpress.com/2015/07/31/preserving-multiline-strings-with-uglifyjs2/)
 + [Mocking – not testing – private functions in JavaScript](https://dfkaye.wordpress.com/2015/08/27/mocking-not-testing-private-functions-in-javascript/)
-
 
 # dfkaye gists
 + [re-structuring with array.sort(), plucking start and end values](https://gist.github.com/dfkaye/2036fb62604b47f80534)
