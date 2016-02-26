@@ -1,4 +1,4 @@
-These are messily arranged links to different topics of interest for developers like me interested in javascript, test-driven development, and a better front-end architecture&hellp;
+These are messily arranged links to different topics of interest for developers like me interested in javascript, test-driven development, and a better front-end architecture&hello;
 
 # First
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
