@@ -3,6 +3,12 @@ These are messily arranged links to different topics of interest for developers 
 # First
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 
+# March 2016
++ [Terrific JavaScript Framework](https://github.com/brunschgi/terrificjs/)
++ [document.onreadystatechange vs. DOMContentLoaded](https://developer.mozilla.org/en-US/docs/Web/Events/readystatechange#Example)
++ *nice!* [Compose HTTP clients using JavaScript's fetch API](https://github.com/mjackson/http-client)
++ [Harry Roberts: @mixin is better than @extend for Performance](http://csswizardry.com/2016/02/mixins-better-for-performance/)
+
 # Feb 2016
 + [CSSX is a set of tools that will help you write vanilla CSS in JavaScript](http://krasimir.github.io/cssx/)
 + *slow and steady wins...* [Jetbrains: The unicorn Silicon Valley doesn't like to talk about](http://movingfulcrum.com/jetbrains-the-unicorn-silicon-valley-doesnt-like-to-talk-about/)
