@@ -4,6 +4,8 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 
 # March 2016
++ *David Nolen from 2013* [CSP (communicating sequential processes) in JavaScript w/ES6 generators and channels](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
+  - my gist of sample code linked to babel -> online https://gist.github.com/dfkaye/b245c977517d6e97b06a 
 + [Terrific JavaScript Framework](https://github.com/brunschgi/terrificjs/)
 + [document.onreadystatechange vs. DOMContentLoaded](https://developer.mozilla.org/en-US/docs/Web/Events/readystatechange#Example)
 + *nice!* [Compose HTTP clients using JavaScript's fetch API](https://github.com/mjackson/http-client)
