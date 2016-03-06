@@ -4,6 +4,7 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 
 # March 2016
++ [superplaceholder.js brings placeholders to life by cycling multiple instructions in a single placeholder.](http://kushagragour.in/lab/superplaceholderjs/)
 + [rollupify: Browserify transform to apply Rollup](https://github.com/nolanlawson/rollupify)
 + [must: better BDD assertion syntax (awesome.must.be.true())](https://github.com/moll/js-must)
 + [skiplist implementation in javascript](https://github.com/ceejbot/skiplist)
