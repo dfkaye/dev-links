@@ -4,10 +4,13 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 
 # March 2016
++ [ES6 in a nutshell](http://lukehaas.me/articles/es6-in-a-nutshell/)
++ [webreflection: string template impl](https://gist.github.com/WebReflection/8f227532143e63649804)
++ *yes* [element queries, yes](http://elementqueries.com/)
 + [superplaceholder.js brings placeholders to life by cycling multiple instructions in a single placeholder.](http://kushagragour.in/lab/superplaceholderjs/)
 + [rollupify: Browserify transform to apply Rollup](https://github.com/nolanlawson/rollupify)
-+ [must: better BDD assertion syntax (awesome.must.be.true())](https://github.com/moll/js-must)
-+ [skiplist implementation in javascript](https://github.com/ceejbot/skiplist)
++ *good* [must: better BDD assertion syntax (awesome.must.be.true())](https://github.com/moll/js-must)
++ *interesting* [skiplist implementation in javascript](https://github.com/ceejbot/skiplist)
 + *David Nolen from 2013* [CSP (communicating sequential processes) in JavaScript w/ES6 generators and channels](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
   - my gist of sample code linked to babel -> online https://gist.github.com/dfkaye/b245c977517d6e97b06a 
 + [Terrific JavaScript Framework](https://github.com/brunschgi/terrificjs/)
