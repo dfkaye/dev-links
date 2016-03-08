@@ -4,6 +4,7 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 
 # March 2016
++ [Update outdated npm modules with zero pain™](https://github.com/peerigon/updtr)
 + [ES6 in a nutshell](http://lukehaas.me/articles/es6-in-a-nutshell/)
 + [webreflection: string template impl](https://gist.github.com/WebReflection/8f227532143e63649804)
 + *yes* [element queries, yes](http://elementqueries.com/)
