@@ -4,6 +4,9 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 
 # March 2016
++ Two Heapsort implementations in Javascript:
+  - [long one](https://mgechev.github.io/javascript-algorithms/sorting_heapsort.js.html)
+  - [short one](http://forum.kirupa.com/t/heapsort-implementation-in-javascript/633430)
 + [Dissecting ReactJS LifeCycle Methods](https://medium.com/@fay_jai/dissecting-reactjs-lifecycle-methods-be4fdea11c6d)
 + [Leveling Up With React: React Router](https://css-tricks.com/learning-react-router/)
 + [State of the art web development with React.js](https://github.com/ryanflorence/react-project)
