@@ -4,6 +4,12 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 
 # March 2016
++ [Dissecting ReactJS LifeCycle Methods](https://medium.com/@fay_jai/dissecting-reactjs-lifecycle-methods-be4fdea11c6d)
++ [Leveling Up With React: React Router](https://css-tricks.com/learning-react-router/)
++ [State of the art web development with React.js](https://github.com/ryanflorence/react-project)
++ [yo-yo: A tiny library for building modular UI components using DOM diffing and ES6 tagged template literals](https://github.com/maxogden/yo-yo)
++ [brequire.js](https://github.com/weepy/brequire/blob/master/require.js)
++ [Lightweight framework for the SAM pattern](https://github.com/sam-js/sam)
 + [Simple tooltips made of pure CSS](https://github.com/kazzkiq/balloon.css)
 + [@benlesh: Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87)
 + [Update outdated npm modules with zero pain™](https://github.com/peerigon/updtr)
