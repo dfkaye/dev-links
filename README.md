@@ -4,7 +4,10 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 
 # March 2016
-+ Two Heapsort implementations in Javascript:
++ [On `:not` and Specificity](http://bitsofco.de/on-not-and-specificity/)
++ [Float Label Pattern with HTML5 validation](http://webdesign.tutsplus.com/tutorials/how-to-make-floating-input-labels-with-html5-validation--cms-26120)
++ [Pattern Matching in JavaScript](http://www.chrisstead.com/archives/1106/pattern-matching-in-javascript/)
++ Two Heapsort implementations in JavaScript:
   - [long one](https://mgechev.github.io/javascript-algorithms/sorting_heapsort.js.html)
   - [short one](http://forum.kirupa.com/t/heapsort-implementation-in-javascript/633430)
 + [Dissecting ReactJS LifeCycle Methods](https://medium.com/@fay_jai/dissecting-reactjs-lifecycle-methods-be4fdea11c6d)
@@ -276,6 +279,7 @@ These are messily arranged links to different topics of interest for developers 
 
 
 # dfkaye gists
++ [Stateless Components are really `string.replace()`&hellip;](https://gist.github.com/dfkaye/2d5cbd87f6bbf4976762)
 + [re-structuring with array.sort(), plucking start and end values](https://gist.github.com/dfkaye/2036fb62604b47f80534)
 + [Set type attributes explicitly on <button> elements](https://gist.github.com/dfkaye/f160001a0026b0b681d9)
 + [testing valueOf() and toString()](https://gist.github.com/dfkaye/6c00bb2c4e814b181c02)
