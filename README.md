@@ -10,11 +10,13 @@ These are messily arranged links to different topics of interest for developers 
 + Two Heapsort implementations in JavaScript:
   - [long one](https://mgechev.github.io/javascript-algorithms/sorting_heapsort.js.html)
   - [short one](http://forum.kirupa.com/t/heapsort-implementation-in-javascript/633430)
++ [vhtml: Render JSX/Hyperscript to HTML strings, without VDOM](https://github.com/developit/vhtml)
 + @_ericelliott => [React Pure Component Starter (with tape and cheerio)](https://github.com/ericelliott/react-pure-component-starter#react-pure-component-starter)
 + __@adelieve__ => [react-tags: A simple wrapper around React.DOM (similar to Wut)](https://github.com/adelevie/react-tags)
 + [Basic example of using Marko with Hapi.js](https://github.com/marko-js-samples/marko-hapi-demo)
 + ["single state atom" apps](https://github.com/rogeriochaves/single-state-atom-apps)
 + [tl;dr prefer Reusable Stateless Components over Local Component State](https://www.safaribooksonline.com/blog/2015/10/29/react-local-component-state/)
++ [redux-actions: Flux Standard Action utilities for Redux.](https://github.com/acdlite/redux-actions)
 + [Dissecting ReactJS LifeCycle Methods](https://medium.com/@fay_jai/dissecting-reactjs-lifecycle-methods-be4fdea11c6d)
 + [Leveling Up With React: React Router](https://css-tricks.com/learning-react-router/)
 + [State of the art web development with React.js](https://github.com/ryanflorence/react-project)
