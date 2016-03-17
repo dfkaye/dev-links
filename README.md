@@ -4,6 +4,7 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 
 # March 2016
++ [paldepind: functional-frontend-architecture](https://github.com/paldepind/functional-frontend-architecture)
 + [On `:not` and Specificity](http://bitsofco.de/on-not-and-specificity/)
 + [Float Label Pattern with HTML5 validation](http://webdesign.tutsplus.com/tutorials/how-to-make-floating-input-labels-with-html5-validation--cms-26120)
 + [Pattern Matching in JavaScript](http://www.chrisstead.com/archives/1106/pattern-matching-in-javascript/)
