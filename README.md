@@ -288,6 +288,7 @@ These are messily arranged links to different topics of interest for developers 
 
 
 # dfkaye gists
++ [Getting enumerable and non-enumerable properties on prototypes and built-ins](https://gist.github.com/dfkaye/d194247482ba4c580510)
 + [Stateless Components are really `string.replace()`&hellip;](https://gist.github.com/dfkaye/2d5cbd87f6bbf4976762)
 + [re-structuring with array.sort(), plucking start and end values](https://gist.github.com/dfkaye/2036fb62604b47f80534)
 + [Set type attributes explicitly on <button> elements](https://gist.github.com/dfkaye/f160001a0026b0b681d9)
