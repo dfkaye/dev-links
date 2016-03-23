@@ -6,7 +6,10 @@ These are messily arranged links to different topics of interest for developers 
 # March 2016
 + [Feature.js, a feature detection library in 1kb](http://featurejs.com/)
 + [List.js, vanilla Javascript that adds search, sort, filters and flexibility to plain HTML lists, tables, or anything](http://www.listjs.com/)
-+ [Timsort implementation in JavaScript](https://github.com/mziccard/node-timsort) - > `TimSort.sort` is faster than `array.sort` on any of the tested array types
++ [Timsort implementation in JavaScript](https://github.com/mziccard/node-timsort)
+
+> `TimSort.sort` is faster than `array.sort` on any of the tested array types
+
 + [frpjs: Functional Reactive Programming Library for JavaScript](https://github.com/santoshrajan/frpjs)
 + [paldepind: functional-frontend-architecture](https://github.com/paldepind/functional-frontend-architecture)
 + [On `:not` and Specificity](http://bitsofco.de/on-not-and-specificity/)
