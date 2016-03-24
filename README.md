@@ -4,6 +4,8 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 
 # March 2016
++ [NPM & left-pad: Have We Forgotten How To Program?](http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/)
++ [__Visual ARIA Bookmarklet__](http://whatsock.com/training/matrices/visual-aria.htm)
 + [Feature.js, a feature detection library in 1kb](http://featurejs.com/)
 + [List.js, vanilla Javascript that adds search, sort, filters and flexibility to plain HTML lists, tables, or anything](http://www.listjs.com/)
 + "`TimSort.sort` __is faster__ than `array.sort` on any of the tested array types" ~ [Timsort implementation in JavaScript](https://github.com/mziccard/node-timsort)
@@ -291,6 +293,7 @@ These are messily arranged links to different topics of interest for developers 
 
 
 # dfkaye gists
+= [my version of `leftpad()`]https://gist.github.com/dfkaye/a2fe9f801a7db52bccdf)
 + [Getting enumerable and non-enumerable properties on prototypes and built-ins](https://gist.github.com/dfkaye/d194247482ba4c580510)
 + [Stateless Components are really `string.replace()`&hellip;](https://gist.github.com/dfkaye/2d5cbd87f6bbf4976762)
 + [re-structuring with array.sort(), plucking start and end values](https://gist.github.com/dfkaye/2036fb62604b47f80534)
