@@ -4,6 +4,7 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 
 # March 2016
++ [__High Performance WebWorker Messages__](http://nolanlawson.com/2016/02/29/high-performance-web-worker-messages/)
 + [NPM & left-pad: Have We Forgotten How To Program?](http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/)
 + [__Visual ARIA Bookmarklet__](http://whatsock.com/training/matrices/visual-aria.htm)
 + [Feature.js, a feature detection library in 1kb](http://featurejs.com/)
