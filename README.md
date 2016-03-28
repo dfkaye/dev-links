@@ -4,6 +4,11 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 
 # March 2016
++ [A tiny foundation for building reactive views](https://github.com/ripplejs/ripple)
+  - fastest of all on [dbmonster REPAINT RATE CHALLENGE](http://mathieuancelin.github.io/js-repaint-perfs/) 
++ [A minimalistic function tester in Sass](https://github.com/HugoGiraudel/SassyTester)
+  - from http://www.sitepoint.com/testing-sass-function-5-minutes/
++ [A JavaScript library to test JSON with some nice features](https://github.com/ozkxr/match)
 + [2006 - one of the most thought-provoking posts I've ever read](http://blog.codinghorror.com/separating-programming-sheep-from-non-programming-goats/)
 + [__High Performance WebWorker Messages__](http://nolanlawson.com/2016/02/29/high-performance-web-worker-messages/)
 + [NPM & left-pad: Have We Forgotten How To Program?](http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/)
