@@ -3,12 +3,26 @@ These are messily arranged links to different topics of interest for developers 
 # First
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 
+# April 2016
++ [Bubl&eacute;: blazing fast, batteries-included ES2015 compiler by @Rich_Harris](https://gitlab.com/Rich-Harris/buble)
++ [@KrasimirTsonev: "It's better solving the problems with design rather then tools"](http://krasimirtsonev.com/blog/article/how-require-import-may-decrease-your-testability)
++ [most: Monadic reactive streams](https://github.com/cujojs/most)
++ [SAM-SAFE: lightweight container for node.js SAM implementations (with time-travel)](https://github.com/jdubray/sam-safe)
++ [LispyScript by Santosh Rajan](http://lispyscript.com/docs/)
++ [Santosh Rajan on functors](http://functionaljavascript.blogspot.in/2013/07/functors.html)
++ [the-super-tiny-compiler: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)
++ [insist: A drop-in replacement for `assert`, with a better default message](https://github.com/seanmonstar/insist)
++ [The Ducks File Structure for Redux](https://medium.com/@scbarrus/the-ducks-file-structure-for-redux-d63c41b7035c)
++ [node.js repl features and dot commands](https://nodejs.org/api/repl.html#repl_repl_features)
++ [Generalizing JSX: Delivering on the Dream of Curried Named Parameters](http://tolmasky.com/2016/03/24/generalizing-jsx/)
+
+
 # March 2016
-+ [A tiny foundation for building reactive views](https://github.com/ripplejs/ripple)
++ [ripple: A tiny foundation for building reactive views](https://github.com/ripplejs/ripple)
   - fastest of all on [dbmonster REPAINT RATE CHALLENGE](http://mathieuancelin.github.io/js-repaint-perfs/) 
 + [A minimalistic function tester in Sass](https://github.com/HugoGiraudel/SassyTester)
   - from http://www.sitepoint.com/testing-sass-function-5-minutes/
-+ [A JavaScript library to test JSON with some nice features](https://github.com/ozkxr/match)
++ [match: A JavaScript library to test JSON with some nice features](https://github.com/ozkxr/match)
 + [2006 - one of the most thought-provoking posts I've ever read](http://blog.codinghorror.com/separating-programming-sheep-from-non-programming-goats/)
 + [__High Performance WebWorker Messages__](http://nolanlawson.com/2016/02/29/high-performance-web-worker-messages/)
 + [NPM & left-pad: Have We Forgotten How To Program?](http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/)
