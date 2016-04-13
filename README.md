@@ -2,6 +2,7 @@ These are messily arranged links to different topics of interest for developers 
 
 # First
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
++ [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
 
 # April 2016
 + !! [Bubl&eacute;: blazing fast, batteries-included ES2015 compiler by @Rich_Harris](https://gitlab.com/Rich-Harris/buble)
