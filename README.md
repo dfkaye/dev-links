@@ -4,18 +4,26 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 
 # April 2016
-+ [Bubl&eacute;: blazing fast, batteries-included ES2015 compiler by @Rich_Harris](https://gitlab.com/Rich-Harris/buble)
++ !! [Bubl&eacute;: blazing fast, batteries-included ES2015 compiler by @Rich_Harris](https://gitlab.com/Rich-Harris/buble)
 + [@KrasimirTsonev: "It's better solving the problems with design rather then tools"](http://krasimirtsonev.com/blog/article/how-require-import-may-decrease-your-testability)
 + [most: Monadic reactive streams](https://github.com/cujojs/most)
-+ [SAM-SAFE: lightweight container for node.js SAM implementations (with time-travel)](https://github.com/jdubray/sam-safe)
++ => [SAM-SAFE: lightweight container for node.js SAM implementations (with time-travel)](https://github.com/jdubray/sam-safe)
 + [LispyScript by Santosh Rajan](http://lispyscript.com/docs/)
 + [Santosh Rajan on functors](http://functionaljavascript.blogspot.in/2013/07/functors.html)
-+ [the-super-tiny-compiler: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)
++ => [the-super-tiny-compiler: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)
 + [insist: A drop-in replacement for `assert`, with a better default message](https://github.com/seanmonstar/insist)
 + [The Ducks File Structure for Redux](https://medium.com/@scbarrus/the-ducks-file-structure-for-redux-d63c41b7035c)
 + [node.js repl features and dot commands](https://nodejs.org/api/repl.html#repl_repl_features)
 + [Generalizing JSX: Delivering on the Dream of Curried Named Parameters](http://tolmasky.com/2016/03/24/generalizing-jsx/)
-
++ [Matt Smith's CSS Pro tips](https://github.com/AllThingsSmitty/css-protips)
++ [greuler: graph visualization tool on d3](http://maurizzzio.github.io/greuler/#/)
++ [teaspoon: jQuery like API for testing React elements and rendered components](https://github.com/jquense/teaspoon)
++ [require-from-twitter by guillermo rauch](https://gist.github.com/rauchg/5b032c2c2166e4e36713)
++ test with [public JSON APIs for use in web development](https://github.com/toddmotto/public-apis)
++ [now: realtime node.js deployments](https://zeit.co/now)
++ [EditorConfig](http://editorconfig.org/)
++ blocked by [@tef: Write Code That is Easy to Delete, not easy to extend](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
++ great idea => [scripty: move npm scripts into their own files, use the same npm command to run them](https://github.com/testdouble/scripty)
 
 # March 2016
 + [ripple: A tiny foundation for building reactive views](https://github.com/ripplejs/ripple)
