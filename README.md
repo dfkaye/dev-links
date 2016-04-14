@@ -5,13 +5,17 @@ These are messily arranged links to different topics of interest for developers 
 + [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
 
 # April 2016
++ [How to add DOM event listeners by @webreflection 22 Oct 2015](https://www.webreflection.co.uk/blog/2015/10/22/how-to-add-dom-events-listeners)
+  + see also [@jhermsmeier's gist 26 Mar 2013](https://gist.github.com/jhermsmeier/5245165)
+  + and [@webreflection's ajaxian post 13 Jul 2010](http://ajaxian.com/archives/an-alternative-way-to-addeventlistener)
+  + and [@SubtleGradient's tweet 12 Jul 2010](https://twitter.com/SubtleGradient/status/18388549003)
 + !! [Bubl&eacute;: blazing fast, batteries-included ES2015 compiler by @Rich_Harris](https://gitlab.com/Rich-Harris/buble)
 + [@KrasimirTsonev: "It's better solving the problems with design rather then tools"](http://krasimirtsonev.com/blog/article/how-require-import-may-decrease-your-testability)
 + [most: Monadic reactive streams](https://github.com/cujojs/most)
 + => [SAM-SAFE: lightweight container for node.js SAM implementations (with time-travel)](https://github.com/jdubray/sam-safe)
 + [LispyScript by Santosh Rajan](http://lispyscript.com/docs/)
 + [Santosh Rajan on functors](http://functionaljavascript.blogspot.in/2013/07/functors.html)
-+ => [the-super-tiny-compiler: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)
++ => [the-super-tiny-compiler: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler/blob/master/super-tiny-compiler.js)
 + [insist: A drop-in replacement for `assert`, with a better default message](https://github.com/seanmonstar/insist)
 + [The Ducks File Structure for Redux](https://medium.com/@scbarrus/the-ducks-file-structure-for-redux-d63c41b7035c)
 + [node.js repl features and dot commands](https://nodejs.org/api/repl.html#repl_repl_features)
