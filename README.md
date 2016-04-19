@@ -1,5 +1,3 @@
-<base target="_new" />
-
 These are messily arranged links to different topics of interest for developers like me interested in javascript, test-driven development, and a better front-end architecture&hellip;
 
 # First
