@@ -5,6 +5,9 @@ These are messily arranged links to different topics of interest for developers 
 + [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
 
 # April 2016
++ [scour: general-purpose library for dealing with JSON trees.](https://github.com/rstacruz/scour)
++ [@hugogiraudel on links and accessibility](http://dev.edenspiekermann.com/2016/04/14/links-and-accessibility/)
++ [@jhermsmeier on handleEvent util](http://www.thecssninja.com/javascript/handleevent5)
 + !! [dukescript jquery release](https://dukescript.com/update/2016/04/13/jquery-release.html)
 + !! [diogenes: Defines and executes functions with a common interface (services) sorting out the execution order automatically](https://www.npmjs.com/package/diogenes)
 + !! [CSSX: CSS in JavaScript @krasimirtsonev](https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/)
