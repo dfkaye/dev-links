@@ -5,6 +5,16 @@ These are messily arranged links to different topics of interest for developers 
 + [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
 
 # April 2016
++ !! [dukescript jquery release](https://dukescript.com/update/2016/04/13/jquery-release.html)
++ !! [diogenes: Defines and executes functions with a common interface (services) sorting out the execution order automatically](https://www.npmjs.com/package/diogenes)
++ !! [CSSX: CSS in JavaScript @krasimirtsonev](https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/)
++ __replace ssh with__ [mosh: mobile shell terminal allows roaming, intermittent connectivity, &hellip;](https://mosh.mit.edu/)
++ [snapback cache: client side page cache for jquery](https://github.com/highrisehq/snapback_cache)
++ [Ultra Flexible JavaScript Object Oriented Programming With Stamps](http://www.barbarianmeetscoding.com/blog/2016/01/18/javascript-ultra-flexible-object-oriented-programming-with-stamps/)
++ [shallow rendering when testing reactjs](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know#use-shallow-rendering)
++ ! [proper error handling in javascript](http://www.sitepoint.com/proper-error-handling-javascript) 
++ [polygloat: Make a JavaScript function support both promise and callback styles](https://github.com/sonnyp/polygoat)
++ !! [GoldenLayout: a multi-screen layout manager for webapps](https://golden-layout.com/)
 + [How to add DOM event listeners by @webreflection 22 Oct 2015](https://www.webreflection.co.uk/blog/2015/10/22/how-to-add-dom-events-listeners)
   + see also [@jhermsmeier's gist 26 Mar 2013](https://gist.github.com/jhermsmeier/5245165)
   + and [@webreflection's ajaxian post 13 Jul 2010](http://ajaxian.com/archives/an-alternative-way-to-addeventlistener)
