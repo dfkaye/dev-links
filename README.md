@@ -340,6 +340,7 @@ These are messily arranged links to different topics of interest for developers 
 
 
 # dfkaye gists
++ [timing-attack-resistant version of @mathias's `compare(a, b)` fn](https://gist.github.com/dfkaye/e88100f0621a12bdf8f511eabc08eae8)
 + [Spec-compliant Object.assign() polyfill](https://gist.github.com/dfkaye/51443efd4a84edc81f9658fbb8107f49)
 + [handleEvent: event handlers as objects (not just functions)](https://gist.github.com/dfkaye/ebe052b9eaedc98c618ed497c7017c98)
 + [my version of `leftpad()`]https://gist.github.com/dfkaye/a2fe9f801a7db52bccdf)
