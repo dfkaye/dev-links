@@ -364,7 +364,7 @@ These are messily arranged links to different topics of interest for developers 
 + [fluent comparable](https://gist.github.com/dfkaye/90b6243772a21259f0bf)
 + [state as `function.toString` (or `fn.valueOf`)](https://gist.github.com/dfkaye/7b62e6e8139436306f4b)
 + [parenthetical grouping](https://gist.github.com/dfkaye/40c51d3a59e6a9d433a1)
-+ [reverse-polish reducer interview test](https://gist.github.com/dfkaye/aeba0436f00ba3113a42)
++ [reverse-polish reducer interview test (vevo)](https://gist.github.com/dfkaye/aeba0436f00ba3113a42)
 + [traffic signal interview test (vevo)](https://gist.github.com/dfkaye/612d34a66b9bb74efc29)
 + [implement a Set in javascript ~ interview test (vevo)](https://gist.github.com/dfkaye/dc108de2b2016c3e8dd0)
 + [Safari-wrench xpath library by @ravdaniels](https://gist.github.com/dfkaye/f90f2b6d7750fc2dd062)
