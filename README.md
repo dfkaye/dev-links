@@ -351,7 +351,7 @@ These are messily arranged links to different topics of interest for developers 
 + [testing valueOf() and toString()](https://gist.github.com/dfkaye/6c00bb2c4e814b181c02)
 + [test xbar computation from @chrisstead's "Extending Functions with Decoration through Composition" post](https://gist.github.com/dfkaye/901f7c05d3ca82948155)
 + [loadImgOnScrollIntoView.js](https://gist.github.com/dfkaye/ae9d1fbd3f9d919ce6cd)
-+ [orginal CSS line-comments post](https://gist.github.com/dfkaye/35e9bbbe973f4906fd76)
++ [my original CSS line-comments post](https://gist.github.com/dfkaye/35e9bbbe973f4906fd76)
 + [responsive-table.css](https://gist.github.com/dfkaye/c9aabe537c5650caeaa2)
 + [hyphenate.css](https://gist.github.com/dfkaye/68abf5a94ca94f916d74)
 + [(fake xslt) st:template:script-element.html](https://gist.github.com/dfkaye/bcb85a337192e706002d)
