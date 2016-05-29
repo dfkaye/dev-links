@@ -341,9 +341,8 @@ These are messily arranged links to different topics of interest for developers 
 
 # dfkaye gists
 + [make namespaces with `reduceRight`](https://gist.github.com/dfkaye/9407f5689858014f632356b1376a5261)
-+ [persistent data with structure sharing, mutable and immutable examples](https://gist.github.com/dfkaye/b0042432757db018b03c0d43721cb9ca)
++ [__persistent data with structure sharing__ ~ mutable and immutable examples](https://gist.github.com/dfkaye/b0042432757db018b03c0d43721cb9ca)
 + [`enum` in javascript](https://gist.github.com/dfkaye/eb6cbe304c1d07164d7e4de7bff40795)
-+ 
 + [timing-attack-resistant version of @mathias's `compare(a, b)` fn](https://gist.github.com/dfkaye/e88100f0621a12bdf8f511eabc08eae8)
 + [Spec-compliant `Object.assign()` polyfill](https://gist.github.com/dfkaye/51443efd4a84edc81f9658fbb8107f49)
 + [`handleEvent`: event handlers as configurations](https://gist.github.com/dfkaye/ebe052b9eaedc98c618ed497c7017c98)
