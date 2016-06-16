@@ -4,6 +4,13 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 + [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
 
+# June 2016
++ [__Checkwave__ by @hakimel](https://repl.it/CZC7)
++ [Isomorphic JS using rill-js](https://medium.com/@pierceydylan/isomorphic-javascript-it-just-has-to-work-b9da5b0c8035#.w6ieefr3x)
++ [__rill-js__: Universal web application framework](https://github.com/rill-js/rill)
++ [__set-dom__: Lightweight dom diffing library with plain old html](https://github.com/DylanPiercey/set-dom)
++ [__gulp-html__ plugin for HTML validation, using vnu.jar](https://github.com/watilde/gulp-html)
+
 # April 2016
 + [scour: general-purpose library for dealing with JSON trees.](https://github.com/rstacruz/scour)
 + [@hugogiraudel on links and accessibility](http://dev.edenspiekermann.com/2016/04/14/links-and-accessibility/)
