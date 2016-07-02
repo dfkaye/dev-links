@@ -4,6 +4,9 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 + [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
 
+# July 2016
++ [js-interview-review: __Testing with AngularJS, Karma, Jasmine__](https://github.com/adam-s/js-interview-review#angularjs-karma-jasmine)
+
 # June 2016
 + [__Checkwave__ by @hakimel](https://repl.it/CZC7)
 + [Isomorphic JS using rill-js](https://medium.com/@pierceydylan/isomorphic-javascript-it-just-has-to-work-b9da5b0c8035#.w6ieefr3x)
