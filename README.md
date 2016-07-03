@@ -6,6 +6,7 @@ These are messily arranged links to different topics of interest for developers 
 
 # July 2016
 + [js-interview-review: __Testing with AngularJS, Karma, Jasmine__](https://github.com/adam-s/js-interview-review#angularjs-karma-jasmine)
++ [@airporty's __MonkeyPatcher__](https://gist.github.com/airportyh/9c7233499f05fa24e214ff5df54b2050)
 
 # June 2016
 + [__Checkwave__ by @hakimel](https://repl.it/CZC7)
