@@ -8,6 +8,12 @@ These are messily arranged links to different topics of interest for developers 
 + [js-interview-review: __Testing with AngularJS, Karma, Jasmine__](https://github.com/adam-s/js-interview-review#angularjs-karma-jasmine)
 + [@airporty's __MonkeyPatcher__](https://gist.github.com/airportyh/9c7233499f05fa24e214ff5df54b2050)
 + [__InstantClick__ a JavaScript library that dramatically speeds up your website](http://instantclick.io/)
++ [js-breakpoints uses CSS media queries to trigger breakpoints in Javascript](https://github.com/14islands/js-breakpoints)
++ [Everything I Know About The Script Tag](https://eager.io/blog/everything-I-know-about-the-script-tag/)
++ [anime-js - pretty slick...](http://anime-js.com/)
++ [sinon test spies, stubs and mocks](http://sinonjs.org/)
++ [jscheck property-based testing](http://www.jscheck.org/)
++ [blanketjs code coverage](http://blanketjs.org/)
 
 # June 2016
 + [__Checkwave__ by @hakimel](https://repl.it/CZC7)
