@@ -4,8 +4,29 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 + [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
 
-# July 2016
+# Next, the angular, browserify, gulp, karma, superagent, tape, testem, jsdom stuff...
++ [__Server side vanilla Angular rendering under Node__](http://bahmutov.calepin.co/server-side-vanilla-angular-rendering-under-node.html)
 + [js-interview-review: __Testing with AngularJS, Karma, Jasmine__](https://github.com/adam-s/js-interview-review#angularjs-karma-jasmine)
++ [karma tap example](https://github.com/mapbox/karma-tap-example/blob/master/karma.conf.js)
++ [ngMessageFormat](http://blog.thoughtram.io/angular/2015/12/10/ng-message-format-the-unheard-feature-in-angular.html)
++ [karma: How to Unit Test Controllers In AngularJS Without Setting Your Hair On Fire](http://nathanleclaire.com/blog/2013/12/13/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire/)
++ [angular's "controller as" syntax](http://toddmotto.com/digging-into-angulars-controller-as-syntax/)
++ [karma, jasmine:  unit and e2e testing ](http://www.sitepoint.com/unit-and-e2e-testing-in-angularjs/)
++ [karma: not just for angular](http://odetocode.com/blogs/scott/archive/2014/08/19/karma-is-not-just-for-angularjs.aspx)
++ [A Karma, Mocha, Gulp and Browserify Workflow](http://www.roblayton.com/2015/03/a-karma-mocha-gulp-and-browserify.html)
++ [Testing Project Browserify Modules in Karma Test Runner with Gulp](http://ngokevin.com/blog/requiring-browserify-in-karma/)
++ [Browser Testing and Code Coverage with Karma, Tape, and Webpack](http://rmurphey.com/blog/2015/07/20/karma-webpack-tape-code-coverage)
++ [superagent & plugins](https://github.com/visionmedia/superagent#plugins)
++ [karma, qunit](https://naimhamadi.wordpress.com/2014/05/11/javascript-tdd-using-qunit-and-karma/)
++ [karma tape reporter](https://github.com/terinjokes/karma-tape-reporter)
++ [Thoughts on Testem vs Karma](http://zachlendon.github.io/blog/2013/03/26/quick-thoughts-on-testem-vs-testacular-karma/)
++ [unit testing angular on testem, jasmine, coffeescript](http://blog.freeside.co/2013/01/20/getting-started-with-angular-unit-tests/)
++ [jsdom](https://github.com/tmpvar/jsdom)
++ [mocha-jsdom](https://github.com/rstacruz/mocha-jsdom)
++ => [From Karma to Mocha, with a taste of jsdom](https://medium.com/podio-engineering-blog/from-karma-to-mocha-with-a-taste-of-jsdom-c9c703a06b21)
++ [prova - Test runner based on Tape and Browserify](https://github.com/azer/prova)
+
+# July 2016
 + [@airporty's __MonkeyPatcher__](https://gist.github.com/airportyh/9c7233499f05fa24e214ff5df54b2050)
 + [__InstantClick__ a JavaScript library that dramatically speeds up your website](http://instantclick.io/)
 + [js-breakpoints uses CSS media queries to trigger breakpoints in Javascript](https://github.com/14islands/js-breakpoints)
@@ -143,28 +164,6 @@ These are messily arranged links to different topics of interest for developers 
 + [xeger - readable regex](https://github.com/JonAbrams/xeger)
 + [free-style: inline css style objects](https://github.com/blakeembrey/free-style)
 + => [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-
-
-## angular, browserify, gulp, karma, superagent, tape, testem, jsdom
-+ [karma tap example](https://github.com/mapbox/karma-tap-example/blob/master/karma.conf.js)
-+ [ngMessageFormat](http://blog.thoughtram.io/angular/2015/12/10/ng-message-format-the-unheard-feature-in-angular.html)
-+ [karma: How to Unit Test Controllers In AngularJS Without Setting Your Hair On Fire](http://nathanleclaire.com/blog/2013/12/13/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire/)
-+ [angular's "controller as" syntax](http://toddmotto.com/digging-into-angulars-controller-as-syntax/)
-+ [karma, jasmine:  unit and e2e testing ](http://www.sitepoint.com/unit-and-e2e-testing-in-angularjs/)
-+ [karma: not just for angular](http://odetocode.com/blogs/scott/archive/2014/08/19/karma-is-not-just-for-angularjs.aspx)
-+ [A Karma, Mocha, Gulp and Browserify Workflow](http://www.roblayton.com/2015/03/a-karma-mocha-gulp-and-browserify.html)
-+ [Testing Project Browserify Modules in Karma Test Runner with Gulp](http://ngokevin.com/blog/requiring-browserify-in-karma/)
-+ [Browser Testing and Code Coverage with Karma, Tape, and Webpack](http://rmurphey.com/blog/2015/07/20/karma-webpack-tape-code-coverage)
-+ [superagent & plugins](https://github.com/visionmedia/superagent#plugins)
-+ [karma, qunit](https://naimhamadi.wordpress.com/2014/05/11/javascript-tdd-using-qunit-and-karma/)
-+ [karma tape reporter](https://github.com/terinjokes/karma-tape-reporter)
-+ [Thoughts on Testem vs Karma](http://zachlendon.github.io/blog/2013/03/26/quick-thoughts-on-testem-vs-testacular-karma/)
-+ [unit testing angular on testem, jasmine, coffeescript](http://blog.freeside.co/2013/01/20/getting-started-with-angular-unit-tests/)
-+ [jsdom](https://github.com/tmpvar/jsdom)
-+ [mocha-jsdom](https://github.com/rstacruz/mocha-jsdom)
-+ => [From Karma to Mocha, with a taste of jsdom](https://medium.com/podio-engineering-blog/from-karma-to-mocha-with-a-taste-of-jsdom-c9c703a06b21)
-+ [prova - Test runner based on Tape and Browserify](https://github.com/azer/prova)
-
 
 # DEC 2015
 + __*** and this =>__ [derivablejs](https://github.com/ds300/derivablejs) ~ "Derivables make it trivial to maintain consistent (i.e. sense-making) state at all times without requiring that it be kept all in one place."
@@ -324,7 +323,7 @@ These are messily arranged links to different topics of interest for developers 
 + [use npm as a build tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
   + e.g., [nice scripts collection in a package.json ](https://github.com/jeffbski/base-react-min/blob/master/package.json#L20-36)
 + [__reloader that reloads itself__](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html#the-future-is-live)
-+ [json to xml with node.js ~ see n.node() api fragments ](https://templth.wordpress.com/2011/06/07/manipulating-json-and-xml-with-node-js/)
++ [json to xml with node.js ~ see n.node() api fragments](https://templth.wordpress.com/2011/06/07/manipulating-json-and-xml-with-node-js/)
 + [xpath in javascript](http://timkadlec.com/2008/02/xpath-in-javascript-introduction/)
 + [prevent layout thrashing w/fastdom ~ @wilsonpage](wilsonpage.co.uk/preventing-layout-thrashing/)
 + [atomic css](http://acss.io/)
