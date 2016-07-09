@@ -28,6 +28,8 @@ These are messily arranged links to different topics of interest for developers 
 
 # July 2016
 + [Target=”_blank” — the most underestimated vulnerability ever](https://medium.com/@jitbit/target-blank-the-most-underestimated-vulnerability-ever-96e328301f4c)
++ [@developit's 1kb minimally viable DOM Document implementation](https://github.com/developit/undom)
++ [Javascript based Kalman filter for 1D data](https://github.com/wouterbulten/kalmanjs)
 + [@airporty's __MonkeyPatcher__](https://gist.github.com/airportyh/9c7233499f05fa24e214ff5df54b2050)
 + [__InstantClick__ a JavaScript library that dramatically speeds up your website](http://instantclick.io/)
 + [js-breakpoints uses CSS media queries to trigger breakpoints in Javascript](https://github.com/14islands/js-breakpoints)
