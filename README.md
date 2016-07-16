@@ -27,6 +27,12 @@ These are messily arranged links to different topics of interest for developers 
 + [prova - Test runner based on Tape and Browserify](https://github.com/azer/prova)
 
 # July 2016
++ [mdn guide to iterators and generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
++ [Number.prototype.`toLocaleString()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toLocaleString)
++ [structured clone algorithm](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Structured_clone_algorithm)
++ [choo - A 5kb framework for creating sturdy frontend applications](https://github.com/yoshuawuyts/choo)
++ [__Element Queries__](https://www.smashingmagazine.com/2016/07/how-i-ended-up-with-element-queries-and-how-you-can-use-them-today/)
++ [awesome `documentFragment` hack](https://gist.github.com/robwierzbowski/4d6a19bb10302927234ec1dcbe895153)
 + *plugins done this well can go 4+ years without an update* [__jquery.rest__ plugin (use it with sinatra - see @nebraskajs)](https://github.com/lyconic/jquery.rest)
 + [__diff__ ~ get/observe/apply structural differences between two objects](https://github.com/flitbit/diff)
 + [the `:target` trick](https://bitsofco.de/the-target-trick/)
