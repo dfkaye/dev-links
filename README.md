@@ -3,6 +3,7 @@ These are messily arranged links to different topics of interest for developers 
 # First
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 + [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
++ [@redconfetti's rubycoloredglasses cheat-sheets](http://www.rubycoloredglasses.com/resources/cheat-sheets/) (aka, Jason Miller, UCB colleague)
 
 # Next, the angular, browserify, gulp, karma, superagent, tape, testem, jsdom stuff...
 + [__Server side vanilla Angular rendering under Node__](http://bahmutov.calepin.co/server-side-vanilla-angular-rendering-under-node.html)
