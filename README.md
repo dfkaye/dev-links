@@ -6,6 +6,8 @@ These are messily arranged links to different topics of interest for developers 
 + [@redconfetti's rubycoloredglasses cheat-sheets](http://www.rubycoloredglasses.com/resources/cheat-sheets/) (aka, Jason Miller, UCB colleague)
 
 # Next, the angular, browserify, gulp, karma, superagent, tape, testem, jsdom stuff...
++ [batarang ~ angular inspector for Chrome](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en)
++ [angScope ~ angular inspector for Firefox](https://addons.mozilla.org/en-US/firefox/addon/angscope-simple-angularjs-s/)
 + [__Server side vanilla Angular rendering under Node__](http://bahmutov.calepin.co/server-side-vanilla-angular-rendering-under-node.html)
 + [js-interview-review: __Testing with AngularJS, Karma, Jasmine__](https://github.com/adam-s/js-interview-review#angularjs-karma-jasmine)
 + [karma tap example](https://github.com/mapbox/karma-tap-example/blob/master/karma.conf.js)
@@ -28,6 +30,11 @@ These are messily arranged links to different topics of interest for developers 
 + [prova - Test runner based on Tape and Browserify](https://github.com/azer/prova)
 
 # July 2016
++ [__testcheck-js__ ~ Generative property testing for JavaScript](https://github.com/leebyron/testcheck-js)
++ [iterall ~ Minimal zero-dependency utilities for using Iterables in all JavaScript environments.](https://github.com/leebyron/iterall)
++ [page-scroll in vanilla js](https://pawelgrzybek.com/page-scroll-in-vanilla-javascript/)
++ [terse-webpack is Webpack simplified in a fluent API&hellip;](https://github.com/ericclemmons/terse-webpack)
++ [__dwitter__ is tweet sized code samples - *pretty neat*](http://www.dwitter.net)
 + [mdn guide to iterators and generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
 + [Number.prototype.`toLocaleString()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toLocaleString)
 + [structured clone algorithm](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Structured_clone_algorithm)
