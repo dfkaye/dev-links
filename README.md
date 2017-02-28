@@ -2,6 +2,7 @@ These are messily arranged links to different topics of interest for developers 
 
 # First
 + **Search within the page for 'accessibility', '@heydon' or '@heydonworks'**
++ [**design better data tables**](https://medium.com/mission-log/design-better-data-tables-430a30a00d8c)
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 + [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
 + [@redconfetti's rubycoloredglasses cheat-sheets](http://www.rubycoloredglasses.com/resources/cheat-sheets/) (aka, Jason Miller, UCB colleague)
