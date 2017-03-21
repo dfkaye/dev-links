@@ -32,6 +32,7 @@ These are messily arranged links to different topics of interest for developers 
 + [prova - Test runner based on Tape and Browserify](https://github.com/azer/prova)
 
 # March 2017
++ [hyperHTML by @webreflection](https://github.com/WebReflection/hyperHTML)
 + [**@cstrelioff**'s vizdiv d3 bar chart (github)](http://chrisstrelioff.ws/vizdiv/d3_bar_chart/)
 + [**@cstrelioff's responsive SVG bar chart** (gist)](https://gist.github.com/cstrelioff/b7a3bb7c2a2a56c23d49)
 + [Make Your Own Responsive SVG Graphs & Infographics](https://www.sitepoint.com/make-responsive-svg-graphs-infographics/)
