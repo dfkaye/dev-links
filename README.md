@@ -32,6 +32,9 @@ These are messily arranged links to different topics of interest for developers 
 + [prova - Test runner based on Tape and Browserify](https://github.com/azer/prova)
 
 # March 2017
++ [describler by @shepazu](http://describler.com/#intro)
+  - [github repo](https://github.com/shepazu/describler)
++ [Create SVG Charts, step-by-step **excellent**](http://www.c-sharpcorner.com/UploadFile/16101a/creating-bar-charts-and-point-charts-using-html5-and-svg/)
 + [hyperHTML by @webreflection](https://github.com/WebReflection/hyperHTML)
 + [**@cstrelioff**'s vizdiv d3 bar chart (github)](http://chrisstrelioff.ws/vizdiv/d3_bar_chart/)
 + [**@cstrelioff's responsive SVG bar chart** (gist)](https://gist.github.com/cstrelioff/b7a3bb7c2a2a56c23d49)
