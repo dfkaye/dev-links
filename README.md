@@ -31,6 +31,14 @@ These are messily arranged links to different topics of interest for developers 
 + => [From Karma to Mocha, with a taste of jsdom](https://medium.com/podio-engineering-blog/from-karma-to-mocha-with-a-taste-of-jsdom-c9c703a06b21)
 + [prova - Test runner based on Tape and Browserify](https://github.com/azer/prova)
 
+# April 2017
++ [	Creating Bar Charts and Point Charts Using HTML5 and SVG](http://www.c-sharpcorner.com/UploadFile/16101a/creating-bar-charts-and-point-charts-using-html5-and-svg/)
++ [Your Calendrical Fallacy Is...](http://yourcalendricalfallacyis.com/)
++ [__accessibility__ style guide](http://a11y-style-guide.com/style-guide/)
++ [CSS rem vs. em units](https://j.eremy.net/confused-about-rem-and-em/)
++ [@sarah_edo's Chart made with Vue, Transitioning State](http://codepen.io/sdras/pen/OWZRZL/)
++ []()
+
 # March 2017
 + [describler by @shepazu](http://describler.com/#intro)
   - [github repo](https://github.com/shepazu/describler)
@@ -42,7 +50,7 @@ These are messily arranged links to different topics of interest for developers 
 + [Leonie Watson: Accessible design patterns](https://ljwatson.github.io/design-patterns/)
 + [**unitjs** ~ Unit testing framework for Javascript](http://unitjs.com/)
 + [Linting HTML using CSS](https://bitsofco.de/linting-html-using-css/)
-+ [viewport meta tag, from HTML5 meta tag list](http://www.html-5.com/metatags/index.html#viewport-meta-tag)
++ [viewport <meta> tag, from HTML5 <meta> tag list](http://www.html-5.com/metatags/index.html#viewport-meta-tag)
 + [HTML Attributes Screen Reader Compatibility](https://www.powermapper.com/tests/screen-readers/attributes/index.html)
 + [WAI-ARIA Design Patterns and Practices](https://www.w3.org/TR/wai-aria-practices/#aria_ex)
 + [**micromustache** ~ fast, small sub-implementation of `{{mustache}}`](https://github.com/userpixel/micromustache)
