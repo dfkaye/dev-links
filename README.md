@@ -5,6 +5,7 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 + [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
 + [@redconfetti's rubycoloredglasses cheat-sheets](http://www.rubycoloredglasses.com/resources/cheat-sheets/) (aka, Jason Miller, UCB colleague)
++ [everything posted here before November 2015](#everything-before-november-2015)
 
 
 # May 2017
@@ -406,7 +407,7 @@ These are messily arranged links to different topics of interest for developers 
 + [heydonworks: spas w/progressive enhancement](http://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
 
 
-# December 2016: the angular, browserify, gulp, karma, superagent, tape, testem, jsdom stuff
+# December 2015: the angular, browserify, gulp, karma, superagent, tape, testem, jsdom stuff
 + [batarang ~ angular inspector for Chrome](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en)
 + [angScope ~ angular inspector for Firefox](https://addons.mozilla.org/en-US/firefox/addon/angscope-simple-angularjs-s/)
 + [__Server side vanilla Angular rendering under Node__](http://bahmutov.calepin.co/server-side-vanilla-angular-rendering-under-node.html)
