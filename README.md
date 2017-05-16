@@ -7,31 +7,6 @@ These are messily arranged links to different topics of interest for developers 
 + [@redconfetti's rubycoloredglasses cheat-sheets](http://www.rubycoloredglasses.com/resources/cheat-sheets/) (aka, Jason Miller, UCB colleague)
 
 
-# Next, the angular, browserify, gulp, karma, superagent, tape, testem, jsdom stuff...
-+ [batarang ~ angular inspector for Chrome](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en)
-+ [angScope ~ angular inspector for Firefox](https://addons.mozilla.org/en-US/firefox/addon/angscope-simple-angularjs-s/)
-+ [__Server side vanilla Angular rendering under Node__](http://bahmutov.calepin.co/server-side-vanilla-angular-rendering-under-node.html)
-+ [js-interview-review: __Testing with AngularJS, Karma, Jasmine__](https://github.com/adam-s/js-interview-review#angularjs-karma-jasmine)
-+ [karma tap example](https://github.com/mapbox/karma-tap-example/blob/master/karma.conf.js)
-+ [ngMessageFormat](http://blog.thoughtram.io/angular/2015/12/10/ng-message-format-the-unheard-feature-in-angular.html)
-+ [karma: How to Unit Test Controllers In AngularJS Without Setting Your Hair On Fire](http://nathanleclaire.com/blog/2013/12/13/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire/)
-+ [angular's "controller as" syntax](http://toddmotto.com/digging-into-angulars-controller-as-syntax/)
-+ [karma, jasmine:  unit and e2e testing ](http://www.sitepoint.com/unit-and-e2e-testing-in-angularjs/)
-+ [karma: not just for angular](http://odetocode.com/blogs/scott/archive/2014/08/19/karma-is-not-just-for-angularjs.aspx)
-+ [A Karma, Mocha, Gulp and Browserify Workflow](http://www.roblayton.com/2015/03/a-karma-mocha-gulp-and-browserify.html)
-+ [Testing Project Browserify Modules in Karma Test Runner with Gulp](http://ngokevin.com/blog/requiring-browserify-in-karma/)
-+ [Browser Testing and Code Coverage with Karma, Tape, and Webpack](http://rmurphey.com/blog/2015/07/20/karma-webpack-tape-code-coverage)
-+ [superagent & plugins](https://github.com/visionmedia/superagent#plugins)
-+ [karma, qunit](https://naimhamadi.wordpress.com/2014/05/11/javascript-tdd-using-qunit-and-karma/)
-+ [karma tape reporter](https://github.com/terinjokes/karma-tape-reporter)
-+ [Thoughts on Testem vs Karma](http://zachlendon.github.io/blog/2013/03/26/quick-thoughts-on-testem-vs-testacular-karma/)
-+ [unit testing angular on testem, jasmine, coffeescript](http://blog.freeside.co/2013/01/20/getting-started-with-angular-unit-tests/)
-+ [jsdom](https://github.com/tmpvar/jsdom)
-+ [mocha-jsdom](https://github.com/rstacruz/mocha-jsdom)
-+ => [From Karma to Mocha, with a taste of jsdom](https://medium.com/podio-engineering-blog/from-karma-to-mocha-with-a-taste-of-jsdom-c9c703a06b21)
-+ [prova - Test runner based on Tape and Browserify](https://github.com/azer/prova)
-
-
 # May 2017
 + [@hdv: Accessibly labelling interactive elements](https://hiddedevries.nl/en/blog/2017-05-05-accessibly-labelling-interactive-elements)
 + [Use the *Unofficial Bash Strict Mode*&hellips;](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
@@ -431,6 +406,31 @@ These are messily arranged links to different topics of interest for developers 
 + [heydonworks: spas w/progressive enhancement](http://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
 
 
+# December 2016: the angular, browserify, gulp, karma, superagent, tape, testem, jsdom stuff
++ [batarang ~ angular inspector for Chrome](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en)
++ [angScope ~ angular inspector for Firefox](https://addons.mozilla.org/en-US/firefox/addon/angscope-simple-angularjs-s/)
++ [__Server side vanilla Angular rendering under Node__](http://bahmutov.calepin.co/server-side-vanilla-angular-rendering-under-node.html)
++ [js-interview-review: __Testing with AngularJS, Karma, Jasmine__](https://github.com/adam-s/js-interview-review#angularjs-karma-jasmine)
++ [karma tap example](https://github.com/mapbox/karma-tap-example/blob/master/karma.conf.js)
++ [ngMessageFormat](http://blog.thoughtram.io/angular/2015/12/10/ng-message-format-the-unheard-feature-in-angular.html)
++ [karma: How to Unit Test Controllers In AngularJS Without Setting Your Hair On Fire](http://nathanleclaire.com/blog/2013/12/13/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire/)
++ [angular's "controller as" syntax](http://toddmotto.com/digging-into-angulars-controller-as-syntax/)
++ [karma, jasmine:  unit and e2e testing ](http://www.sitepoint.com/unit-and-e2e-testing-in-angularjs/)
++ [karma: not just for angular](http://odetocode.com/blogs/scott/archive/2014/08/19/karma-is-not-just-for-angularjs.aspx)
++ [A Karma, Mocha, Gulp and Browserify Workflow](http://www.roblayton.com/2015/03/a-karma-mocha-gulp-and-browserify.html)
++ [Testing Project Browserify Modules in Karma Test Runner with Gulp](http://ngokevin.com/blog/requiring-browserify-in-karma/)
++ [Browser Testing and Code Coverage with Karma, Tape, and Webpack](http://rmurphey.com/blog/2015/07/20/karma-webpack-tape-code-coverage)
++ [superagent & plugins](https://github.com/visionmedia/superagent#plugins)
++ [karma, qunit](https://naimhamadi.wordpress.com/2014/05/11/javascript-tdd-using-qunit-and-karma/)
++ [karma tape reporter](https://github.com/terinjokes/karma-tape-reporter)
++ [Thoughts on Testem vs Karma](http://zachlendon.github.io/blog/2013/03/26/quick-thoughts-on-testem-vs-testacular-karma/)
++ [unit testing angular on testem, jasmine, coffeescript](http://blog.freeside.co/2013/01/20/getting-started-with-angular-unit-tests/)
++ [jsdom](https://github.com/tmpvar/jsdom)
++ [mocha-jsdom](https://github.com/rstacruz/mocha-jsdom)
++ => [From Karma to Mocha, with a taste of jsdom](https://medium.com/podio-engineering-blog/from-karma-to-mocha-with-a-taste-of-jsdom-c9c703a06b21)
++ [prova - Test runner based on Tape and Browserify](https://github.com/azer/prova)
+
+
 # November 2015
 + i like this => [frameworkless javascript => minimal framework alternatives](http://www.sitepoint.com/frameworkless-javascript/#lets-meet-in-the-middle-of-the-road)
 + [gridly: flexbox-based css grids](http://ionicabizau.github.io/gridly/example/)
@@ -451,8 +451,9 @@ These are messily arranged links to different topics of interest for developers 
 + [10 things to know about gulp](http://engineroom.teamwork.com/10-things-to-know-about-gulp/)
 + [How to fix a bad user interface](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
 
-
+---------------------------------
 # Everything before November 2015
+---------------------------------
 
 ## repos and snippets
 + [posthtml transform](https://github.com/posthtml/posthtml)
