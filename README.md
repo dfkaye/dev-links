@@ -11,7 +11,7 @@ These are messily arranged links to different topics of interest for developers 
 
 # May 2017
 + [@hdv: Accessibly labelling interactive elements](https://hiddedevries.nl/en/blog/2017-05-05-accessibly-labelling-interactive-elements)
-+ [Use the *Unofficial Bash Strict Mode*&hellips;](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
++ [Use the *Unofficial Bash Strict Mode*](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 + [@johnpcutler: 12 signs you're working in a feature factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
 + [@benfrain: *Use linters for errors, formatters to fix style*](https://benfrain.com/use-linters-for-errors-formatters-to-fix-style/)
 + [**jsonplaceholder**: fake online REST API for testing/prototyping](http://jsonplaceholder.typicode.com/)
