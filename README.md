@@ -5,7 +5,8 @@ These are messily arranged links to different topics of interest for developers 
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 + [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
 + [@redconfetti's rubycoloredglasses cheat-sheets](http://www.rubycoloredglasses.com/resources/cheat-sheets/) (aka, Jason Miller, UCB colleague)
-+ [everything posted here before November 2015](#everything-before-november-2015)
++ [december 2015: `angular` (testing) links](#december-2015-the-angular-browserify-gulp-karma-superagent-tape-testem-jsdom-stuff)
++ [links from before November 2015](#everything-before-november-2015)
 
 
 # May 2017
