@@ -2,7 +2,6 @@ These are messily arranged links to different topics of interest for developers 
 
 # First
 + **Search within the page for 'accessibility', '@heydon' or '@heydonworks'**
-+ [**design better data tables**](https://medium.com/mission-log/design-better-data-tables-430a30a00d8c)
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 + [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
 + [@redconfetti's rubycoloredglasses cheat-sheets](http://www.rubycoloredglasses.com/resources/cheat-sheets/) (aka, Jason Miller, UCB colleague)
@@ -35,9 +34,9 @@ These are messily arranged links to different topics of interest for developers 
 
 # May 2017
 + [@hdv: Accessibly labelling interactive elements](https://hiddedevries.nl/en/blog/2017-05-05-accessibly-labelling-interactive-elements)
-+ [Use the *Unofficial Bash Strict Mode**&hellips;](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
++ [Use the *Unofficial Bash Strict Mode*&hellips;](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 + [@johnpcutler: 12 signs you're working in a feature factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
-+ [@benfrain: **Use linters for errors, formatters to fix style**](https://benfrain.com/use-linters-for-errors-formatters-to-fix-style/)
++ [@benfrain: *Use linters for errors, formatters to fix style*](https://benfrain.com/use-linters-for-errors-formatters-to-fix-style/)
 + [**jsonplaceholder**: fake online REST API for testing/prototyping](http://jsonplaceholder.typicode.com/)
 + [video by @searls: How to Program](https://vimeo.com/216068726)
 + [**Design Better Data Tables**](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
@@ -243,6 +242,7 @@ These are messily arranged links to different topics of interest for developers 
 + [generalizing JSX *outside* ReactJS](http://tolmasky.com/2016/03/24/generalizing-jsx/)
 + [landmark discoverability #a11y](http://www.scottohara.me/article/not-really-about-the-button.html)
 
+
 # July 2016
 + [aria bookmarklets](http://pauljadam.com/bookmarklets/aria.html)
 + [strummer Structural matching for JavaScript](https://github.com/TabDigital/strummer)
@@ -282,6 +282,7 @@ These are messily arranged links to different topics of interest for developers 
 + [jscheck property-based testing](http://www.jscheck.org/)
 + [blanketjs code coverage](http://blanketjs.org/)
 
+
 # June 2016
 + [__Checkwave__ by @hakimel](https://repl.it/CZC7)
 + [Isomorphic JS using rill-js](https://medium.com/@pierceydylan/isomorphic-javascript-it-just-has-to-work-b9da5b0c8035#.w6ieefr3x)
@@ -289,6 +290,7 @@ These are messily arranged links to different topics of interest for developers 
 + [__set-dom__: Lightweight dom diffing library with plain old html](https://github.com/DylanPiercey/set-dom)
 + [__gulp-html__ plugin for HTML validation, using vnu.jar](https://github.com/watilde/gulp-html) - validate those CSSComponents
 + [*What if presentational components were authored in a CSS based DSL?*](https://github.com/iammerrick/CSSComponents) from [Merrick Christensen](https://twitter.com/iammerrick)
+
 
 # April 2016
 + [scour: general-purpose library for dealing with JSON trees.](https://github.com/rstacruz/scour)
@@ -328,6 +330,7 @@ These are messily arranged links to different topics of interest for developers 
 + [EditorConfig](http://editorconfig.org/)
 + blocked by [@tef: Write Code That is Easy to Delete, not easy to extend](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 + great idea => [scripty: move npm scripts into their own files, use the same npm command to run them](https://github.com/testdouble/scripty)
+
 
 # March 2016
 + [ripple: A tiny foundation for building reactive views](https://github.com/ripplejs/ripple)
@@ -380,7 +383,8 @@ These are messily arranged links to different topics of interest for developers 
 + *nice!* [Compose HTTP clients using JavaScript's fetch API](https://github.com/mjackson/http-client)
 + [Harry Roberts: @mixin is better than @extend for Performance](http://csswizardry.com/2016/02/mixins-better-for-performance/)
 
-# Feb 2016
+
+# February 2016
 + [CSSX is a set of tools that will help you write vanilla CSS in JavaScript](http://krasimir.github.io/cssx/)
 + *slow and steady wins...* [Jetbrains: The unicorn Silicon Valley doesn't like to talk about](http://movingfulcrum.com/jetbrains-the-unicorn-silicon-valley-doesnt-like-to-talk-about/)
 + [Unit-Testing AngularJS in a Rails app using the Jasmine gem](https://blog.pivotal.io/labs/labs/unit-testing-angularjs-using-jasmine)
@@ -404,14 +408,14 @@ These are messily arranged links to different topics of interest for developers 
 + [ns-events ~ 1kB lib for namespacing events](https://github.com/activenode/ns-events.js)
 
 
-# Jan 2016
+# January 2016
 + [Atom cheatsheet](http://sweetme.at/2014/03/10/atom-editor-cheat-sheet/)
 + [Git cheatsheet](http://www.rubycoloredglasses.com/cheat-sheets/git/)
 + [xeger - readable regex](https://github.com/JonAbrams/xeger)
 + [free-style: inline css style objects](https://github.com/blakeembrey/free-style)
 + => [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
-# DEC 2015
+# December 2015
 + __*** and this =>__ [derivablejs](https://github.com/ds300/derivablejs) ~ "Derivables make it trivial to maintain consistent (i.e. sense-making) state at all times without requiring that it be kept all in one place."
 + __this=>__ [instant, self-rewriting application using ServiceWorker](https://github.com/bahmutov/bottle-service)
 + [run-js: A prototyping server that just works](https://github.com/remixz/run-js)
@@ -427,7 +431,7 @@ These are messily arranged links to different topics of interest for developers 
 + [heydonworks: spas w/progressive enhancement](http://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
 
 
-# NOV 2015
+# November 2015
 + i like this => [frameworkless javascript => minimal framework alternatives](http://www.sitepoint.com/frameworkless-javascript/#lets-meet-in-the-middle-of-the-road)
 + [gridly: flexbox-based css grids](http://ionicabizau.github.io/gridly/example/)
 + [jsverify: property-based testing like quickcheck](https://jsverify.github.io/)
@@ -448,7 +452,9 @@ These are messily arranged links to different topics of interest for developers 
 + [How to fix a bad user interface](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
 
 
-# repos and snippets
+# Everything before November 2015
+
+## repos and snippets
 + [posthtml transform](https://github.com/posthtml/posthtml)
 + [nito ~ Minimal component library for jQuery, inspired by React and Riot](https://github.com/morris/nito)
 + [restyle object defs to CSS](https://github.com/WebReflection/restyle)
@@ -514,8 +520,7 @@ These are messily arranged links to different topics of interest for developers 
 + [@substack: multi-dimensional data format](https://github.com/substack/mddf) 
 + [progressively-enhanced collapsible regions using ARIA States and Properties](https://github.com/jgarber623/aria-collapsible)
 
-
-# demos and tools
+## demos and tools
 + [@heydonworks Getting Nowhere with CSS Best Practices](http://slides.com/heydon/getting-nowhere-with-css-best-practices#/)
 + [learnjsdata: manipulating data using JavaScript ](learnjsdata.com)
 + [upup ~ offline-first](https://www.talater.com/upup/)
@@ -535,14 +540,12 @@ These are messily arranged links to different topics of interest for developers 
 + [ColorZilla](http://www.colorzilla.com/)
 + [CSS stats](http://cssstats.com/)
 
-
-# frameworks
+## frameworks
 + *JAN 2016* [Why I No Longer Use MVC Frameworks](http://www.infoq.com/articles/no-more-mvc-frameworks)
 + [you probably shouldn't use a framework](http://snugug.com/musings/you-probably-shouldnt-use-javascript-framework)
 + [Joe Gregorio: Why I don't want your js framework but I love you](http://netpoetica.com/why-i-dont-want-your-javascript-framework-but-i-love-you/)
 
-
-# articles
+## articles
 + [Simplicity Will Improve Your Team Effectiveness](https://ketiljensen.wordpress.com/2015/09/12/simplicity-will-improve-your-team-effectiveness/)
 + [The role of the Front-end Developer by @adambsilver](http://adamsilver.io/articles/the-role-of-the-front-end-developer/)
 + [CSS TDD using Quixote, Mocha, and Karma](http://www.codecraftuk.org/events/2015/02/css-tdd-review/)
