@@ -7,6 +7,7 @@ These are messily arranged links to different topics of interest for developers 
 + [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
 + [@redconfetti's rubycoloredglasses cheat-sheets](http://www.rubycoloredglasses.com/resources/cheat-sheets/) (aka, Jason Miller, UCB colleague)
 
+
 # Next, the angular, browserify, gulp, karma, superagent, tape, testem, jsdom stuff...
 + [batarang ~ angular inspector for Chrome](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en)
 + [angScope ~ angular inspector for Firefox](https://addons.mozilla.org/en-US/firefox/addon/angscope-simple-angularjs-s/)
@@ -31,13 +32,33 @@ These are messily arranged links to different topics of interest for developers 
 + => [From Karma to Mocha, with a taste of jsdom](https://medium.com/podio-engineering-blog/from-karma-to-mocha-with-a-taste-of-jsdom-c9c703a06b21)
 + [prova - Test runner based on Tape and Browserify](https://github.com/azer/prova)
 
+
+# May 2017
++ [@hdv: Accessibly labelling interactive elements](https://hiddedevries.nl/en/blog/2017-05-05-accessibly-labelling-interactive-elements)
++ [Use the *Unofficial Bash Strict Mode**&hellips;](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
++ [@johnpcutler: 12 signs you're working in a feature factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
++ [@benfrain: **Use linters for errors, formatters to fix style**](https://benfrain.com/use-linters-for-errors-formatters-to-fix-style/)
++ [**jsonplaceholder**: fake online REST API for testing/prototyping](http://jsonplaceholder.typicode.com/)
++ [video by @searls: How to Program](https://vimeo.com/216068726)
++ [**Design Better Data Tables**](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
++ [A free introduction to Elixir, OTP, Ecto, and Phoenix](https://medium.com/@dailydrip/a-free-introduction-to-elixir-otp-ecto-and-phoenix-228d0e994fc1)
++ [github repo: clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
++ [Simplifying CSS Cubes with Custom Properties](https://css-tricks.com/simplifying-css-cubes-custom-properties/)
+
+
 # April 2017
++ [**Continuous Integration** Using `WebPagetest` and `Webpack`](https://medium.com/engineering-housing/continuous-integration-using-webpagetest-and-webpack-1f4465d95405)
++ [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery)](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
++ [Responsive CSS Patterns without Media Queries](https://www.sitepoint.com/responsive-css-patterns-without-media-queries/)
++ [@matuzo: **Writing javaScript with Accessibility in Mind**](https://www.sitepoint.com/writing-javascript-with-accessibility-in-mind/)
++ [**Joe Coleman's resume with "degree of hard sell" control**](http://getcoleman.com/)
++ [Useful accessibility resources](https://www.stefanjudis.de/useful-accessibility-resources.html)
 + [	Creating Bar Charts and Point Charts Using HTML5 and SVG](http://www.c-sharpcorner.com/UploadFile/16101a/creating-bar-charts-and-point-charts-using-html5-and-svg/)
 + [Your Calendrical Fallacy Is...](http://yourcalendricalfallacyis.com/)
 + [__accessibility__ style guide](http://a11y-style-guide.com/style-guide/)
 + [CSS rem vs. em units](https://j.eremy.net/confused-about-rem-and-em/)
 + [@sarah_edo's Chart made with Vue, Transitioning State](http://codepen.io/sdras/pen/OWZRZL/)
-+ []()
+
 
 # March 2017
 + [describler by @shepazu](http://describler.com/#intro)
@@ -65,8 +86,11 @@ These are messily arranged links to different topics of interest for developers 
 
 
 # December 2016 through February 2017
-+ [CSS Inheritance and the Cascade by @heydownworks](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)
++ [**CSS Inheritance and the Cascade** by @heydownworks](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)
 + [HumanInput event detection](https://github.com/liftoff/HumanInput)
++ [**Optimising the front-end for the browser**](https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572#.a0mal731k)
++ [`<link>` in `<body>` - simpler better way to load CSS](https://jakearchibald.com/2016/link-in-body/#a-simpler-better-way)
++ [HTML5 Accessibility](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
 + [Fun Hacks for Faster Content](https://jakearchibald.com/2016/fun-hacks-faster-content/)
 + [Style scoping with Element Queries](http://codepen.io/tomhodgins/post/how-style-scoping-works-with-element-queries)
 + [A list of everything that could go in the `<head>` of your document](https://github.com/joshbuchea/HEAD)
@@ -80,17 +104,14 @@ These are messily arranged links to different topics of interest for developers 
 + [notify-js - unifying events &amp; promises - by @webreflection](https://www.webreflection.co.uk/blog/2015/08/14/the-line-between-events-and-promises)
 + [*blast from the past:* DynDuo "DHTML" library](https://grox.net/doc/web/javascript/dynduo/)
 + [`reserver` - tiny dev server that rebuilds your static, single-page app when you refresh your browser](https://github.com/akrymski/reserver)
-+ [travis-ci: using **xvfb** to run tests that require a GUI](https://docs.travis-ci.com/user/gui-and-headless-browsers/#Using-xvfb-to-Run-Tests-That-Require-a-GUI)
-+ [js unit testing with **travis-ci** by @zzo (trostler)](https://github.com/zzo/js-unit-testing-with-travis/blob/master/.travis.yml)
++ [travis-ci: **using `xvfb` to run tests that require a GUI**](https://docs.travis-ci.com/user/gui-and-headless-browsers/#Using-xvfb-to-Run-Tests-That-Require-a-GUI)
++ [**js unit testing with `travis-ci`** by @zzo (trostler)](https://github.com/zzo/js-unit-testing-with-travis/blob/master/.travis.yml)
 + [`closure compiler` in javascript](https://developers.googleblog.com/2016/08/closure-compiler-in-javascript.html)
 + [webpack-chain ~ simplify the modification of Webpack 2 configurations](https://github.com/mozilla-rpweb/webpack-chain)
 + [Direction-Aware CSS-only Hover Effects](http://codepen.io/gabriellewee/post/how-to-create-direction-aware-css-only-hover-effects)
 + [Individual CSS Transform Functions (using CSS custom properties/variables)](https://danielcwilson.com/blog/2017/02/individual-transforms/)
 + [Schema-shot - snapshot testing for dynamic data by @glebbahmutov](https://glebbahmutov.com/blog/schema-shot/)
 + [@_developit's JSX intro](https://jasonformat.com/wtf-is-jsx/)
-+ [**Optimising the front-end for the browser**](https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572#.a0mal731k)
-+ [`<link>` in `<body>` - simpler better way to load CSS](https://jakearchibald.com/2016/link-in-body/#a-simpler-better-way)
-+ [HTML5 Accessibility](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
 
 
 # November 2016
@@ -538,8 +559,7 @@ These are messily arranged links to different topics of interest for developers 
 + [The Problem with Responsive Design](http://www.webdesignerdepot.com/2015/06/responsive-design-is-failing-mobile-ux/)
 + [stoyan ~ CSS performance: UI with fewer images](http://www.phpied.com/css-performance-ui-with-fewer-images/)
 + [How Can I Make My Forms A Little More Accessible? ](https://medium.com/@roblcopeland/how-can-i-make-my-forms-a-little-more-accessible-1726d63210f2)
-+ ha ha ~ XSLT and JSP taught me this 10 years ago ~ ha ha ha => [Unit testing React components without a DOM
-](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
++ ha ha ~ XSLT and JSP taught me this 10 years ago ~ ha ha ha => [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
 + [Things I've Learned About Building & Coding HTML Email Templates](http://www.leemunroe.com/building-html-email/)
 + [MICRODATA, JSON-LD & SCHEMA.ORG RICH SNIPPETS ](http://builtvisible.com/micro-data-schema-org-guide-generating-rich-snippets/)
 + [@cjno Immutability in React](http://www.sitepoint.com/immutability-react/)
