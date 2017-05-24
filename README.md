@@ -10,6 +10,11 @@ These are messily arranged links to different topics of interest for developers 
 
 
 # May 2017
++ [45% Faster React Functional Components, Now](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f)
++ [Keyboard and Overflow #a11y](http://adrianroselli.com/2016/02/keyboard-and-overflow.html)
++ [`colormind` ~ Color scheme generator](http://colormind.io/)
++ [`Launchpad`: `JSFiddle` for `GraphQL` server demo platform](https://dev-blog.apollodata.com/introducing-launchpad-the-graphql-server-demo-platform-cc4e7481fcba)
++ [The incredible ways people with disabilities customize their tech to thrive](http://mashable.com/2017/05/17/apple-accessibility-videos-disability/#.0loftR8Hiqz)
 + [Using the Web Speech API ](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API)
   - [speech synthesizer demo](https://rawgit.com/mdn/web-speech-api/master/speak-easy-synthesis/index.html)
 + [The Accessiblity Mindset](https://24ways.org/2015/the-accessibility-mindset/)
