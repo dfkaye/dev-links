@@ -10,7 +10,8 @@ These are messily arranged links to different topics of interest for developers 
 
 
 # May 2017
-+ [45% Faster React Functional Components, Now](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f)
++ []()
++ [**45% Faster* `React` Functional Components, Now](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f)
 + [Keyboard and Overflow #a11y](http://adrianroselli.com/2016/02/keyboard-and-overflow.html)
 + [`colormind` ~ Color scheme generator](http://colormind.io/)
 + [`Launchpad`: `JSFiddle` for `GraphQL` server demo platform](https://dev-blog.apollodata.com/introducing-launchpad-the-graphql-server-demo-platform-cc4e7481fcba)
