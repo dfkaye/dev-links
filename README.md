@@ -10,7 +10,8 @@ These are messily arranged links to different topics of interest for developers 
 
 
 # May 2017
-+ []()
++ [Better Form Design: One Thing Per Page by @adambsilver](https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/)
++ [Monitoring Jank: How we found the slowest parts of our UI](https://fulcrum.lever.co/monitoring-jank-how-we-found-the-slowest-parts-of-our-ui-b6ffd7386896)
 + [**45% Faster** `React` Functional Components, Now](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f)
 + [Keyboard and Overflow #a11y](http://adrianroselli.com/2016/02/keyboard-and-overflow.html)
 + [`colormind` ~ Color scheme generator](http://colormind.io/)
