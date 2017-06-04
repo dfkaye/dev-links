@@ -9,7 +9,28 @@ These are messily arranged links to different topics of interest for developers 
 + [links from before November 2015](#everything-before-november-2015)
 
 
+# June 2017 so far
++ []()
++ [@christianvuerings' `ghostjs` and `aXe` helpers](https://github.com/christianvuerings/ghost-axe)
++ [Explaining synchronous vs asynchronous JavaScript](https://medium.com/@siddharthac6/javascript-execution-of-synchronous-and-asynchronous-codes-40f3a199e687)
++ [Wrong Questions About Agile](http://holub.com/wrong-questions/)
++ [Improving a Legacy Code Base](https://jacquesmattheij.com/improving-a-legacy-codebase)
++ [Re-Re-Posting @heydownworks' `fukol-grids`](https://github.com/Heydon/fukol-grids)
++ [Don't Read Your Log Files](https://medium.com/@chimeracoder/dont-read-your-logs-13586c790202)
++ [Why do so few people major in computer science?](http://danwang.co/why-so-few-computer-science-majors/)
++ [**#A11Y THREAD** => if you have a disability, what's the hardest thing about browsing the web?](https://mobile.twitter.com/captainsafia/status/871056480799162368)
++ [Here I am at age 46 trying to start a career as a web developer...](http://codefucircle.blogspot.com/2017/06/my-story.html?m=1)
+
+
 # May 2017
++ [opinion from 2015: `React` is a Terrible Idea](https://www.pandastrike.com/posts/20150311-react-bad-idea)
+  - "For new applications, please, for the love of all things open, use Web components instead"
++ [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019)
++ [`Elixir` for NodeJS developers](https://chaidarun.com/elixir-nodejs)
++ [@cmstead ~ `quokka-mocha-bdd`: run experiments, turn them into tests](https://www.npmjs.com/package/quokka-mocha-bdd)
++ [quokka ~ live scratchpage for JavaScript](https://quokkajs.com/)
++ [quokka jetbrains plugin](https://plugins.jetbrains.com/plugin/9667-quokka)
++ [postcss-normalize: Use the parts of normalize.css you need from your browserlist](https://github.com/jonathantneal/postcss-normalize)
 + [Better Form Design: One Thing Per Page by @adambsilver](https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/)
 + [Monitoring Jank: How we found the slowest parts of our UI](https://fulcrum.lever.co/monitoring-jank-how-we-found-the-slowest-parts-of-our-ui-b6ffd7386896)
 + [**45% Faster** `React` Functional Components, Now](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f)
@@ -32,8 +53,8 @@ These are messily arranged links to different topics of interest for developers 
 + [video by @searls: How to Program](https://vimeo.com/216068726)
 + [**Design Better Data Tables**](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
 + [A free introduction to Elixir, OTP, Ecto, and Phoenix](https://medium.com/@dailydrip/a-free-introduction-to-elixir-otp-ecto-and-phoenix-228d0e994fc1)
-+ [github repo: clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-+ [Simplifying CSS Cubes with Custom Properties](https://css-tricks.com/simplifying-css-cubes-custom-properties/)
++ [github repo: `clean-code-javascript`](https://github.com/ryanmcdermott/clean-code-javascript)
++ [Simplifying CSS Cubes with **Custom Properties**](https://css-tricks.com/simplifying-css-cubes-custom-properties/)
 
 
 # April 2017
