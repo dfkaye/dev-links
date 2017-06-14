@@ -45,6 +45,8 @@ These are messily arranged links to different topics of interest for developers 
 + [js-refactorings for `atom`](https://atom.io/packages/js-refactor-atom)
 + [`ꙮ` the Multiocular `O` `ꙮ`](https://en.wikipedia.org/wiki/Multiocular_O)
 + [**Sudoku Solver From Scratch, _using TDD_**](https://www.codefellows.org/blog/sudoku-solver-from-scratch-in-javascript-tdd-style-a-tutorial/)
+    - [Dancing Links Implementation](https://github.com/wbyoung/dance)
+    - [Sudoku Solver Dancing Links Example](https://github.com/jlaire/dlx-examples)
 + [@hdv: Accessibly labelling interactive elements](https://hiddedevries.nl/en/blog/2017-05-05-accessibly-labelling-interactive-elements)
 + [Use the *Unofficial Bash Strict Mode*](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 + [@johnpcutler: 12 signs you're working in a feature factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
