@@ -92,7 +92,7 @@ These are messily arranged links to different topics of interest for developers 
 
 
 # March 2017
-+ [describler by @shepazu](http://describler.com/#intro)
++ [**describler** by @shepazu](http://describler.com/#intro)
   - [github repo](https://github.com/shepazu/describler)
 + [Create SVG Charts, step-by-step **excellent**](http://www.c-sharpcorner.com/UploadFile/16101a/creating-bar-charts-and-point-charts-using-html5-and-svg/)
 + [hyperHTML by @webreflection](https://github.com/WebReflection/hyperHTML)
