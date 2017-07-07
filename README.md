@@ -10,7 +10,6 @@ These are messily arranged links to different topics of interest for developers 
 
 # June 2017
 + [Introductory bullshit detection for non-technical managers](https://itsyourturnblog.com/introductory-bullshit-detection-for-non-technical-managers-7c7a9e54afee)
-+ [**Custom QUnit Assertions**](https://spin.atomicobject.com/2016/11/11/custom-qunit-assertions/)
 + [**Two-Factor Authentication** with Node.js](https://davidwalsh.name/2fa)
 + [`calligraphr` - Turn handwriting or calligraphy into a font](https://www.calligraphr.com/)
 + [Handling State in React: Four Immutable Approaches to Consider](https://medium.com/@housecor/handling-state-in-react-four-immutable-approaches-to-consider-d1f5c00249d5)
@@ -52,7 +51,7 @@ These are messily arranged links to different topics of interest for developers 
 + [*#a11y* How to Make Your Website Accessible to People Who Use a Screen Magnifier]( https://dev.to/_bigblind/how-to-make-your-website-accessible-to-people-who-use-a-screen-magnifier)
 + [Reducing our Redux code with React Apollo](https://dev-blog.apollodata.com/reducing-our-redux-code-with-react-apollo-5091b9de9c2a )
 + [Introductory bullshit detection for non-technical managers](https://itsyourturnblog.com/introductory-bullshit-detection-for-non-technical-managers-7c7a9e54afee)
-+ [Custom QUnit Assertions](https://spin.atomicobject.com/2016/11/11/custom-qunit-assertions/ )
++ [**Custom QUnit Assertions**](https://spin.atomicobject.com/2016/11/11/custom-qunit-assertions/)
 + [TDD - does it really matter to test-first or test-last?](https://blog.acolyer.org/2017/06/13/a-dissection-of-the-test-driven-development-process-does-it-really-matter-to-test-first-or-test-last/amp/)
 + [codepen by @allThingsSmitty - Simple Responsive Table in CSS](https://codepen.io/AllThingsSmitty/pen/Myqmd)
 + [from 2015: Improve Your Workflow with `BrowserSync` 2.0](https://www.sitepoint.com/improve-workflow-browsersync-2-0/)
