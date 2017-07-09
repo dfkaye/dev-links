@@ -8,6 +8,9 @@ These are messily arranged links to different topics of interest for developers 
 + [december 2015: `angular` (testing) links](#december-2015-the-angular-browserify-gulp-karma-superagent-tape-testem-jsdom-stuff)
 + [links from before November 2015](#everything-before-november-2015)
 
+# July 2017
++ *coming soon eventually...*
+
 # June 2017
 + [Introductory bullshit detection for non-technical managers](https://itsyourturnblog.com/introductory-bullshit-detection-for-non-technical-managers-7c7a9e54afee)
 + [**Two-Factor Authentication** with Node.js](https://davidwalsh.name/2fa)
