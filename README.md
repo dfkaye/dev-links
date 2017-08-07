@@ -711,7 +711,7 @@ These are messily arranged links to different topics of interest for developers 
 + [Getting started with Selenium Webdriver for node.js](http://bites.goodeggs.com/posts/selenium-webdriver-nodejs-tutorial/)
 + [Patterns ~ An accessible widget & pattern library](http://a11yproject.com/patterns/)
 + [flexbox and quantity queries](http://www.aaron-gustafson.com/notebook/playing-with-flexbox-and-quantity-queries/)
-+ [javascript state pattern](robdodson.me/take-control-of-your-app-with-the-javascript-state-patten/)
++ [javascript state pattern](http://www.robdodson.me/take-control-of-your-app-with-the-javascript-state-patten/)
 + [Club Ajax: plaintext v innerText v textContent](http://clubajax.org/plain-text-vs-innertext-vs-textcontent/)
 + [Observables are the root of all evil](http://www.thesoftwaresimpleton.com/blog/2015/04/07/observables-evil/)
 + [@mpersandjs in a nutshell](http://silvdb.github.io/2015/04/20/ampersand-js-in-a-nutshell/)
