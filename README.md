@@ -8,8 +8,38 @@ These are messily arranged links to different topics of interest for developers 
 + [december 2015: `angular` (testing) links](#december-2015-the-angular-browserify-gulp-karma-superagent-tape-testem-jsdom-stuff)
 + [links from before November 2015](#everything-before-november-2015)
 
-# July 2017
+# August 2017
 + *coming soon eventually...*
++ [#test: Rapid Prototyping in JavaScript](https://mattdesl.svbtle.com/rapid-prototyping)
++ [#test: Chrome automation made simple with `chromeless`](https://github.com/graphcool/chromeless)
++ [10 questions you should ask in a job interview](https://www.theladders.com/p/24701/questions-job-interview)
++ [#perf: The Critical Request](https://css-tricks.com/the-critical-request/)
++ [#DOM: Remove all event handlers by clone-and-replace](https://stackoverflow.com/questions/4386300/javascript-dom-how-to-remove-all-events-of-a-dom-object#4386514)
++ [#webGL: Rendering SVG Paths in WebGL](https://css-tricks.com/rendering-svg-paths-in-webgl/)
++ [@webreflection: **hyperHTML**](https://viperhtml.js.org/)
++ [#a11y: The responsive order conflict for keyboard focus](https://alastairc.ac/2017/06/the-responsive-order-conflict/)
+
+# July 2017
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ [#editor: power-assert, descriptive assertion messages through standard assert interface](https://github.com/power-assert-js/power-assert)
++ [#editor: online json formatter](https://jsonformatter-online.com/)
++ [#editor: stackedit online markdown editor](https://stackedit.io/editor)
 
 # June 2017
 + [Introductory bullshit detection for non-technical managers](https://itsyourturnblog.com/introductory-bullshit-detection-for-non-technical-managers-7c7a9e54afee)
