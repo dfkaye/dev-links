@@ -8,8 +8,11 @@ These are messily arranged links to different topics of interest for developers 
 + [december 2015: `angular` (testing) links](#december-2015-the-angular-browserify-gulp-karma-superagent-tape-testem-jsdom-stuff)
 + [links from before November 2015](#everything-before-november-2015)
 
-# August 2017
+# September 2017
 + *coming soon eventually...*
++ []()
+
+# August 2017
 + [#test: Rapid Prototyping in JavaScript](https://mattdesl.svbtle.com/rapid-prototyping)
 + [#test: Chrome automation made simple with `chromeless`](https://github.com/graphcool/chromeless)
 + [10 questions you should ask in a job interview](https://www.theladders.com/p/24701/questions-job-interview)
