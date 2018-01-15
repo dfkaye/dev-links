@@ -14,8 +14,16 @@ These are messily arranged links to different topics of interest for developers 
 + []()
 
 # January 2018
-+ *coming soon eventually...*
-+ []()
++ [Take CSS to the next level with Stylelint](https://www.sitepoint.com/taking-css-linting-next-level-stylelint/)
++ [Designing for performance ](http://designingforperformance.com)
++ [@kore_sar: Dependency injection with Stamps](https://medium.com/@koresar/fun-with-stamps-episode-18-dependency-injection-paradise-10d4a3e39d45)
++ [Actor Model](https://monades.roperzh.com/get-to-know-the-actor-model/)
++ [@_ericelliott: Riteway tests](https://github.com/ericelliott/riteway/blob/master/README.md)
++ [**SQL check**](https://github.com/jarulraj/sqlcheck)
++ [Minimal useful JavaScript dev env](https://dev.to/corgibytes/setting-up-a-minimal-yet-useful-javascript-dev-environment)
++ [Micro front-end](https://micro-frontends.org)
++ [@davidkpiano: "Flip" technique animation](https://css-tricks.com/animating-layouts-with-the-flip-technique/)
+
 
 # December 2017
 + [*Frappe** Charts](https://frappe.github.io/charts/)
@@ -42,7 +50,7 @@ These are messily arranged links to different topics of interest for developers 
 + [How to Uninstall service workers](https://love2dev.com/blog/how-to-uninstall-a-service-worker/)
 + [Radix sort](https://en.m.wikipedia.org/wiki/Radix_sort)
 + [*"I disagree with the strict one-class-per-selector rule"*](https://medium.com/@danieltonon/i-actually-disagree-with-the-strict-1-class-per-selector-rule-cd34ced83339)
-+ [**HTML Web Component** using Vanilla JavaScript](https://ayushgp.github.io/html-web-components-using-vanilla-js/
++ [**HTML Web Component** using Vanilla JavaScript](https://ayushgp.github.io/html-web-components-using-vanilla-js/)
 + [**Data Binding** Using `data-*` Attributes (cool)](https://ericbidelman.tumblr.com/post/23615290220/data-binding-using-data-attributes)
 + [14 JavaScript debugging techniques](https://raygun.com/javascript-debugging-tips)
 + [**HEML**: clean responsive emails](https://heml.io)
@@ -50,7 +58,7 @@ These are messily arranged links to different topics of interest for developers 
 + [**Stryker** for JavaScript *mutation testing*](https://stryker-mutator.github.io)
 + [**SelectTransform**: JSON template over JSON](https://selecttransform.github.io/site/)
 + [The Case *against* `@annotations`](https://blog.softwaremill.com/the-case-against-annotations-4b2fb170ed67)
-+ [*"Software architecture is failing"*](https://www.alexhudson.com/2017/10/14/software-architecture-failing/
++ [*"Software architecture is failing"*](https://www.alexhudson.com/2017/10/14/software-architecture-failing/)
 + [Why experienced software engineers embrace old ideas](https://bradfieldcs.com/knives/)
 + [@aardrian on Making **accessible** links buttons divs etc.](http://adrianroselli.com/2016/01/links-buttons-submits-and-divs-oh-hell.html)
 + [How to think like a programmer](https://medium.freecodecamp.org/how-to-think-like-a-programmer-3ae955d414cd)
@@ -69,7 +77,7 @@ These are messily arranged links to different topics of interest for developers 
 
 # November 2017
 + [#a11y: **Flat UI Elements** Attract Less Attention and Cause Uncertainty](https://www.nngroup.com/articles/flat-ui-less-attention-cause-uncertainty)
-+ [Time for `Makefiles` to make a comeback](https://medium.com/@jolson88/its-time-for-makefiles-to-make-a-comeback-36cbc358bb0a
++ [Time for `Makefiles` to make a comeback](https://medium.com/@jolson88/its-time-for-makefiles-to-make-a-comeback-36cbc358bb0a)
 + [**`JOIN` Elimination**: An Essential Optimiser Feature for Advanced SQL Usage](https://blog.jooq.org/2017/09/01/join-elimination-an-essential-optimiser-feature-for-advanced-sql-usage)
 + [How To Speed Your Team Up (By Slowing Them Down) ](https://dzone.com/articles/how-to-speed-your-team-up-by-slowing-them-down)
 + [Your developers aren’t slow](https://sprint.ly/blog/your-developers-arent-slow/)
@@ -109,8 +117,8 @@ These are messily arranged links to different topics of interest for developers 
 + [SVGDOM](https://github.com/svgdotjs/svgdom)
 + [**Unit Testing WebGL Components**](http://chinedufn.com/unit-testing-webgl/)
 + [Create an Input Mask for mobile](https://medium.com/outsystems-experts/javascript-events-unmasked-how-to-create-an-input-mask-for-mobile-fc0df165e8b2)
-+ [@pawelgrzybek: snippet generator](https://pawelgrzybek.com/snippet-generator/
-+ [How to find the center of an `<area>` element}(http://www.456bereastreet.com/archive/201104/how_to_find_the_center_of_an_area_element_with_javascript/)
++ [@pawelgrzybek: snippet generator](https://pawelgrzybek.com/snippet-generator/)
++ [How to find the center of an `<area>` element](http://www.456bereastreet.com/archive/201104/how_to_find_the_center_of_an_area_element_with_javascript/)
 + [`aria-listbox`](http://nathanboktae.github.io/aria-listbox/)
 
 # September 2017
@@ -453,7 +461,7 @@ These are messily arranged links to different topics of interest for developers 
   - [initial Microsoft post, 2010](https://www.microsoft.com/en-us/research/project/jsmeter-measuring-javascript-web-applications/)
 + [CSS Stress Test __Bookmarklet__](http://andy.edinborough.org/CSS-Stress-Testing-and-Performance-Profiling)
 + [__Actor Model__ in JavaScript](http://www.dalnefre.com/wp/2014/03/actors-in-javascript/)
-  - tartjs actor impl in js](https://github.com/organix/tartjs)
+  - [**tartjs** actor impl in js](https://github.com/organix/tartjs)
 + [Caching Fetched Ajax Requests](https://www.sitepoint.com/cache-fetched-ajax-requests/)
 
 
