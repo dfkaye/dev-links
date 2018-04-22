@@ -9,9 +9,41 @@ These are messily arranged links to different topics of interest for developers 
 + [december 2015: `angular` (testing) links](#december-2015-the-angular-browserify-gulp-karma-superagent-tape-testem-jsdom-stuff)
 + [links from before November 2015](#everything-before-november-2015)
 
-# February 2018
+
+
+# May 2018
 + *coming soon eventually...*
 + []()
+
+
+# April 2018
++ *coming soon eventually...*
++ []()
+
+
+# March 2018
++ [what Scrum gets wrong](https://medium.com/@ard_adam/why-scrum-is-the-wrong-way-to-build-software-99d8994409e5)
++ [Consumer Driven Contract Testing with Pact](https://blog.risingstack.com/consumer-driven-contract-testing-with-pact/)
++ [against event systems](https://awelonblue.wordpress.com/2012/07/01/why-not-events/)
++ [Printers Instead of Getters](http://www.yegor256.com/2016/04/05/printers-instead-of-getters.html)
++ [EdgeDB—a new open-source object-relational database](https://edgedb.com/blog/edgedb-a-new-beginning/)
++ [*Structure and Interpretation of Signals and Systems*](http://leevaraiya.org/releases/LeeVaraiya_DigitalV2_04.pdf)
++ [Definitive Guide to Form Label Positioning](https://www.sitepoint.com/definitive-guide-form-label-positioning/)
++ [Accessible Footnotes with CSS](https://www.sitepoint.com/accessible-footnotes-css/)
+
+
+# February 2018
++ [JSONPlaceholder: Fake Online REST API for Testing and Prototyping](https://jsonplaceholder.typicode.com/)
++ [Taming huge collections of DOM nodes](https://codeburst.io/taming-huge-collections-of-dom-nodes-bebafdba332)
++ [**Alternative to JavaScript’s switch statement with a functional twist**](https://codeburst.io/alternative-to-javascripts-switch-statement-with-a-functional-twist-3f572787ba1c)
++ [Value Bubbles for Range Inputs](https://css-tricks.com/value-bubbles-for-range-inputs/)
++ [How to Scale SVG](https://css-tricks.com/scale-svg/)
++ [**Disable the package-lock.json file**](http://nealbuerger.com/2017/06/disable-the-package-lock-json-file/)
++ [Let's Talk About RTL](https://alfy.me/2014/07/26/lets-talk-about-rtl.html)
++ [50 Things You \[Probably\] Forgot To Design](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914)
++ [Focusing On What Our Users Shouldn’t Focus On](https://medium.com/ux-immersion-interactions/focusing-on-what-our-users-shouldn-t-focus-on-9999dbec7ca1)
++ [Despicable Design — When “Going Evil” is the Perfect Technique](https://medium.com/user-interface-22/despicable-design-when-going-evil-is-the-perfect-technique-b0dba9aaa6cb)
+
 
 # January 2018
 + [Take CSS to the next level with Stylelint](https://www.sitepoint.com/taking-css-linting-next-level-stylelint/)
