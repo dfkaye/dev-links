@@ -110,10 +110,11 @@ These are messily arranged links to different topics of interest for developers 
 + from 2010, [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 + [Fast 2kB **alternative to Moment.js** with the same modern API](https://github.com/xx45/dayjs)
 + [Are functional programs easier to verify than imperative programs?](http://semantic-domain.blogspot.co.uk/2018/04/are-functional-programs-easier-to.html
-
++ [`domvm` - DOM ViewModel - A thin, fast, dependency-free vdom view layer](https://github.com/leeoniya/domvm)
 
 
 # March 2018
++ [Parallel Processing in JavaScript (with WebWorkers)](https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db)
 + [what Scrum gets wrong](https://medium.com/@ard_adam/why-scrum-is-the-wrong-way-to-build-software-99d8994409e5)
 + [Consumer Driven Contract Testing with Pact](https://blog.risingstack.com/consumer-driven-contract-testing-with-pact/)
 + [against event systems](https://awelonblue.wordpress.com/2012/07/01/why-not-events/)
