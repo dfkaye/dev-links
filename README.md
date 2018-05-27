@@ -9,9 +9,16 @@ These are messily arranged links to different topics of interest for developers 
 + [december 2015: `angular` (testing) links](#december-2015-the-angular-browserify-gulp-karma-superagent-tape-testem-jsdom-stuff)
 + [links from before November 2015](#everything-before-november-2015)
 
-# June 2018
+# July 2018
 + *coming soon eventually...*
 + []()
+
+# June 2018
++ Michael Hutchings, [Introduction to mathematical arguments (background handout for courses requiring proofs)](https://math.berkeley.edu/~hutching/teach/proofs.pdf)
++ Leslie Lamport, [Time, Clocks, and the Ordering of Events in a Distributed System](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
++ [**Relative** Testing vs **Absolute** Testing](https://blog.arkency.com/relative-testing-vs-absolute-testing/)
++ [Avoiding **Accidental Complexity** When Structuring Your App State](https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a?imm_mid=0e95eb&cmp=em-web-na-na-newsltr_20161012)
+
 
 # May 2018
 ## Standouts
