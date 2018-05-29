@@ -14,6 +14,8 @@ These are messily arranged links to different topics of interest for developers 
 + []()
 
 # June 2018
++ *compiling...*
++ []()
 + Michael Hutchings, [Introduction to mathematical arguments (background handout for courses requiring proofs)](https://math.berkeley.edu/~hutching/teach/proofs.pdf)
 + Leslie Lamport, [Time, Clocks, and the Ordering of Events in a Distributed System](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 + [**Relative** Testing vs **Absolute** Testing](https://blog.arkency.com/relative-testing-vs-absolute-testing/)
