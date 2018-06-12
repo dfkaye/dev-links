@@ -20,19 +20,6 @@ These are messily arranged links to different topics of interest for developers 
 + Ryan Dahl, creator of node.js, on software, https://gist.github.com/cookrn/4015437
 + Ryan Dahl, creator of Node.js, video of his talk at JSConfEU 2018, [10 Things I Regret About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA)
 
-## ...data and data structures fixation...
-
-+ [Metadata](https://en.wikipedia.org/wiki/Metadata)
-+ [Ms Fnd in a Lbry](http://folk.uio.no/knuthe/kuriosa/draper.pdf)
-    - Hal Draper, 1961, short story about too much metadata
-+ [Passive Data Structure](https://en.wikipedia.org/wiki/Passive_data_structure)
-+ [Persistent Data Structure](https://en.wikipedia.org/wiki/Persistent_data_structure)
-    - class notes, MIT, 2005, 6.854 Advanced Algorithms [Persistent Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/lecture-notes/persistent.pdf)
-+ Sylvain Conchon and Jean-Christophe Filliâtre, [Semi-persistent Data Structure](https://www.lri.fr/~conchon/publis/spds-esop08.pdf)
-+ [Retroactive Data Structure](https://en.wikipedia.org/wiki/Retroactive_data_structures)
-+ Frank P. Ramsey, 1926, [Truth and probability](https://core.ac.uk/download/pdf/7048428.pdf)
-    - more about the impressive [Frank Ramsey](https://en.wikipedia.org/wiki/Frank_P._Ramsey)
-
 ## ...and the rest
 + James Forbes, [An alternative to `npm` scripts](http://james-forbes.com/?/posts/alternative-to-npm-scripts)
 + [HyperSAM](https://github.com/sladiri/hyper-sam)
