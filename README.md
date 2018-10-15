@@ -9,9 +9,366 @@ These are messily arranged links to different topics of interest for developers 
 + [december 2015: `angular` (testing) links](#december-2015-the-angular-browserify-gulp-karma-superagent-tape-testem-jsdom-stuff)
 + [links from before November 2015](#everything-before-november-2015)
 
-# July 2018
+# October 2018
 + *coming soon eventually...*
 + []()
+
+
+# September 2018 already
+
++ a repeat from October 2017 - [Stryker **mutation testing** library](http://stryker-mutator.io/)
++ from Lyft Design, [colorbox.io](http://www.colorbox.io/)
++ Best practices for [*mobile form design*](https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/)
++ Nolan Lawson's tour of [JavaScript **timers** on the web](https://nolanlawson.com/2018/09/01/a-tour-of-javascript-timers-on-the-web/)
++ **Vanilla CSS** magic with [**`custom properties`**](https://medium.com/@alcidesqueiroz/vanilla-css-magic-with-custom-properties-5f2f145e3e07)
++ Adam Quinlan codepen, [Credit Card Payment Form](https://codepen.io/quinlo/pen/YONMEa)
++ @dntzhang, [**diff.js**: Tiny size json diff library](https://github.com/dntzhang/westore/blob/master/utils/diff.js) -- well, 4.5 kB
++ Philip Walton, [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/)
++ Chris Ferdinandi, [Promise-based XHR](https://gomakethings.com/promise-based-xhr/)
+    - same on [Why I still use XHR instead of the Fetch API](https://gomakethings.com/why-i-still-use-xhr-instead-of-the-fetch-api/)
++ Sagar Ganatra (2012), [**Custom validation messages** for HTML5 inputer elements using the `constraint validation API`](https://dzone.com/articles/custom-validation-messages)
++ Taras Skytskyi, [The *ultimate guide* to proper use of **animation** in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
++ Chris Ferdinandi, [**Adding reactivity** to state based components with vanilla JS](https://gomakethings.com/adding-reactivity-to-state-based-components-with-vanilla-js/)
++ [Using **Meiosis** to implement the **`SAM` pattern**](http://meiosis.js.org/docs/05-Techniques-and-Strategies-E-SAM-Pattern.html)
++ Set up tests for REST in seconds with YAML using [strest](https://github.com/eykhagen/strest)
++ [Understanding JavaScript Generators](https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5) - with examples
++ [Using the `Speech Synthesis` Interface of the `Web Speech` API](https://manu.ninja/using-the-speech-synthesis-interface-of-the-web-speech-api/)
++ Distributed Agreement on Random Order - [Fun with Lamport Timestamps](https://deque.blog/2018/09/13/distributed-agreement-on-random-order-fun-with-lamport-timestamps/)
++ [On Writing Beautiful Tests](https://crate.io/a/on-writing-beautiful-tests/)
++ UX anti-pattern known as [Ghost Buttons](https://blog.prototypr.io/introduction-what-are-ghost-buttons-a87af5c8cee8)
++ Parse CSS tagged template literals as CSS files with [css-literal-loader](https://github.com/4Catalyzer/css-literal-loader)
++ [**Property-based testing** for `AVA` based on `fast-check`](https://github.com/dubzzz/ava-fast-check)
++ [Why isn’t this unit test catching an error from this `async`/`await` function?](https://www.coreycleary.me/why-isnt-this-unit-test-catching-an-error-from-this-async-await-function/)
++ [⏰ Day.js](https://github.com/iamkun/dayjs) - 2KB immutable date library alternative to Moment.js with the same modern API 
+   - see also [date-funs](https://date-fns.org/)
++ [Guide to EmberJS Component Lifecycle](https://guides.emberjs.com/release/components/the-component-lifecycle/)
++ Kory Becker on [Creating Self-Assembling Code with Genetic Programming](http://www.primaryobjects.com/2018/09/03/creating-self-assembling-code-with-genetic-programming/)
++ (on GameDev.StackExchange), [Implement Fast Inverse Square Root in Javascript](https://gamedev.stackexchange.com/questions/30727/implement-fast-inverse-square-root-in-javascript/30740#30740)
++ @WebReflection hating on CoffeeScript, Typescript, Babel, Elm, Dart, Rust... [JS is not worse than...](https://itnext.io/js-is-not-worse-than-84a5fca0e87d)
++ Zell Liew on CSS: [`:empty` and `:blank`](https://zellwk.com/blog/empty-and-blank/)
++ Level up for UX: [Design lessons from video games](https://evilmartians.com/chronicles/level-up-for-ux-design-lessons-from-videogames)
++ The easiest way to keep your web apps accessible: [**Just use text**](https://blog.logrocket.com/the-easiest-way-to-keep-your-web-apps-accessible-c2b57506cc2a)
++ [Removing `jQuery` from GitHub.com frontend](https://githubengineering.com/removing-jquery-from-github-frontend/)
++ Convert a tree structure into a human friendly string, using [**tree-to-string**](https://github.com/mafintosh/tree-to-string)
++ "To Grok a Mockingbird", @raganwald on [Using **recursive combinators** to enhance functional composition](http://raganwald.com/2018/08/30/to-grok-a-mockingbird.html)
+    - via [Morning Cup of Code](https://www.humanreadablemag.com/morningcupofcoding)
++ Nice walk-through to [Create SVG Line Chart in React](https://hackernoon.com/create-svg-line-chart-in-react-e4dabb009180)
++ @substack on WebGL [Rigging and Animation](https://bits.coop/articles/rigging-and-animation/)
++ Thomas Hunter II on [Property Descriptors, Getters/Setters, and Proxies](https://thomashunter.name/presentations/javascript-advanced-objects-v1/)
+
+## pre-september
+
++ James Sinclair, [How to deal with dirty side effects in your pure functional JavaScript](https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/)
++ Scott O'Hara, [The Accessibility of Styled Form Controls & Friends](https://scottaohara.github.io/a11y_styled_form_controls/)
++ Ben Robertson, [How to Write Accessible JavaScript](https://benrobertson.io/accessibility/javascript-accessibility)
++ Brief guide to using [Webpagetest](https://frontendnews.io/editions/2018-08-22-a-brief-guide-to-webpagetest)
++ A Look at `Webassembly` Through a Fantasy Console, [Hello, `WebAssembly`](https://medium.com/commitlog/hello-webassembly-882bba5c9fb7)
++ Dead simple state management for ReactJS using [Undux](https://undux.org/)
++ [Introducing `SpaceAce`, a new kind of *front-end state* library](https://medium.com/dailyjs/introducing-spaceace-a-new-kind-of-front-end-state-library-5215b18adc11)
++ **svg.js**, [lightweight library for manipulating and animating `SVG`](http://svgjs.com/)
++ Bridging the gap between low-level and high-level JavaScript Chart libraries with [ApexCharts](https://blog.usejournal.com/bridging-the-gap-between-low-level-and-high-level-charting-libraries-a8f6c1819ba5)
++ [FormStorage](https://appleple.github.io/form-storage/) - A JavaScript library stores the form-data to the localstorage so you don't have to fill the form again.
++ [**Crafting beautiful UX with API requests**](https://uxdesign.cc/crafting-beautiful-ux-with-api-requests-56e7dcc2f58e)
++ [`SimpleDataTable`](https://github.com/piecioshka/simple-data-table)
+    - interactive [demo](https://piecioshka.github.io/simple-data-table/demo/)
++ [Build a *state management* system with *vanilla JavaScript*](https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript/)
+    - Heydon's [**Mutilator**](https://gist.github.com/Heydon/9de1a8b55dd1448281fad013503a5b7a#gistcomment-2657236)
++ [Front-end Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - that runs faster than the others ;).
++ Leonie Watson, [Using the `aria-current` attribute](https://tink.uk/using-the-aria-current-attribute/)
++ Dave Rupert, [`Assistive Technologies` I Test With](https://daverupert.com/2018/07/assistive-technologies-i-test-with/)
+
+
+# August 2018 
++ Being Human Podcast - #23 [*Leaving Facebook – with **Kent Beck***](http://www.firsthuman.com/podcast/23-leaving-facebook-with-kent-beck/) - Kent was fired for being the one who wanted to point out the downsides to tech choices whereas FB's performance review process incentivizes promoting your "impact" (thus, only upsides). This is what growth-only companies do, because they fear hostile takeovers, market share reductions, etc., more than they fear the desctruction of everything. 
++ (PDF) [The Scientific Prize Network Predicts Who Pushes the Boundaries of Science](https://arxiv.org/ftp/arxiv/papers/1808/1808.09412.pdf) - see also
+    - [Matthew Effect](https://en.wikipedia.org/wiki/Matthew_effect)
+    - [Robert K. Merton](https://en.wikipedia.org/wiki/Robert_K._Merton)
+    - [Matilda Effect](https://en.wikipedia.org/wiki/Matilda_effect)
+    - [Harriet Zuckerman](https://en.wikipedia.org/wiki/Harriet_Zuckerman)
++ HTML and the DOM. [`Properties` vs. `Attributes`](https://stackoverflow.com/questions/6003819/what-is-the-difference-between-properties-and-attributes-in-html#6004028)
++ Things to watch out for when it comes to [JavaScript Object Type Coercion](https://medium.com/intrinsic/javascript-object-type-coercion-b2ec176c02c4)
+    - in particular, [`Symbol.toPrimitive`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/toPrimitive)
++ "schema-typed: Front-end data validation begins with modeling" => [Schema for data modeling & validation](https://github.com/rsuite/schema-typed)
++ How have I lived without YAHOO's [xss-filters](https://github.com/yahoo/xss-filters)
++ [Stop future proofing software](https://medium.com/@george3d6/stop-future-proofing-software-c984cbd65e78) - Or start doing it the right way
++ (PDF) The Abstract is ‘an Enemy’: [Alternative Perspectives to Computational Thinking](https://pdfs.semanticscholar.org/cebd/2ec07f8bdd8dfe932886cfffd53848731c02.pdf)
++ [Test Driven Development: what it is, and what it is not.](https://medium.freecodecamp.org/test-driven-development-what-it-is-and-what-it-is-not-41fa6bca02a2)
++ Pack JS code fast & easy. [fastpack](https://github.com/fastpack/fastpack)
++ Zach Bonaker, [Helping People Understand TDD by Writing a Story](https://agileoutloud.wordpress.com/2018/05/11/tdd-by-storywriting/)
++ *What they don't tell you* about [event sourcing](https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a)
+    - I wanted to like this one, too, but off into the weeds about task-based UIs and I stopped caring...
++ I wanted to believe, but this is just another hack-laden dynamic import fest with ObjectURLs, [Implementing single file `Web Components`](https://medium.com/content-uneditable/implementing-single-file-web-components-22adeaa0cd17)
++ (podcast, 10:32) Eric Normand on [Representing state changes with pure functions](https://lispcast.com/how-can-pure-functions-represent-state-change/)
++ server-side rendering JavaScript views with [Hypernova](https://github.com/airbnb/hypernova)
+    > First and foremost, server-side rendering is a better user experience compared to just client-side rendering. The user gets the content faster, the webpage is more accessible when JS fails or is disabled, and search engines have an easier time indexing it.
+    
+    > Secondly, it provides a better developer experience. Writing the same markup twice both on the server in your preferred templating library and in JavaScript can be tedious and hard to maintain. Hypernova lets you write all of your view code in a single place without having to sacrifice the user‘s experience.
++ Axax, [Async Iterator Extensions for JavaScript](https://github.com/jamiemccrindle/axax)
++ [JavaScript fluent validation library](https://imbrn.github.io/v8n)
++ [speedscope - **Interactive Flamegraph Explorer**](http://jamie-wong.com/post/speedscope/)
++ **Thumbs up** [Lessons Learned *Writing Unit Tests*](https://stephenmann.io/post/lessons-learned-writing-unit-tests/)
++ @webreflection, [domdiff - Diffing the DOM *without virtual DOM*](https://github.com/WebReflection/domdiff)
++ Conversational flow diagrams... [Lessons learned *moving from web to voice development*](https://hackernoon.com/lessons-learned-moving-from-web-to-voice-development-35daa1d301db)
++ Phenomenon, [A fast **2kB** low-level `WebGL` API](https://github.com/vaneenige/phenomenon)
++ New from the "Programming is terrible" guy => [Repeat yourself, do more than one thing, and rewrite everything](https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and)
++ @rajaraodv on `JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators` — [*All Explained Simply*](https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32)
++ [`hafcaf`](https://github.com/andrew565/hafcaf) is extremely minimal single-page application (SPA)framework
+  + Inspired by @heydonworks, 2015 [Reimagining Single-Page Applications With Progressive Enhancement](https://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
++ No need for *null checking* if you use the [**Null Object pattern**](https://en.wikipedia.org/wiki/Null_object_pattern)
+    - > *Instead of throwing an exception or returning a null reference, return a null object (i.e. an empty list) instead, so that there is no need to verify that the return value is in fact a list.*
++ Happy 10th birthday to [**MinUnit**](http://www.jera.com/techinfo/jtns/jtn002.html), a minimal unit testing framework in 3 lines of C.
++ Frank McSherry on [`Differential Dataflow`](https://github.com/frankmcsherry/differential-dataflow), "an implementation of differential dataflow over timely dataflow on `Rust`."
++ [**Async Generators as an alternative to State Management**](https://medium.com/dailyjs/async-generators-as-an-alternative-to-state-management-f9871390ffca)
++ [5 Mistakes I Made When Doing Custom Data Visualization With `D3.js`](https://blog.sicara.com/5-mistakes-avoid-custom-data-visualizations-d3-js-ac431e57aeff)
++ CSS Tricks 2014, [**Centering in CSS**: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
++ The A11Y Project, [An accessible widget & pattern library](https://a11yproject.com/patterns)
++ [Universal Nearest Neighbor Algorithm to Sort Complex Data Found](https://www.quantamagazine.org/universal-method-to-sort-complex-information-found-20180813/)
++ [`WebAssembly`: How and Why](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71)
++ [Basics of Bi-directionalism](https://pigworker.wordpress.com/2018/08/06/basics-of-bidirectionalism/)
++ "Filter Before You Parse:" [Faster Analytics on Raw Data with `Sparser`](https://dawn.cs.stanford.edu/2018/08/07/sparser/)
++ (PDF) Simon Thompson's book on [Constructive Type Theory](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
++ [Program synthesis with TLA+](https://www.adampalay.com/blog/2018/07/30/program-synthesis-with-tla/)
++ [What are Bloom filters and why are they useful?](https://sc5.io/posts/what-are-bloom-filters-and-why-are-they-useful/)
++ `@_nobodyme_` on [Dynamic Programming for Brute-forcers](https://hackernoon.com/dynamic-programming-for-brute-forcers-36f26c2466cf)
++ [Student finds classical alternative to quantum algorithm](https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/)
+    - What really happened: Student tries to prove quantum speedup can't be done with classical techniques but can't, then derives a classical version to match it
++ Like Homebrew for Windows, [`Scoop` installs the tools you know and love](https://scoop.sh)
++ from 2014, Joe Gregorio's [Zero Framework Manifesto](https://bitworking.org/news/2014/05/zero_framework_manifesto)
+
+## more miscellaneous
++ [The `Clipboard` API Crashcourse](https://frontendnews.io/editions/2018-08-01-copy-and-paste-clipboard-api)
++ Using [React with `Statecharts`](https://medium.freecodecamp.org/patterns-for-using-react-with-statechart-based-state-machines-33e6ab754605)
+    - first article in the series, [How to visually design state in JavaScript](https://medium.freecodecamp.org/how-to-visually-design-state-in-javascript-3a6a1aadab2b)
++ RisingStack's [D3 Bar Chart Tutorial](https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/)
++ Slot Pattern in JSX, means you can [Pass Multiple Children to a React Component with Slots](https://daveceddia.com/pluggable-slots-in-react-components/)
++ William Raseman, [Multivariate Distances: Mahalanobis vs. Euclidean](https://waterprogramming.wordpress.com/2018/07/23/multivariate-distances-mahalanobis-vs-euclidean/)
+    - history of Mahalanobis distance on [wikipedia](https://en.wikipedia.org/wiki/Mahalanobis_distance)
+    - implementation of Mahalanobis distance in [JavaScript](https://github.com/veltman/mahalanobis)
++ Andrew Coyle on designing
+    - [Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
+    - [Better Tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
++ [Complex Loader and Progress Management for Vanilla JS](https://github.com/f/dom-wait)
+    - by Fatih Kadir Akın @fkadev, who also wrote [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8)
++ "declarative, terse and fastest approach to rendering" with [once](https://github.com/utilise/once)
++ @FogleBird, [Solving Rush Hour, the Puzzle](https://www.michaelfogleman.com/rush/)
++ Colin Eberhardt, April 2018, [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
+    - works on [webassemblyjs](https://webassembly.js.org/)
+    - also published Oct 2017, [Migrating D3 Force Layout to WebAssembly](https://blog.scottlogic.com/2017/10/30/migrating-d3-force-layout-to-webassembly.html)
+    - use AssemblyScript to compile TypeScript (or just JavaScript) to webassembly...
++ Jordi Moraleda, [TDD means zen; TDD + Serverless means nirvana](https://medium.com/@ledfusion/tdd-means-zen-along-with-serverless-means-nirvana-a39a76ee8e63)
++ Ashley Davis, [*Server-Side Visualization With `Nightmare`*](https://css-tricks.com/server-side-visualization-with-nightmare/)
++ Florian Rappl, [Building a progressive web app (PWA): No React, no Angular, no Vue](https://blog.logrocket.com/building-a-progressive-web-app-pwa-no-react-no-angular-no-vue-aefdded3b5e)
++ *Very nice 2017 writeup* by @herbertograca on [**Event-Driven Architecture**](https://herbertograca.com/2017/10/05/event-driven-architecture/)
++ Curated collection of useful JavaScript snippets that you can understand in [30 seconds or less](https://30secondsofcode.org/)
++ How to manage your workstation configuration with [Ansible](https://opensource.com/article/18/3/manage-workstation-ansible)
++ Mark Seemann, 2012, [The Resemblance idiom](http://blog.ploeh.dk/2012/06/21/TheResemblanceidiom/)
+
++ @cowboyd (charles lowell), [microstates](https://github.com/microstates/microstates.js)
++ *experimental* [itty bitty](https://itty.bitty.site/#About)
++ @webreflection, [Universal Bundle Loader](https://itnext.io/a-universal-bundle-loader-6d7f3e628f93)
++ [better type checking with `Maybe` types](https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505)
++ (sounds like a Decision Table) - [design UI states and communicate effectively... using the Finite State Machine table](https://medium.freecodecamp.org/designing-ui-states-and-communicate-with-developers-effectively-by-fsm-fb420ca53215)
++ wired - [mutation math that shows how life keeps evolving](https://www.wired.com/story/this-mutation-math-shows-how-life-keeps-on-evolving/)
++ [reduce javascript payloads with **tree shaking**](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
++ frontstuff, [in defense of **utility-first CSS**](https://frontstuff.io/in-defense-of-utility-first-css)
++ Alexander Zlatkov, How JavaScript Works: [internals of **shadow DOM**](https://blog.sessionstack.com/how-javascript-works-the-internals-of-shadow-dom-how-to-build-self-contained-components-244331c4de6e)
++ chris ferdinandi, [polyfill the browser's `<datalist>` element autocomplete](https://gomakethings.com/how-to-polyfill-the-browser-native-datalist-autocomplete-functionality/)
++ angus croll, [why i wrote `just`](https://medium.com/@angustweets/just-a12d54221f65)
++ jeremy church, [responsive table](https://j.eremy.net/responsive-table/)
++ chris ferdinandi, [check whether part of an element is out of the viewport](https://gomakethings.com/how-to-check-if-any-part-of-an-element-is-out-of-the-viewport-with-vanilla-js/)
+
++ (PDF) State of [**Mutation Testing** at google](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/abdfdbac520614dc87bc0b3fdf10bdc2869fce41.pdf)
++ Heydon Pickering discovers [`CSS`: *A New Kind Of `JavaScript`*](https://medium.com/@Heydon/css-a-new-kind-of-javascript-fcf730d33ce7)
+    - Get reacquainted with CSS here [The **Ultimate** Guide to Learning `CSS`](https://zendev.com/ultimate-guide-to-learning-css.html)
++ Jorge Manrubia, [Escaping the SPA rabbit hole with modern Rails](https://www.jorgemanrubia.com/2018/07/04/escaping-the-rabbit-hole-with-turbolinks/)
++ **More FUD** from the "too many tests make your code hard to fix" camp, [Lean Testing or Why Unit Tests are Worse than You Think](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009)
++ Hidden Cost of [TouchScreens](https://medium.com/@caseorganic/why-do-we-keep-building-cars-with-touchscreens-alt-the-hidden-lives-of-touchscreens-55faf92799bf)
++ [If You’re Not Writing a Program, Don't Use a Programming Language](http://muratbuffalo.blogspot.com/2018/07/if-youre-not-writing-program-dont-use.html), plus links to original by Leslie Lamport.
++ (PDF) Rainer Manthey, 1990, [Declarative Languages-Paradigm of the Past or Challenge of the Future? ](https://www.idb.uni-bonn.de/publications/publ/man90a.pdf) - advocates a language design that supports both declarative and procedural (OOP) programming paradigms (specifically for the database) *in 1990*.
+
+## more math and logic
++ (PDF) David Harel, Dexter Kozen, and Jerzy Tiuryn, [**Dynamic *Logic***](http://www.wisdom.weizmann.ac.il/~harel/papers/DynamicLogicHarelKozenTiuryn.pdf)
++ July 18, 2018 - huge news - [Evolutionary algorithm *outperforms* deep-learning machines at video games](https://www.technologyreview.com/s/611568/evolutionary-algorithm-outperforms-deep-learning-machines-at-video-games/)
+    - more about [**Evolutionary Algorithms**](https://en.wikipedia.org/wiki/Evolutionary_algorithm)
+    - such as [Ant Colony Optimization algorithms](https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms)
+    - and the [Artificial Bee Colony algorithm](https://en.wikipedia.org/wiki/Artificial_bee_colony_algorithm)
+    
++ (PDF) 2012 online version of, Stephen Read, 1989, [**Relevant Logic**: A Philosophical Examination of Inference](https://www.st-andrews.ac.uk/~slr/Relevant_Logic.pdf)
++ [**Ruth Barcan Marcus**](https://en.wikipedia.org/wiki/Ruth_Barcan_Marcus)
++ `Frege's Puzzle` on the names [*Hesperus* and *Phosphorus*](https://en.wikipedia.org/wiki/Frege%27s_puzzles)
++ (PDF) online versin of Theodore Sider's book, [Logic for Philosophy](https://gelogica.weebly.com/uploads/2/6/6/1/26617550/sider_logic_for_philosophy.pdf)
++ [Dynamic Epistemic Logic](https://en.wikipedia.org/wiki/Dynamic_epistemic_logic)
++ (PDF) Johan van Benthem, 2001, [Logics for **Information Update**](https://pdfs.semanticscholar.org/46f4/fd10f9f65e26e9eae688e2c26c2b9b2f703a.pdf)
+    - introduces the concept of [Bisumulation](https://en.wikipedia.org/wiki/Bisimulation), "a binary relation between state transition systems." (q.v. *Transition System*)
++ (PDF) The problem with knowledge update and entailment update is the [**problem of logical omniscience**](http://joelvelasco.net/teaching/3865/stalnaker%20-%20problem%20of%20logical%20omniscience%201.pdf) -- *blecch, this piece by **Robert Stalnaker** is about belief rather than the model of knowledge update and how thoroughly a catalog of entailment is updated*
+  - on the other hand, here's a (PDF) MA thesis by **Indrek Lõbus**, [In Defence of Logical Omniscience](https://dspace.ut.ee/bitstream/handle/10062/54235/Indrek_Lobus_MA_2016.pdf?sequence=1&isAllowed=y)
+  - (PDF) Indrek Lõbus's *brilliant* BA thesis in philosophy from the University of Tartu, [Criticsism of the Propositionalist Approach to Solving the Problem of Opaque Attitude Contexts, and an Outline of an Alternative](http://dspace.ut.ee/bitstream/handle/10062/32172/lobus_indrek.pdf;sequence=1)
++ Epistemic Temporal Logic, AKA [Epistemic Modal Logic](https://en.wikipedia.org/wiki/Epistemic_modal_logic)
++ (PDF) Joseph Halpern, [Why Bother With Syntax?](https://www.cs.cornell.edu/home/halpern/papers/syntax.pdf)
++ (PDF) Yde Venema, [Temporal Logic](https://staff.fnwi.uva.nl/y.venema/papers/TempLog.pdf)
++ (PDF) Johan van Benthem, Eric Pacuit, 2006, [The Tree of Knowledge in Action: Towards a Common Perspective](http://www.illc.uva.nl/Research/Publications/Reports/PP-2006-44.text.pdf)
+
++ more reversible computing stuff
+    + (PDF) Culik, [On Invertible Cellular Automata](http://wpmedia.wolfram.com/uploads/sites/13/2018/02/01-6-1.pdf)
+    + (PDF) Toffoli on [Reversible Computing](http://cqi.inf.usi.ch/qic/80_Toffoli.pdf)
+
++ **Standard ML**
+    - Mythryl [Mythryl, bases on SML/NJ](https://mythryl.org/index3.html)
+    - Mythryl is [Not just a bag of features like most programming languages](https://mythryl.org/my-Mythryl_is_not_just_a_bag_of_features_like_most_programming_languages_.html)
+    - (PDF) Online guide to [**Programming in `Standard ML`**](https://www.cs.cmu.edu/~rwh/isml/book.pdf)
+    - Pretty cool introduction to SML with [A Sample of Standard ML, the TreeSort Algorithm, and Monoids](https://jeremykun.com/2013/04/07/a-sample-of-standard-ml-and-the-treesort-algorithm/)
+
++ Self-Adjusting Computation and Data Structures
+    - (PDF) splay trees, Daniel Sleator & Robert Tarjan, 1985, [Self-adjusting binary search trees](http://www.cs.cmu.edu/~sleator/papers/self-adjusting.pdf)
+    - Umut Acar's dissertation and other resources on [**Self-Adjusting Computation**](http://www.umut-acar.org/self-adjusting-computation)
+    - (Video) Yaron Minsky's Lambda Jam 2018 video talk on self-adjusting computation, [Reactive Programming with Diff and Patch](https://www.youtube.com/watch?v=HNiFiLVg20k)
+
++ (PDF) J. R. Driscoll, N. Sarnak, D. D. Sleator, R. E. Tarjan (1986), [Making Data Structures Persistent](http://www.cs.cmu.edu/~sleator/papers/making-data-structures-persistent.pdf)
++ (PDF) Chris Okasaki's masters thesis version of [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
++ (PDF) Robert Kowalski, 1979, [Logic for Problem Solving](https://www.doc.ic.ac.uk/%7Erak/papers/LogicForProblemSolving.pdf) - full-length book on clausal forms, etc., for `Prolog` programming.
+
+#tweets to send out next week (July 9)
+
+What Your Standup Reveals About Your Team by @xshay 
+https://blog.bradfieldcs.com/what-your-standup-reveals-about-your-team-ccebfb3a0b0f
+
+Performance Reviews Are a Waste of Time by @xshay
+https://blog.bradfieldcs.com/performance-reviews-are-a-waste-of-time-87c88d7553b4
+
+RT'd earlier ~ thread about importance of whiteboards from @MrAlanCooper
+https://twitter.com/MrAlanCooper/status/1013097960979120128
+
+The "Boring Software" manifesto via 'Maurits van der Schee'
+https://tqdev.com/2018-the-boring-software-manifesto
+
+Some Examples
+
+`The things on the left that are simple and proven, while the things on the right are hyped and volatile.
+- 3-tier applications vs. micro services
+- relational database vs. NoSQL
+- page reloads vs. single page applications
+
+No, you don't need ML/AI. You need SQL by @cyberomin
+https://cyberomin.github.io/startup/2018/07/01/sql-ml-ai.html
+
+reminder:
++ state-function: https://gist.github.com/dfkaye/7b62e6e8139436306f4b
++ value-function: https://gist.github.com/dfkaye/692c0a527d5ee5eeda3c
+
+
+# July 2018 (collected in June)
+
+## THESE NEED TO BE ORGANIZED BETTER :)
++ My tweet, [Make `#error_first_design` a first-class citizen](https://twitter.com/dfkaye/status/999332316492120064)
++ [**Stringify `DOM` nodes using `JSON`** (and revive again)](https://gist.github.com/sstur/7379870)
+    - `toDOM(x)` uses `JSON.parse` if `x` is a string
+    - **FIX**: `attributes` are entered as arrays (index 0 contains the name, 1 contains the value) rather than name-value maps; see https://developer.mozilla.org/en-US/docs/Web/API/Element/attributes
++ [Firefox **Accessibility Inspector**](https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector)
++ [Why My 11-Year Old Stopped Coding . . . Then Switched to Python](https://hackernoon.com/why-my-11-year-old-stopped-coding-then-started-again-ccc259f2f1a5)
+    - Wish I'd had python around as a kid ~ things *computative* would have made way more sense
++ Lindasy Wild aka @stananick, [How and Why We Unit Test Our Sass](https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass)
++ from @innovati, [How to Write a Container Queries Plugin](https://codepen.io/tomhodgins/post/how-to-write-a-container-queries-plugin)
++ Really simple [`SVG` Patterns using single `unicode` characters](https://notchris.net/patterns/)
++ Get the benefits of JSX from React by [**Emulating React and JSX in Vanilla JS**](https://www.toptal.com/javascript/emulating-react-jsx-in-vanilla-javascript)
+    - gist with modified source [react-jsx-in-vanilla.js ](https://gist.github.com/dfkaye/f3229e5ace79b6873022987f160c7b61)
++ Dr. Boolean (aka Brian Lonsdorf) on [**Debugging** Functional JS](https://medium.com/@drboolean/debugging-functional-7deb4688a08c)
++ Adrian Colyer reports on [**Debugging** data flows in `reactive` programs](https://blog.acolyer.org/2018/06/29/debugging-data-flows-in-reactive-programs/)
+    - André Staltz, [How to **debug** `RxJS` code](https://staltz.com/how-to-debug-rxjs-code.html)
++ Adrian Colyer reports on [How not to structure your database-backed web applications: a study of performance bugs in the wild](https://blog.acolyer.org/2018/06/28/how-_not_-to-structure-your-database-backed-web-applications-a-study-of-performance-bugs-in-the-wild/)
+    - (PDF) based on [How *not* to structure your database-backed web applications: a study of performance bugs in the wild](https://hyperloop-rails.github.io/220-HowNotStructure.pdf)
+    - (PDF) which includes [Static Detection of Asymptotic Performance Bugs in Collection Traversals](http://www.cs.utexas.edu/~lin/papers/pldi15.pdf)
++ [Proof by Infinite Descent](https://en.wikipedia.org/wiki/Proof_by_infinite_descent)
+    - A proof by contradiction that relies on the least integer principle; see Diophantine equation (next)
++ Uncle Bob Martin on `Diophantine equations` and [Undecidability i.e., NOESTIMATES](http://blog.cleancoder.com/uncle-bob/2018/06/21/IntegersAndEstimates.html)
+
++  Sounds like famous last words, ["Designing for Accessiblity is not hard"](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
++ `Python` **property-based testing** with [Hypothesis](http://hypothesis.readthedocs.io/en/latest/index.html)
++ "Explore how your product should work, before building it" with [Sketch.systems](https://sketch.systems/)
++ Uncle Bob on TDD and double entry bookkeeping [The parallels between double entry bookkeeping and Test Driven Development are deep and plentiful](http://blog.cleancoder.com/uncle-bob/2017/12/18/Excuses.html)
++ Zoltan Kochan and why we should use [`pnpm`](https://www.kochan.io/nodejs/why-should-we-use-pnpm.html)
+    - it's really fast because it uses symlinks rather than directory copying
+    - see also [Flat node_modules is not the only way](https://dev.to/zkochan/flat-nodemodules-is-not-the-only-way-mo2)
++ `commonstorage.googleapis.com` collection of [public test videos](https://gist.github.com/jsturgis/3b19447b304616f18657)
++ JSON collection of [`ISO` country codes](https://github.com/CoalaWeb/cw-country-iso-code/blob/master/src/cw-country-iso-code.json)
+
+## math and logic
+
++ Mathematical Logic https://medium.com/brandons-computer-science-notes/mathematical-logic-f53f9c60d8d9
++ Knowledge Representation and Reasoning https://medium.com/brandons-computer-science-notes/knowledge-representation-and-reasoning-c7d441049715
++ NAND logic https://en.wikipedia.org/wiki/NAND_logic
++ (PDF) Sossinsky: Tolerance space theory and some applications https://www.researchgate.net/profile/Alexey_Sossinsky/publication/225214345_Tolerance_space_theory_and_some_applications/links/565ed2fc08aefe619b273973/Tolerance-space-theory-and-some-applications.pdf?origin=publication_detail
++ (PDF) Homology Theories and Tolerance Automata https://ac.els-cdn.com/0012365X81901679/1-s2.0-0012365X81901679-main.pdf?_tid=89c0f377-4f73-4b12-85fc-53c18db6f285&acdnat=1530513985_a462c37b7ccf50ce4c23cefe3ce71095
++ (PDF) Tolerance Automata http://www.kybernetika.cz/content/1967/3/223/paper.pdf
++ `bayes.js`, MCMC in the browser http://www.sumsar.net/blog/2015/12/bayes-js-a-small-library-for-doing-mcmc-in-the-browser/
++ MCMC and the case of the spilled seeds http://livefreeordichotomize.com/2017/10/14/mcmc-and-the-case-of-the-spilled-seeds/
++ Markov chain https://en.wikipedia.org/wiki/Markov_chain
++ Cellular automaton https://en.wikipedia.org/wiki/Cellular_automaton
++ Topology https://en.wikipedia.org/wiki/Topology
+
+
+## Time, State, Transition
++ (PDF) Andreas Griewank on [**Automatic Differentiation**](https://pdfs.semanticscholar.org/cd99/031c8c91bffce3f364735224d6902c68c228.pdf)
+    - (PDF) More about [*Automatic Differentiation*, Or mathemagically finding derivatives ](http://www.columbia.edu/~ahd2125/post/2015/12/5/) along iwth implementations in [`Rust`](https://github.com/alanhdu/explorations/tree/master/rust-autodiff) and [`Python`](https://github.com/alanhdu/explorations/tree/master/python-autodiff)
+    
++ [**Precolation Theory**](https://en.wikipedia.org/wiki/Percolation_theory)
+    - [**Percolation transition** in dynamical traffic network with evolving critical bottlenecks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4311803/)
+    - "the first study to consider geographically localized attacks from the perspective of percolation theory," [Localized attacks on spatially embedded networks with dependencies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4355725/)
+    
++ [Symbolic dynamics](https://en.wikipedia.org/wiki/Symbolic_dynamics) 
+    - > In mathematics, symbolic dynamics is the practice of modeling a topological or smooth dynamical system by a discrete space consisting of infinite sequences of abstract symbols, each of which corresponds to a state of the system, with the dynamics (evolution) given by the shift operator.
+
++ [**Kripke structure**](https://en.wikipedia.org/wiki/Kripke_structure_(model_checking))
+    - used in [**Model checking**](https://en.wikipedia.org/wiki/Model_checking)
+    - variation of Transition System (see next), that can be representated as a graph whose nodes represent the reachable states of the system and whose edges represent state transitions
++ [Transition system](https://en.wikipedia.org/wiki/Transition_system) - differ from finite state automata in several ways:
+    - The set of states is not necessarily finite, or even countable.
+    - The set of transitions is not necessarily finite, or even countable.
+    - No "start" state or "final" states are given.
++ [Reversible cellular automaton](https://en.wikipedia.org/wiki/Reversible_cellular_automaton)
+    - >in which every configuration has a unique predecessor... a regular grid of cells, each containing a state drawn from a finite set of states, with a rule for updating all cells simultaneously based on the states of their neighbors, such that the previous state of any cell before an update can be determined uniquely from the updated states of all the cells
+    
++ (PDF) Friedemann Mattern, [Virtual Time and Global States of Distributed Systems](https://www.vs.inf.ethz.ch/publ/papers/VirtTimeGlobStates.pdf)
+    - "Event structures," "Time slices," "Virtual time," "**Vector time**," "*Distributed debugging*"
++ Yoshua Wuyts, [Managing State in Browser Applications](https://www.yoshuawuyts.com/browser-state/)
+    - includes [Vector Clock](https://en.wikipedia.org/wiki/Vector_clock)
+    - vector clock [implementation in JS](https://github.com/mixu/vectorclock)
+    
++ (PDF) Frank P. Ramsey, 1926, [Truth and probability](https://core.ac.uk/download/pdf/7048428.pdf)
+    - more about the impressive [Frank Ramsey](https://en.wikipedia.org/wiki/Frank_P._Ramsey)
+
++ Oleksii Trekhleb, [**Dynamic Programming** vs Divide-and-Conquer](https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe)
+    - see also, Dynamic programming, implemented by [**memoization** or **tabulation**](https://programming.guide/dynamic-programming-vs-memoization-vs-tabulation.html)
+    
++ (PDF) Richard Bellman, selections on [the birth of **dynamic programming**](http://www.cas.mcmaster.ca/~se3c03/journal_papers/dy_birth.pdf)
+    - define [**dynamic programming**](https://en.wikipedia.org/wiki/Dynamic_programming)
+    - mentioned by Peter Norvig with respect to Coders at Work, e.g., https://pindancing.blogspot.com/2009/09/sudoku-in-coders-at-work.html
+    - [Constraint Propagation](https://en.wikipedia.org/wiki/Local_consistency)
+    - [Recursive Search](https://en.wikipedia.org/wiki/Recursion#In_computer_science)
+    - ["Curse of Dimensionality"](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
+    
++ Vaidehi Joshi, [Trying to Understand `Tries`](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014)
+
++ [Decision Tables](https://en.wikipedia.org/wiki/Decision_table)
+    - ...and from `Hillel Wayne`, ["For a decision table to be \"consistent\", all possible inputs must map to exactly one row."](https://www.hillelwayne.com/post/decision-tables/)
+
++ Uncle Bob on BDD [Gherkin triplets as state transition specifiers](http://blog.cleancoder.com/uncle-bob/2018/06/06/PickledState.html)
++ [Time Series](https://en.wikipedia.org/wiki/Time_series)
+    - [Wiener filter](https://en.wikipedia.org/wiki/Norbert_Wiener#Wiener_filter)
+    - [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter)
+    - see also, from July 2016, [Kalman filter in JS](https://github.com/wouterbulten/kalmanjs)
+
+## Objects vs. Data
++ Struct may be the "concept" after all, [When do you use a `struct` instead of a `class`?](https://softwareengineering.stackexchange.com/questions/92339/when-do-you-use-a-struct-instead-of-a-class/92369#92369)
++ Memory, [Strings are evil](https://medium.com/@indy_singh/strings-are-evil-a803d05e5ce3)
++ Speed, [**Fibonacci Hashing**: The Optimization that the World Forgot (or: a Better Alternative to Integer Modulo)](https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/)
++ How Alby [implemented **consistent hashing** efficiently](https://blog.ably.io/how-to-implement-consistent-hashing-efficiently-fe038d59fff2)
+
+## HEX - SAM Pattern
++ Jean Jacques Dubray, [HEX, a no-framework approach](https://medium.com/@metapgmr/hex-a-no-framework-approach-to-building-modern-web-apps-e43f74190b9c)
++ Jean Jacques Dubray, [20 lines of Javascript that “hash” HTML](https://github.com/jdubray/sam-samples/blob/master/hash-dom/index.html)
++ [Javascript implementation of Java’s String.hashCode() method](http://werxltd.com/wp/2010/05/13/javascript-implementation-of-javas-string-hashcode-method/)
++ Axel Rauschmeyer, [Exploring JS: template literals](http://exploringjs.com/es6/ch_template-literals.html)
+    - see the `escapeHTML` section
 
 
 # June 2018
@@ -279,6 +636,7 @@ These are messily arranged links to different topics of interest for developers 
 + [How to find the center of an `<area>` element](http://www.456bereastreet.com/archive/201104/how_to_find_the_center_of_an_area_element_with_javascript/)
 + [`aria-listbox`](http://nathanboktae.github.io/aria-listbox/)
 
+
 # September 2017
 + [Responsive images in the browser, simplified](https://imgix.com)
 + [A lightweight plugin to embed emojis, media, maps, tweets, code and more](https://github.com/ritz078/embed-js)
@@ -306,6 +664,7 @@ These are messily arranged links to different topics of interest for developers 
 + [**axe-core**: Accessibility engine for automated Web UI testing](https://github.com/dequelabs/axe-core)
 + [**debug**: A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers](https://github.com/visionmedia/debug)
 
+
 # August 2017
 + [@nathanboktae: aria-listbox](http://nathanboktae.github.io/aria-listbox/)
 + [sitepoint: What Is Frame-by-frame Animation?](https://www.sitepoint.com/frame-by-frame-animation-css-javascript/)
@@ -323,6 +682,7 @@ These are messily arranged links to different topics of interest for developers 
 + [#webGL: Rendering SVG Paths in WebGL](https://css-tricks.com/rendering-svg-paths-in-webgl/)
 + [@webreflection: **hyperHTML**](https://viperhtml.js.org/)
 + [#a11y: The responsive order conflict for keyboard focus](https://alastairc.ac/2017/06/the-responsive-order-conflict/)
+
 
 # July 2017
 + [Generate multiple reports in a single `mocha` execution](https://github.com/stanleyhlng/mocha-multi-reporters)
@@ -359,6 +719,7 @@ These are messily arranged links to different topics of interest for developers 
 + [#editor: power-assert, descriptive assertion messages through standard assert interface](https://github.com/power-assert-js/power-assert)
 + [#editor: online json formatter](https://jsonformatter-online.com/)
 + [#editor: stackedit online markdown editor](https://stackedit.io/editor)
+
 
 # June 2017
 + [Introductory bullshit detection for non-technical managers](https://itsyourturnblog.com/introductory-bullshit-detection-for-non-technical-managers-7c7a9e54afee)
@@ -519,7 +880,7 @@ These are messily arranged links to different topics of interest for developers 
 + [Direction-Aware CSS-only Hover Effects](http://codepen.io/gabriellewee/post/how-to-create-direction-aware-css-only-hover-effects)
 + [Individual CSS Transform Functions (using CSS custom properties/variables)](https://danielcwilson.com/blog/2017/02/individual-transforms/)
 + [Schema-shot - snapshot testing for dynamic data by @glebbahmutov](https://glebbahmutov.com/blog/schema-shot/)
-+ [@_developit's JSX intro](https://jasonformat.com/wtf-is-jsx/)
++ [@\_developit's JSX intro](https://jasonformat.com/wtf-is-jsx/)
 
 
 # November 2016
@@ -551,7 +912,7 @@ These are messily arranged links to different topics of interest for developers 
 + [PurpleJS - the alternative to Node.js for Java projects](http://webagility.com/posts/purplejs-the-alternative-to-node.js-for-java-projects)
 + [Redux without React — State Management in Vanilla JavaScript](https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/)
 + [Keep your framework out of my applications](https://www.linkedin.com/pulse/keep-your-framework-out-my-application-joseph-spens)
-+ [@_developit ~ more fully-featured Preact + Web Components example](http://codepen.io/developit/pen/rrPzaK?editors=1010)
++ [@\_developit ~ more fully-featured Preact + Web Components example](http://codepen.io/developit/pen/rrPzaK?editors=1010)
 + [Preact + Web Components Demo](https://gist.github.com/developit/35183bb5a0b37ddcd375a89f67bae816)
 + [__re-reading__ => Trampolines in JavaScript](http://raganwald.com/2013/03/28/trampolines-in-javascript.html)
 + [fogus/__lemonad__ - functional programming library](https://github.com/fogus/lemonad)
@@ -583,7 +944,7 @@ These are messily arranged links to different topics of interest for developers 
 + [Bug Magnet - a tool to ease testing](https://www.lyontesting.fr/en/bug-magnet-2/)
 + [7 Things You Didn’t Know You Could Do with CSS](https://davidwalsh.name/css-facts)
 + [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
-+ [Objects go in, UI comes out](https://github.com/wearekuva/oui)
++ [**Objects go in, UI comes out**](https://github.com/wearekuva/oui)
 
 
 # September 2016
@@ -1007,7 +1368,7 @@ These are messily arranged links to different topics of interest for developers 
   + e.g., [nice scripts collection in a package.json ](https://github.com/jeffbski/base-react-min/blob/master/package.json#L20-36)
 + [__reloader that reloads itself__](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html#the-future-is-live)
 + [json to xml with node.js ~ see n.node() api fragments](https://templth.wordpress.com/2011/06/07/manipulating-json-and-xml-with-node-js/)
-+ [xpath in javascript](http://timkadlec.com/2008/02/xpath-in-javascript-introduction/)
++ [**xpath in javascript**](http://timkadlec.com/2008/02/xpath-in-javascript-introduction/)
 + [prevent layout thrashing w/fastdom ~ @wilsonpage](wilsonpage.co.uk/preventing-layout-thrashing/)
 + [atomic css](http://acss.io/)
 + [srcmaps](http://www.sitepoint.com/enhance-your-javascript-debugging-with-cross-browser-source-maps/)
