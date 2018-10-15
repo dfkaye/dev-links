@@ -1,0 +1,63 @@
+
+# September 2018 already
+
++ a repeat from October 2017 - [Stryker **mutation testing** library](http://stryker-mutator.io/)
++ from Lyft Design, [colorbox.io](http://www.colorbox.io/)
++ Best practices for [*mobile form design*](https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/)
++ Nolan Lawson's tour of [JavaScript **timers** on the web](https://nolanlawson.com/2018/09/01/a-tour-of-javascript-timers-on-the-web/)
++ **Vanilla CSS** magic with [**`custom properties`**](https://medium.com/@alcidesqueiroz/vanilla-css-magic-with-custom-properties-5f2f145e3e07)
++ Adam Quinlan codepen, [Credit Card Payment Form](https://codepen.io/quinlo/pen/YONMEa)
++ @dntzhang, [**diff.js**: Tiny size json diff library](https://github.com/dntzhang/westore/blob/master/utils/diff.js) -- well, 4.5 kB
++ Philip Walton, [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/)
++ Chris Ferdinandi, [Promise-based XHR](https://gomakethings.com/promise-based-xhr/)
+    - same on [Why I still use XHR instead of the Fetch API](https://gomakethings.com/why-i-still-use-xhr-instead-of-the-fetch-api/)
++ Sagar Ganatra (2012), [**Custom validation messages** for HTML5 inputer elements using the `constraint validation API`](https://dzone.com/articles/custom-validation-messages)
++ Taras Skytskyi, [The *ultimate guide* to proper use of **animation** in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
++ Chris Ferdinandi, [**Adding reactivity** to state based components with vanilla JS](https://gomakethings.com/adding-reactivity-to-state-based-components-with-vanilla-js/)
++ [Using **Meiosis** to implement the **`SAM` pattern**](http://meiosis.js.org/docs/05-Techniques-and-Strategies-E-SAM-Pattern.html)
++ Set up tests for REST in seconds with YAML using [strest](https://github.com/eykhagen/strest)
++ [Understanding JavaScript Generators](https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5) - with examples
++ [Using the `Speech Synthesis` Interface of the `Web Speech` API](https://manu.ninja/using-the-speech-synthesis-interface-of-the-web-speech-api/)
++ Distributed Agreement on Random Order - [Fun with Lamport Timestamps](https://deque.blog/2018/09/13/distributed-agreement-on-random-order-fun-with-lamport-timestamps/)
++ [On Writing Beautiful Tests](https://crate.io/a/on-writing-beautiful-tests/)
++ UX anti-pattern known as [Ghost Buttons](https://blog.prototypr.io/introduction-what-are-ghost-buttons-a87af5c8cee8)
++ Parse CSS tagged template literals as CSS files with [css-literal-loader](https://github.com/4Catalyzer/css-literal-loader)
++ [**Property-based testing** for `AVA` based on `fast-check`](https://github.com/dubzzz/ava-fast-check)
++ [Why isn’t this unit test catching an error from this `async`/`await` function?](https://www.coreycleary.me/why-isnt-this-unit-test-catching-an-error-from-this-async-await-function/)
++ [⏰ Day.js](https://github.com/iamkun/dayjs) - 2KB immutable date library alternative to Moment.js with the same modern API 
+   - see also [date-funs](https://date-fns.org/)
++ [Guide to EmberJS Component Lifecycle](https://guides.emberjs.com/release/components/the-component-lifecycle/)
++ Kory Becker on [Creating Self-Assembling Code with Genetic Programming](http://www.primaryobjects.com/2018/09/03/creating-self-assembling-code-with-genetic-programming/)
++ (on GameDev.StackExchange), [Implement Fast Inverse Square Root in Javascript](https://gamedev.stackexchange.com/questions/30727/implement-fast-inverse-square-root-in-javascript/30740#30740)
++ @WebReflection hating on CoffeeScript, Typescript, Babel, Elm, Dart, Rust... [JS is not worse than...](https://itnext.io/js-is-not-worse-than-84a5fca0e87d)
++ Zell Liew on CSS: [`:empty` and `:blank`](https://zellwk.com/blog/empty-and-blank/)
++ Level up for UX: [Design lessons from video games](https://evilmartians.com/chronicles/level-up-for-ux-design-lessons-from-videogames)
++ The easiest way to keep your web apps accessible: [**Just use text**](https://blog.logrocket.com/the-easiest-way-to-keep-your-web-apps-accessible-c2b57506cc2a)
++ [Removing `jQuery` from GitHub.com frontend](https://githubengineering.com/removing-jquery-from-github-frontend/)
++ Convert a tree structure into a human friendly string, using [**tree-to-string**](https://github.com/mafintosh/tree-to-string)
++ "To Grok a Mockingbird", @raganwald on [Using **recursive combinators** to enhance functional composition](http://raganwald.com/2018/08/30/to-grok-a-mockingbird.html)
+    - via [Morning Cup of Code](https://www.humanreadablemag.com/morningcupofcoding)
++ Nice walk-through to [Create SVG Line Chart in React](https://hackernoon.com/create-svg-line-chart-in-react-e4dabb009180)
++ @substack on WebGL [Rigging and Animation](https://bits.coop/articles/rigging-and-animation/)
++ Thomas Hunter II on [Property Descriptors, Getters/Setters, and Proxies](https://thomashunter.name/presentations/javascript-advanced-objects-v1/)
+
+## pre-september
+
++ James Sinclair, [How to deal with dirty side effects in your pure functional JavaScript](https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/)
++ Scott O'Hara, [The Accessibility of Styled Form Controls & Friends](https://scottaohara.github.io/a11y_styled_form_controls/)
++ Ben Robertson, [How to Write Accessible JavaScript](https://benrobertson.io/accessibility/javascript-accessibility)
++ Brief guide to using [Webpagetest](https://frontendnews.io/editions/2018-08-22-a-brief-guide-to-webpagetest)
++ A Look at `Webassembly` Through a Fantasy Console, [Hello, `WebAssembly`](https://medium.com/commitlog/hello-webassembly-882bba5c9fb7)
++ Dead simple state management for ReactJS using [Undux](https://undux.org/)
++ [Introducing `SpaceAce`, a new kind of *front-end state* library](https://medium.com/dailyjs/introducing-spaceace-a-new-kind-of-front-end-state-library-5215b18adc11)
++ **svg.js**, [lightweight library for manipulating and animating `SVG`](http://svgjs.com/)
++ Bridging the gap between low-level and high-level JavaScript Chart libraries with [ApexCharts](https://blog.usejournal.com/bridging-the-gap-between-low-level-and-high-level-charting-libraries-a8f6c1819ba5)
++ [FormStorage](https://appleple.github.io/form-storage/) - A JavaScript library stores the form-data to the localstorage so you don't have to fill the form again.
++ [**Crafting beautiful UX with API requests**](https://uxdesign.cc/crafting-beautiful-ux-with-api-requests-56e7dcc2f58e)
++ [`SimpleDataTable`](https://github.com/piecioshka/simple-data-table)
+    - interactive [demo](https://piecioshka.github.io/simple-data-table/demo/)
++ [Build a *state management* system with *vanilla JavaScript*](https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript/)
+    - Heydon's [**Mutilator**](https://gist.github.com/Heydon/9de1a8b55dd1448281fad013503a5b7a#gistcomment-2657236)
++ [Front-end Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - that runs faster than the others ;).
++ Leonie Watson, [Using the `aria-current` attribute](https://tink.uk/using-the-aria-current-attribute/)
++ Dave Rupert, [`Assistive Technologies` I Test With](https://daverupert.com/2018/07/assistive-technologies-i-test-with/)
