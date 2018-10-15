@@ -1,0 +1,18 @@
+# August 2017
+
++ [@nathanboktae: aria-listbox](http://nathanboktae.github.io/aria-listbox/)
++ [sitepoint: What Is Frame-by-frame Animation?](https://www.sitepoint.com/frame-by-frame-animation-css-javascript/)
++ [@_ericelliott: "I don’t hire devs to explain algorithms on whiteboards"](https://medium.com/@_ericelliott/i-understand-getting-nervous-in-job-interviews-and-i-cut-people-slack-for-that-all-the-time-8e48a5b9042)
++ [@bahmutov: repeat-it: repeat a flaky mocha `it()` test](https://github.com/bahmutov/repeat-it)
++ [@asolove: Pure UI Control *(with Calculator app)*](https://medium.com/@asolove/pure-ui-control-ac8d1be97a8d)
++ [@joelthoms: Functional JavaScript: Function Composition For Every Day Use](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
++ [@joelthoms: Functional JavaScript: Decoupling methods from their objects](https://hackernoon.com/functional-javascript-decoupling-methods-from-their-objects-aa3ca13d7ae8)
++ [#video: Dr. Leslie Lamport Silicon Valley Leaders Symposium Spring 2011](https://www.youtube.com/watch?v=FRLFrZdTkuI)
++ [#test: Rapid Prototyping in JavaScript](https://mattdesl.svbtle.com/rapid-prototyping)
++ [#test: Chrome automation made simple with `chromeless`](https://github.com/graphcool/chromeless)
++ [10 questions you should ask in a job interview](https://www.theladders.com/p/24701/questions-job-interview)
++ [#perf: The Critical Request](https://css-tricks.com/the-critical-request/)
++ [#DOM: Remove all event handlers by clone-and-replace](https://stackoverflow.com/questions/4386300/javascript-dom-how-to-remove-all-events-of-a-dom-object#4386514)
++ [#webGL: Rendering SVG Paths in WebGL](https://css-tricks.com/rendering-svg-paths-in-webgl/)
++ [@webreflection: **hyperHTML**](https://viperhtml.js.org/)
++ [#a11y: The responsive order conflict for keyboard focus](https://alastairc.ac/2017/06/the-responsive-order-conflict/)
