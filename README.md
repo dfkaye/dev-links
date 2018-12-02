@@ -1,17 +1,37 @@
 These are messily arranged links to different topics of interest for developers like me interested in javascript, test-driven development, and a better front-end architecture&hellip;
 
+
 # First
+
 + **Search within the page for 'accessibility', '@heydon' or '@heydonworks'**
 + [#video: **Dr. Leslie Lamport** Silicon Valley Leaders Symposium Spring 2011](https://www.youtube.com/watch?v=FRLFrZdTkuI) - can't recommend this one enough.
 + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
 + [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
-+ [@redconfetti's rubycoloredglasses cheat-sheets](http://www.rubycoloredglasses.com/resources/cheat-sheets/) (aka, Jason Miller, UCB colleague)
-+ [december 2015: `angular` (testing) links](#december-2015-the-angular-browserify-gulp-karma-superagent-tape-testem-jsdom-stuff)
++ [@redconfetti's rubycoloredglasses cheat-sheets](http://www.rubycoloredglasses.com/resources/cheat-sheets/) (aka, Jason Miller, UCB colleague twitter/@redconfetti)
 + [links from before November 2015](#everything-before-november-2015)
 
-# November 2018
+
+# December 2018
+
 + *coming soon eventually...*
 + []()
+
+
+# November 2018
+
++ @webreflection __custom elements *alternative*__ - https://medium.com/@WebReflection/a-wicked-custom-elements-alternative-6d1504b5857f
++ __cell.js__, _"a self-constructing web app framework powered by a self-driving DOM"_ https://www.celljs.org/?
++ Performance TDD using mocha and `benchtest.js` - https://codeburst.io/how-i-kept-motivated-to-use-test-driven-development-69e6ffdb7a2a
++ Accessibility cheatsheet - https://moritzgiessmann.de/accessibility-cheatsheet/
++ *Exploring **micro front-ends*** (custom elements, shadow, etc.) https://medium.com/@benjamin.d.johnson/exploring-micro-frontends-87a120b3f71c
+    + however, `'closed'` mode `shadowRoot` is probably not worth the effort - https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af
++ @jamiebuilds - Secure signin workflow with Slack-style "Magic Links" - https://twitter.com/jamiebuilds/status/1063531926189797376
++ `rawact` - Compile react to native DOM, *eliminate need for react at runtime* - https://github.com/sokra/rawact
++ @swizec - React hooks in a nutshell - https://swizec.com/blog/react-hooks/swizec/8681
++ @chrisferdinandi - How `saferInnerHTML()` works - https://gomakethings.com/how-saferinnerhtml-works/
++ `checkif` - JavaScript checking library - https://github.com/joeltankam/checkif.js
++ `from-html` - Get element references directly from HTML strings - https://github.com/m3g4p0p/from-html
++ Piers Cornwell, Timing requests with cURL and Chrome - https://blog.cloudflare.com/a-question-of-timing/
 
 
 # October 2018
@@ -25,13 +45,11 @@ These are messily arranged links to different topics of interest for developers 
 + CSS `grid-template-areas` for **concise media rules** https://robots.thoughtbot.com/concise-media-queries-with-css-grid
 + ES6 proxy example: Two-way Data Binding https://www.sitepoint.com/es6-proxies/#proxyexample2twowaydatabinding
 + Running `mocha` tests as native ES6 modules in a browser https://medium.com/dailyjs/running-mocha-tests-as-native-es6-modules-in-a-browser-882373f2ecb0
-
 + **@innovati**'s `caffeinated stylesheets`, "parse extended CSS and separate out the JS-powered styles"
     -  in the browser [deqaf](https://github.com/tomhodgins/deqaf)
     -  on the server [qaffeine](https://github.com/tomhodgins/qaffeine)
 + [**minimal javascript** setup](https://css-tricks.com/a-minimal-javascript-setup/)
     - actually about [gia](https://github.com/giantcz/gia), a minimalist framework for server rendered websites
-    
 + **TOKENS**
     - Timing attacks with [CSS selectors](https://blog.sheddow.xyz/css-timing-attack/)
         > Timing attacks enable an attacker to extract secrets maintained in a security system by observing the time it takes the system to respond to various queries
@@ -39,19 +57,16 @@ These are messily arranged links to different topics of interest for developers 
     - Why use [Access tokens](https://auth0.com/docs/api-auth/why-use-access-tokens-to-secure-apis)
     + answer #4, [Is it correct to use form field(hidden) for storing Session Token?](https://security.stackexchange.com/questions/9133/is-it-correct-to-use-form-fieldhidden-for-storing-session-token#9140)
     + [Access token vs Refresh token](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/)
-
 + **private npm registry (and *monorepos*)**
     + Matthew Amos, [JavaSript **monorepos**](https://blog.scottlogic.com/2018/02/23/javascript-monorepos.html)
     + Juan Picado [Five use cases where a npm private proxy fits in your workflow](https://medium.com/@jotadeveloper/five-use-cases-where-a-npm-private-proxy-fits-in-your-workflow-632a81779c14)
         + "if you only rely on Github auth and AWS as a platform..." [codebox-npm](https://github.com/craftship/codebox-npm)
     + Gustavo Gondim, [Verdaccio - private diy npm registry](https://medium.com/engenharia-noalvo/ways-to-have-your-private-npm-registry-and-a-final-diy-solution-eed001a88e74)
-
 + **`owasp-zap` and security testing**
     + https://medium.com/@Gr3g0ire/automatic-security-tests-in-jenkins-with-owasp-zap-d81bdb8e65d6
     + https://dzone.com/articles/beating-the-cost-time-and-quality-equation-with-ow
     + http://blog.xaviermaso.com/2018/10/01/Scanning-modern-web-applications-with-OWASP-ZAP.html
     + https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project
-
 + **front-end things to re-read**
     + **Accessibility Testing Tools for Mobile and Desktop websites**, https://www.24a11y.com/2017/accessibility-testing-tools-desktop-mobile-websites/
     + **CSS Grid by Example**, https://gridbyexample.com/examples/
@@ -64,7 +79,6 @@ These are messily arranged links to different topics of interest for developers 
     + Paul J Adam - [**#ally resources**, etc.](http://pauljadam.com/resources.html)
     + Adam B. Silver [blog](https://adamsilver.io/articles/)
     + Tommy Hodgins [**jsincss**](https://jsincss.com/)
-
 + Understanding *stacking contexts* - [Putting things on top of other things](http://tellthemachines.com/stacking-contexts/)
 + Too many modals, https://modalzmodalzmodalz.com/
 + Copy API endpoints to your fs and run a local server using them [SnapStub](https://github.com/ruyadorno/snapstub)
