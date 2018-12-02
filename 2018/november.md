@@ -1,5 +1,7 @@
 # November 2018
 
++ `aria` roles, states, properties at accessibilityresources - http://accessibilityresources.org/m-aria
++ more `aria` at a11yhelp - http://a11yhelp.org
 + @webreflection __custom elements *alternative*__ - https://medium.com/@WebReflection/a-wicked-custom-elements-alternative-6d1504b5857f
 + __cell.js__, _"a self-constructing web app framework powered by a self-driving DOM"_ https://www.celljs.org/?
 + Performance TDD using mocha and `benchtest.js` - https://codeburst.io/how-i-kept-motivated-to-use-test-driven-development-69e6ffdb7a2a
