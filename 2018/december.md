@@ -1,4 +1,4 @@
-## december 2018
+# December 2018
 
 + **It's 2019 and I Still Make Websites with my Bare Hands** - https://medium.com/@mattholt/its-2019-and-i-still-make-websites-with-my-bare-hands-73d4eec6b7
 + @webreflection's Wicked, a Custom Elements Alternative - https://itnext.io/a-wicked-custom-elements-alternative-6d1504b5857f
