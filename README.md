@@ -12,7 +12,7 @@ These are messily arranged links to different topics of interest for developers 
 
 
 # July 2019 
-+ *coming soon eventually...*
++ [July 2019](./2019/july.md)
 
 # June 2019
 
