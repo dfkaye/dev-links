@@ -87,7 +87,7 @@ These are messily arranged links to different topics of interest for developers 
 
 + SAM
 
-  + Lightweight framework for the SAM pattern - ttps://github.com/sam-js/sam
+  + Lightweight framework for the SAM pattern - https://github.com/sam-js/sam
   
 + Auth
 
