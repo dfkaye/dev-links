@@ -47,7 +47,7 @@
       - How Selections Work (2103) - https://bost.ocks.org/mike/selection/
       - Three Little Circles (2014) - https://bost.ocks.org/mike/circles/
 
-  + Nick Scialli, Calculating Derived State in JavaScript Using Selectors - https://hackernoon.com/calculating-derived-state-in-javascript-using-selectors-7f6ce06ac247
+  + Nick Scialli, Calculating Derived State in JavaScript Using Selectors - https://nick.scialli.me/calculating-derived-state-in-javascript-using-selectors/
     ```
       const createSelector = (...funcs) => {
         const last = funcs.pop();
