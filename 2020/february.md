@@ -11,7 +11,7 @@
  
 ## Command Line
 
-+ @leymannx (2013), stackoverflow: **Shortcuts to move faster in browsers and documents** &#8594; https://superuser.com/a/676012
++ @leymannx (2013), answered on superuser.com: **Shortcuts to move faster in browsers and documents** &#8594; https://superuser.com/a/676012
 + Huiming Teo (2012), **Shortcuts to move faster in Bash command line** &#8594; http://teohm.com/blog/shortcuts-to-move-faster-in-bash-command-line/
 + **`Resource Override`, Chrome extension** &#8594; https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii?hl=en
 + **`Jest` Advanced Settings** &#8594; https://create-react-app.dev/docs/advanced-configuration/
