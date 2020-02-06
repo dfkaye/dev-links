@@ -2,6 +2,10 @@
 
 + *coming soon eventually...*
 
+## SAM Pattern
+
++ Daniel Neveux (2020), `SAM` Pattern: Where should I put this code? &#8594; https://dev.to/dagatsoin/sam-pattern-where-should-i-put-this-code-4hoh
+
 ## Command Line
 
 + @leymannx (2013), stackoverflow: **Shortcuts to move faster in browsers and documents** &#8594; https://superuser.com/a/676012
