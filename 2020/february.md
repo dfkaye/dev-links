@@ -2,26 +2,23 @@
 
 + *coming soon eventually...*
 
-## SAM Pattern
+## Design
 
 + Daniel Neveux (2020), `SAM` Pattern: Where should I put this code? &#8594; https://dev.to/dagatsoin/sam-pattern-where-should-i-put-this-code-4hoh
-
++ Adam B. Silver (2019), Where to put buttons on forms &#8594; https://adamsilver.io/articles/where-to-put-buttons-in-forms/
++ Heather Migliorisi (2016), Accessible SVGs &#8594; https://css-tricks.com/accessible-svgs/
+ 
 ## Command Line
 
 + @leymannx (2013), stackoverflow: **Shortcuts to move faster in browsers and documents** &#8594; https://superuser.com/a/676012
 + Huiming Teo (2012), **Shortcuts to move faster in Bash command line** &#8594; http://teohm.com/blog/shortcuts-to-move-faster-in-bash-command-line/
-+ Ginny Fahs (2018), *GitHub Error: Authentication Failed from the Command Line* &#8594; https://medium.com/@ginnyfahs/github-error-authentication-failed-from-command-line-3a545bfd0ca8
-  - Lifesaving instructions on Github &#8594; https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line
-  
-## Dev Tools
-
 + `Resource Override`, Chrome extension &#8594; https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii?hl=en
 + `Jest` Advanced Settings &#8594; https://create-react-app.dev/docs/advanced-configuration/
 
-## SVG
+## Github Authentication Fix
 
-+ Heather Migliorisi
- (2016), Accessible SVGs &#8594; https://css-tricks.com/accessible-svgs/
++ Ginny Fahs (2018), *GitHub Error: Authentication Failed from the Command Line* &#8594; https://medium.com/@ginnyfahs/github-error-authentication-failed-from-command-line-3a545bfd0ca8
+  - Lifesaving instructions on Github &#8594; https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line
 
 ## Sudoku
 
