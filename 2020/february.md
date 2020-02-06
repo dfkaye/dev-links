@@ -2,6 +2,23 @@
 
 + *coming soon eventually...*
 
+## Command Line
+
++ @leymannx (2013), stackoverflow: **Shortcuts to move faster in browsers and documents** &#8594; https://superuser.com/a/676012
++ Huiming Teo (2012), **Shortcuts to move faster in Bash command line** &#8594; http://teohm.com/blog/shortcuts-to-move-faster-in-bash-command-line/
++ Ginny Fahs (2018), *GitHub Error: Authentication Failed from the Command Line* &#8594; https://medium.com/@ginnyfahs/github-error-authentication-failed-from-command-line-3a545bfd0ca8
+  - Lifesaving instructions on Github &#8594; https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line
+  
+## Dev Tools
+
++ `Resource Override`, Chrome extension &#8594; https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii?hl=en
++ `Jest` Advanced Settings &#8594; https://create-react-app.dev/docs/advanced-configuration/
+
+## SVG
+
++ Heather Migliorisi
+ (2016), Accessible SVGs &#8594; https://css-tricks.com/accessible-svgs/
+
 ## Sudoku
 
 + Sylvain Saurel (2019), Building A Sudoku Solver In Java With Dancing Links &#8594; https://medium.com/javarevisited/building-a-sudoku-solver-in-java-with-dancing-links-180274b0b6c1
