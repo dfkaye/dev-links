@@ -4,9 +4,9 @@
 
 ## JavaScript
 
-+ You don't need to write __TypeScript__ as a compile-to-JS language. Instead, create **Type Safe JavaScript with JSDoc** &#8594; https://medium.com/@trukrs/type-safe-javascript-with-jsdoc-7a2a63209b76 -- via @TruckJs (2018)
-+ **BareTest**. An extremely minimalistic alternative to Jest &#8594; https://volument.com/baretest -- via @volument
-  - 44 lines of code, one dependency with 12 lines of code!
++ @TruckJs (2018), **Type Safe JavaScript with JSDoc** &#8594; https://medium.com/@trukrs/type-safe-javascript-with-jsdoc-7a2a63209b76 - write JavaScript with JSDoc, then use VS Code to lint for you - no compile-to-js step.
++ @volument (2019), **BareTest**. An extremely minimalistic alternative to Jest &#8594; https://volument.com/baretest - *44 lines of code, one dependency with 12 lines of code!*
++ @volument (2019), **BareServer**. Express.js alternative for Minimalists &#8594; https://volument.com/blog/bareserver-express-alternative-for-minimalists
 
 ## Design
 
