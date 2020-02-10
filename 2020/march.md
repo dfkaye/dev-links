@@ -4,10 +4,10 @@
 
 ## section
 
-+ author (date), title arrow link
++ author (date), title &#8594; link
 
 ## HTML
 
-+ Robin Rendle (2017), An Idea for a Simple Responsive Spreadsheet - https://css-tricks.com/idea-simple-responsive-spreadsheet/
++ Robin Rendle (2017), An Idea for a Simple Responsive Spreadsheet &#8594; https://css-tricks.com/idea-simple-responsive-spreadsheet/
 
 
