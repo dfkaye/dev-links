@@ -13,5 +13,5 @@
 
 ## JavaScript
 
-+ Kent C. Dodds (?), "React is all you need to manage application state" &#8594; https://kentcdodds.com/blog/application-state-management-with-react
++ Kent C. Dodds (2019), "React is all you need to manage application state" &#8594; https://kentcdodds.com/blog/application-state-management-with-react
 
