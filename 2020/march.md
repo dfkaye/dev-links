@@ -6,6 +6,13 @@
 
 + author (date), title &#8594; link
 
+## CSS
+
++ Gallagher Website Design (blog, date unknown), Remove `<br>` Line Break with CSS and Replace with Space &#8594; https://www.gallagherwebsitedesign.com/blog/remove-line-break-css-replace-with-space/
+  - Sure came in handy
++ Louis Hoebregts (2018), The trick to viewport units on mobile &#8594; https://css-tricks.com/the-trick-to-viewport-units-on-mobile/
+  - Why mobile browser vendors do not define viewport units reliably
+
 ## HTML
 
 + Robin Rendle (2017), An Idea for a Simple Responsive Spreadsheet &#8594; https://css-tricks.com/idea-simple-responsive-spreadsheet/
