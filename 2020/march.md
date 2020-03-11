@@ -18,7 +18,7 @@
 
 ## HTML
 
-+ Scott Vinkle (2020), **How HTML microdata helps with accessibility** &#8594; https://scottvinkle.me/blogs/blog/how-html-microdata-helps-with-accessibility
++ Scott Vinkle (2020), **How Does HTML Microdata Help With Accessibility?** &#8594; https://scottvinkle.me/blogs/blog/how-html-microdata-helps-with-accessibility
 + Robin Rendle (2017), **An Idea for a Simple Responsive Spreadsheet** &#8594; https://css-tricks.com/idea-simple-responsive-spreadsheet/
 + Chris Coyier (2020), **A Complete Guide to Links and Buttons** &#8594; https://css-tricks.com/a-complete-guide-to-links-and-buttons/
 
