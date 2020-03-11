@@ -28,12 +28,12 @@
 + Kent C. Dodds (2019), **"React is all you need to manage application state"** &#8594; https://kentcdodds.com/blog/application-state-management-with-react
 + Fiona Hopkins (2018), **Deciphering TypeScript’s React errors** &#8594; https://medium.com/innovation-and-technology/deciphering-typescripts-react-errors-8704cc9ef402
   - I hate React, but I *really* hate TypeScript; favoring types over tests solves nothing.
-+ Josh W. Comeau (2020), **The Perils of Rehydration** &#8594; https://joshwcomeau.com/react/the-perils-of-rehydration#the-solution
++ Josh W. Comeau (2020), **The Perils of Rehydration**: An Eye-Opening Realization about Gatsby and React &#8594; https://joshwcomeau.com/react/the-perils-of-rehydration#the-solution
   - I also hate Gatsby; *it is not a "static site generator" but a SPA generator*; its reliance on React breaks dynamic vanilla JavaScript loading so you have to use `dangerouslySetInnerHtml()`; fanboyz are only lately admitting this, now that the Gatsby team has decided to take the VC money; the predictable result will be yet another Frankenstein framework/app.
   
 ## Testing
 
-+ Gleb Bahmutov (2019), **Stop using Page Objects ans Start using App Actions** &#8594;  https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/#page-objects-problems
++ Gleb Bahmutov (2019), **Stop using Page Objects and Start using App Actions** &#8594;  https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/#page-objects-problems
 + Robert Pearce (2020), **Catch Low-Hanging Accessibility Fruit with axe-core** &#8594;   https://robertwpearce.com/catch-low-hanging-accessibility-fruit-with-axe-core.html
   - includes react- and jest-specific stuff, too.
 
