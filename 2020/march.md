@@ -34,5 +34,6 @@
 ## Testing
 
 + Gleb Bahmutov (2019), **Stop using Page Objects ans Start using App Actions** &#8594;  https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/#page-objects-problems
-
++ Robert Pearce (2020), **Catch Low-Hanging Accessibility Fruit with axe-core** &#8594;   https://robertwpearce.com/catch-low-hanging-accessibility-fruit-with-axe-core.html
+  - includes react- and jest-specific stuff, too.
 
