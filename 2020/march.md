@@ -32,6 +32,8 @@
 + Scott Vinkle (2020), **How Does HTML Microdata Help With Accessibility?** &#8594; https://scottvinkle.me/blogs/blog/how-html-microdata-helps-with-accessibility
 + Robin Rendle (2017), **An Idea for a Simple Responsive Spreadsheet** &#8594; https://css-tricks.com/idea-simple-responsive-spreadsheet/
 + Chris Coyier (2020), **A Complete Guide to Links and Buttons** &#8594; https://css-tricks.com/a-complete-guide-to-links-and-buttons/
++ Dudley Storey (2017), **Making and Deploying SVG favicons** &#8594; http://thenewcode.com/28/Making-And-Deploying-SVG-Favicons
+  - one of the co-authors of Using SVG with CSS3 and HTML5 &#8594; http://shop.oreilly.com/product/0636920037972.do
 
 ## JavaScript
 
