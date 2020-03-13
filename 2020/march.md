@@ -6,6 +6,17 @@
 
 + author (date), **title** &#8594; link
 
+## Accessibility
+
++ Web Accessibility Guidelines via The Studio at Carenegie Museums &#8594; http://web-accessibility.carnegiemuseums.org/
+  - Extensive collection of accessibility guides here including
+    - **Semantic HTML** &#8594; http://web-accessibility.carnegiemuseums.org/foundations/semantic/
+    - **ARIA Roles, States & Properties** &#8594; http://web-accessibility.carnegiemuseums.org/foundations/aria/
+    - **Keyboard** &#8594; http://web-accessibility.carnegiemuseums.org/foundations/keyboard/
+    - **Contrast & Color** &#8594; http://web-accessibility.carnegiemuseums.org/design/color/
+    - **Modals (Dialog Windows)** &#8594; http://web-accessibility.carnegiemuseums.org/code/dialogs/
+    - and others&hellip;
+    
 ## CSS
 
 + Gallagher Website Design (blog, date unknown), **Remove `<br>` Line Break with CSS and Replace with Space** &#8594; https://www.gallagherwebsitedesign.com/blog/remove-line-break-css-replace-with-space/
@@ -18,15 +29,6 @@
 
 ## HTML
 
-+ Web Accessibility Guidelines via The Studio at Carenegie Museums, **Modals (Dialog Windows)** &#8594; http://web-accessibility.carnegiemuseums.org/code/dialogs/
-+ Web Accessibility Guidelines via The Studio at Carenegie Museums &#8594; http://web-accessibility.carnegiemuseums.org/
-  - Extensive collection of accessibility guides here including
-    - **Semantic HTML** &#8594; http://web-accessibility.carnegiemuseums.org/foundations/semantic/
-    - **ARIA Roles, States & Properties** &#8594; http://web-accessibility.carnegiemuseums.org/foundations/aria/
-    - **Keyboard** &#8594; http://web-accessibility.carnegiemuseums.org/foundations/keyboard/
-    - **Contrast & Color** &#8594; http://web-accessibility.carnegiemuseums.org/design/color/
-    - **Modals (Dialog Windows)** &#8594; http://web-accessibility.carnegiemuseums.org/code/dialogs/
-    - and others&hellip;
 + Scott Vinkle (2020), **How Does HTML Microdata Help With Accessibility?** &#8594; https://scottvinkle.me/blogs/blog/how-html-microdata-helps-with-accessibility
 + Robin Rendle (2017), **An Idea for a Simple Responsive Spreadsheet** &#8594; https://css-tricks.com/idea-simple-responsive-spreadsheet/
 + Chris Coyier (2020), **A Complete Guide to Links and Buttons** &#8594; https://css-tricks.com/a-complete-guide-to-links-and-buttons/
