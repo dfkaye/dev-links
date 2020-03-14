@@ -37,7 +37,7 @@
 
 ## JavaScript
 
-+ Tania Rascia (2020), **Understanding Generators in JavaScript** &#8594; taniarascia.com/understanding-generators-in-javascript/
++ Tania Rascia (2020), **Understanding Generators in JavaScript** &#8594; https://www.taniarascia.com/understanding-generators-in-javascript/
 + Andrea Grammarchi (2020), **`udomdiff`: An essential diffing algorithm for µhtml** &#8594; https://github.com/WebReflection/udomdiff
 + Lennard Schutter (2019), *nice stackoverflow answer to, **How to parameterize mocha tests "@theory" style?*** &#8594; https://stackoverflow.com/a/54245338
 + Kent C. Dodds (2019), **"React is all you need to manage application state"** &#8594; https://kentcdodds.com/blog/application-state-management-with-react
