@@ -8,6 +8,7 @@
 
 ## Accessibility
 
++ Adam B. Silver (2020), **The problem with snackbars and what to use instead** &#8594; https://adamsilver.io/articles/the-problem-with-snackbars-and-what-to-use-instead/
 + Greg Navis (2019), **The Architecture No One Needs** &#8594; https://www.gregnavis.com/articles/the-architecture-no-one-needs.html
   > why a single-page app is almost always worse than a multi-page app...
 + Web Accessibility Guidelines via The Studio at Carenegie Museums &#8594; http://web-accessibility.carnegiemuseums.org/
