@@ -8,6 +8,8 @@
 
 ## Accessibility
 
++ Greg Navis (2019), **The Architecture No One Needs** &#8594; https://www.gregnavis.com/articles/the-architecture-no-one-needs.html
+  > why a single-page app is almost always worse than a multi-page app...
 + Web Accessibility Guidelines via The Studio at Carenegie Museums &#8594; http://web-accessibility.carnegiemuseums.org/
   - Extensive collection of accessibility guides here including
     - **Semantic HTML** &#8594; http://web-accessibility.carnegiemuseums.org/foundations/semantic/
@@ -19,6 +21,7 @@
     
 ## CSS
 
++ Trys Mudford (2020), **Currying in CSS?** &#8594; https://www.trysmudford.com/blog/currying-in-css/
 + Gallagher Website Design (blog, date unknown), **Remove `<br>` Line Break with CSS and Replace with Space** &#8594; https://www.gallagherwebsitedesign.com/blog/remove-line-break-css-replace-with-space/
   - Sure came in handy
 + Louis Hoebregts (2018), **The trick to viewport units on mobile** &#8594; https://css-tricks.com/the-trick-to-viewport-units-on-mobile/
@@ -29,6 +32,7 @@
 
 ## HTML
 
++ Barry Pollard (2020), **Setting Height And Width On Images Is Important Again** &#8594 https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/
 + Scott Vinkle (2020), **How Does HTML Microdata Help With Accessibility?** &#8594; https://scottvinkle.me/blogs/blog/how-html-microdata-helps-with-accessibility
 + Robin Rendle (2017), **An Idea for a Simple Responsive Spreadsheet** &#8594; https://css-tricks.com/idea-simple-responsive-spreadsheet/
 + Chris Coyier (2020), **A Complete Guide to Links and Buttons** &#8594; https://css-tricks.com/a-complete-guide-to-links-and-buttons/
