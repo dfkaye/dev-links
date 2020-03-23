@@ -48,6 +48,8 @@
 + Kent C. Dodds (2019), **"React is all you need to manage application state"** &#8594; https://kentcdodds.com/blog/application-state-management-with-react
 + Fiona Hopkins (2018), **Deciphering TypeScript’s React errors** &#8594; https://medium.com/innovation-and-technology/deciphering-typescripts-react-errors-8704cc9ef402
   - I hate React, but I *really* hate TypeScript; favoring types over tests solves nothing.
++ Steve Ruiz (2020), **Using a JavaScript library (without type declarations) in a TypeScript project** &#8594; https://medium.com/@steveruiz/using-a-javascript-library-without-type-declarations-in-a-typescript-project-3643490015f3
+  - Because, of course, who would want that? A library without typescript declarations...
 + Josh W. Comeau (2020), **The Perils of Rehydration**: An Eye-Opening Realization about Gatsby and React &#8594; https://joshwcomeau.com/react/the-perils-of-rehydration#the-solution
   - I also hate Gatsby; *it is not a "static site generator" but a SPA generator*; its reliance on React breaks dynamic vanilla JavaScript loading so you have to use `dangerouslySetInnerHtml()`; fanboyz are only lately admitting this, now that the Gatsby team has decided to take the VC money; the predictable result will be yet another Frankenstein framework/app.
 
