@@ -1,11 +1,5 @@
 # March 2020
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-
 ## Accessibility
 
 + Adam B. Silver (2020), **The problem with snackbars and what to use instead** &#8594; https://adamsilver.io/articles/the-problem-with-snackbars-and-what-to-use-instead/
