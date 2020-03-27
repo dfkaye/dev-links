@@ -6,13 +6,6 @@
 
 + author (date), **title** &#8594; link
 
-+ QA Wolf, **Create browser tests 10x faster** &#8594; https://github.com/qawolf/qawolf#qa-wolf
-+ Nguyen Huu Phuoc (2020), **how to manage HTML DOM with native API only?** &#8594; https://htmldom.dev/
-+ Estefanía García Gallardo (2019), **The Art of Refactoring: 5 Tips to Write Better Code** &#8594; https://medium.com/better-programming/the-art-of-refactoring-5-tips-to-write-better-code-3bc1f6f7689
-+ Benjamin Cabanes (2018), **Marble testing Observable Introduction** &#8594; https://medium.com/@bencabanes/marble-testing-observable-introduction-1f5ad39231c
-+ Kevin Kreuzer (2018), **Findings about RxJS marble testing and the TestScheduler** &#8594; https://itnext.io/findings-about-rxjs-marble-testing-and-the-testscheduler-b23c6bdf6b49
-
-
 ## Accessibility
 
 + Adam B. Silver (2020), **The problem with snackbars and what to use instead** &#8594; https://adamsilver.io/articles/the-problem-with-snackbars-and-what-to-use-instead/
@@ -49,6 +42,8 @@
 
 ## JavaScript
 
++ Nguyen Huu Phuoc (2020), **how to manage HTML DOM with native API only?** &#8594; https://htmldom.dev/
++ Estefanía García Gallardo (2019), **The Art of Refactoring: 5 Tips to Write Better Code** &#8594; https://medium.com/better-programming/the-art-of-refactoring-5-tips-to-write-better-code-3bc1f6f7689
 + Tania Rascia (2020), **Understanding Generators in JavaScript** &#8594; https://www.taniarascia.com/understanding-generators-in-javascript/
 + Andrea Grammarchi (2020), **`udomdiff`: An essential diffing algorithm for µhtml** &#8594; https://github.com/WebReflection/udomdiff
 + Lennard Schutter (2019), *nice stackoverflow answer to, **How to parameterize mocha tests "@theory" style?*** &#8594; https://stackoverflow.com/a/54245338
@@ -65,4 +60,6 @@
 + Gleb Bahmutov (2019), **Stop using Page Objects and Start using App Actions** &#8594;  https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/#page-objects-problems
 + Robert Pearce (2020), **Catch Low-Hanging Accessibility Fruit with axe-core** &#8594; https://robertwpearce.com/catch-low-hanging-accessibility-fruit-with-axe-core.html
   - includes react- and jest-specific stuff, too.
-
++ `QA Wolf`, **Create browser tests 10x faster** &#8594; https://github.com/qawolf/qawolf#qa-wolf
++ Benjamin Cabanes (2018), **Marble testing Observable Introduction** &#8594; https://medium.com/@bencabanes/marble-testing-observable-introduction-1f5ad39231c
++ Kevin Kreuzer (2018), **Findings about RxJS marble testing and the TestScheduler** &#8594; https://itnext.io/findings-about-rxjs-marble-testing-and-the-testscheduler-b23c6bdf6b49
