@@ -20,3 +20,9 @@
 + Dmitri Pavlutin (2020), **How To Setup Your Local React Playground** &#8594; https://dmitripavlutin.com/react-playground-setup/
 + Richard Torruellas (2019), **TypeScript without TypeScript** &#8594; https://www.rtorr.com/typescript-without-typescript/
   - Reduce read-time confusion and build-time dependencies: put types in comments, not in the source.
+
+## State Transitions
+
++ Karl Wiegers (2020), **Modeling System States: State-Transition Diagrams and State Tables** &#8594;  https://medium.com/@karlwiegers/modeling-system-states-state-transition-diagrams-and-state-tables-d37fe908ff23
++ Mermaid-js, **Mermaid JS State Diagrams** &#8594; https://mermaid-js.github.io/mermaid/#/stateDiagram
+  + **Mermaid Live Editor** &#8594; https://mermaid-js.github.io/mermaid-live-editor/
