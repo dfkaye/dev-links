@@ -8,7 +8,8 @@
 
 ## Energy-efficient Industry and Practice 
 
-+ Excalidraw Blog (2020), **Rethinking Virtual Whiteboard** &#8594;  https://blog.excalidraw.com/rethinking-virtual-whiteboard/
++ Andrea Giammarchi aka @webreflection, **basicHTML**: node.js DOM implementation &#8594; https://github.com/WebReflection/basicHTML
++ Excalidraw Blog (2020), **Rethinking Virtual Whiteboard** &#8594; https://blog.excalidraw.com/rethinking-virtual-whiteboard/
   - whiteboarding-from-home in the post-*coronavirus* era
 + Danny van Kooten (2019), **Website Carbon Emissions** &#8594; https://dannyvankooten.com/website-carbon-emissions/
   - > I reduced global emissions by an estimated 59.000 kg CO2 per month by removing a 20 kB JavaScript dependency
