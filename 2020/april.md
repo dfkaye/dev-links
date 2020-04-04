@@ -17,6 +17,7 @@
 + Kev Quirk (2020), **Making a Website** &#8594; https://kevq.uk/making-a-website/
   - Series of posts on making an efficient web site; download all the resources at &#8594; https://mylight.website/downloads.html
 + Tiny Helpers (2020), **A collection of free single-purpose online tools for web developers...** &#8594; https://tiny-helpers.dev/
++ Nguyen Huu Phuoc (2020), **how to manage HTML DOM with vanilla JavaScript only?** &#8594; https://htmldom.dev/
 + Dmitri Pavlutin (2020), **How To Setup Your Local React Playground** &#8594; https://dmitripavlutin.com/react-playground-setup/
 + Richard Torruellas (2019), **TypeScript without TypeScript** &#8594; https://www.rtorr.com/typescript-without-typescript/
   - Reduce read-time confusion and build-time dependencies: put types in comments, not in the source.
