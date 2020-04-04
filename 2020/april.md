@@ -48,8 +48,8 @@
 + Maria Antonietta Perna (2020), **Five Ways to Lazy Load Images for Better Website Performance** &#8594; https://www.sitepoint.com/five-techniques-lazy-load-images-website-performance/
 + Oliver Russell (2020), **33 line React** &#8594; https://leontrolski.github.io/33-line-react.html
 + React For Designers (2020), **React Mental Models: Working With `<input>`** &#8594; https://learnreact.design/2020/03/31/react-mental-models-working-with-input
++ Sam Denty (2020), **A GraphQL client without queries ✨** &#8594; https://github.com/samdenty/gqless
 
-+ author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
@@ -86,5 +86,10 @@
   
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
++ author (date), **title** &#8594; link
++ author (date), **title** &#8594; link
++ author (date), **title** &#8594; link
++ author (date), **title** &#8594; link
+
 
 
