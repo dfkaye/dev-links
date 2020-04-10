@@ -50,7 +50,7 @@
 + Oliver Russell (2020), **33 line React-like library** &#8594; https://leontrolski.github.io/33-line-react.html
 + React For Designers (2020), **React Mental Models: Working With `<input>`** &#8594; https://learnreact.design/2020/03/31/react-mental-models-working-with-input
 + Sam Denty (2020), **A GraphQL client without queries ✨** &#8594; https://github.com/samdenty/gqless
-
+  > A #GraphQL utility building queries based on the data fetched by #React components at runtime. You no longer need to write GraphQL queries by hand, the library's JIT compiler does it for you.
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
@@ -84,7 +84,6 @@
   1. LTS periods are getting shorter
   1. The best tech is fringe
   1. Marketing driven adoption
-  
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
