@@ -51,7 +51,8 @@
 + React For Designers (2020), **React Mental Models: Working With `<input>`** &#8594; https://learnreact.design/2020/03/31/react-mental-models-working-with-input
 + Sam Denty (2020), **A GraphQL client without queries ✨** &#8594; https://github.com/samdenty/gqless
   > A #GraphQL utility building queries based on the data fetched by #React components at runtime. You no longer need to write GraphQL queries by hand, the library's JIT compiler does it for you.
-+ author (date), **title** &#8594; link
++ Albert Gao (2020), **Setup Monorepo via Yarn workspace for Serverless Framework and Expo with Typescript** &#8594; https://www.albertgao.xyz/2020/04/10/setup-monorepo-via-yarn-workspace-for-serverless-framework-and-expo-with-typescript/
+  - monorepo using `yarn`, `expo`, and `tsdx` *without* `lerna` *OR* `babel`
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
