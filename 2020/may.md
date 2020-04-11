@@ -12,9 +12,9 @@
 
 + Ranvir Singh (2018), **The Ultimate Introduction to Kafka with JavaScript** &#8594; https://blog.soshace.com/the-ultimate-introduction-to-kafka-with-javascript/
 + Manuel Villing (2018), **Event sourcing with kafka and nodejs** &#8594; https://medium.com/@theotow/event-sourcing-with-kafka-and-nodejs-9787a8e47716
-+ Matt Walters (2019), **`sourced`** &#8594; https://github.com/mateodelnorte/sourced
-+ Túlio Ornelas (2091), **`kafkajs`** &#8594; https://github.com/tulios/kafkajs
-+ author (date), **title** &#8594; link
++ Matt Walters (2019), **`sourced` - Tiny framework for building models with the event sourcing pattern (events and snapshots)** &#8594; https://github.com/mateodelnorte/sourced
++ Túlio Ornelas (2019), **`kafkajs` - Apache Kafka client for node.js** &#8594; https://github.com/tulios/kafkajs
++ Joseph Rea (2019), **Consuming Messages Out of Apache Kafka in a Browser** &#8594; https://www.confluent.io/blog/consuming-messages-out-of-apache-kafka-in-a-browser/
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
