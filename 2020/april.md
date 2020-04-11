@@ -58,13 +58,16 @@
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 
+## Approval Testing
+
++ Angie Jones (2019), **Verifying Entire Api Responses** &#8594; http://angiejones.tech/verifying-entire-api-responses/
 
 ## State Transitions
 
 + Karl Wiegers (2020), **Modeling System States: State-Transition Diagrams and State Tables** &#8594;  https://medium.com/@karlwiegers/modeling-system-states-state-transition-diagrams-and-state-tables-d37fe908ff23
 + Mermaid-js, **Mermaid JS State Diagrams** &#8594; https://mermaid-js.github.io/mermaid/#/stateDiagram
   + **Mermaid Live Editor** &#8594; https://mermaid-js.github.io/mermaid-live-editor/
-  
+
 ## Complaints
 
 + Vasilis van Gemert (2013), **Why I Dislike the `rem` unit** &#8594; https://vasilis.nl/nerd/dislike-rem-unit/
