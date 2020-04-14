@@ -1,11 +1,5 @@
 # April 2020
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-
 ## Energy-efficient Industry and Practice 
 
 + Andrea Giammarchi aka @webreflection, **basicHTML**: node.js DOM implementation &#8594; https://github.com/WebReflection/basicHTML
@@ -53,20 +47,6 @@
   > A #GraphQL utility building queries based on the data fetched by #React components at runtime. You no longer need to write GraphQL queries by hand, the library's JIT compiler does it for you.
 + Albert Gao (2020), **Setup Monorepo via Yarn workspace for Serverless Framework and Expo with Typescript** &#8594; https://www.albertgao.xyz/2020/04/10/setup-monorepo-via-yarn-workspace-for-serverless-framework-and-expo-with-typescript/
   - monorepo using `yarn`, `expo`, and `tsdx` *without* `lerna` *OR* `babel`
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-
-## Approval Testing
-
-+ Angie Jones (2019), **Verifying Entire Api Responses** &#8594; http://angiejones.tech/verifying-entire-api-responses/
-
-## State Transitions
-
-+ Karl Wiegers (2020), **Modeling System States: State-Transition Diagrams and State Tables** &#8594;  https://medium.com/@karlwiegers/modeling-system-states-state-transition-diagrams-and-state-tables-d37fe908ff23
-+ Mermaid-js, **Mermaid JS State Diagrams** &#8594; https://mermaid-js.github.io/mermaid/#/stateDiagram
-  + **Mermaid Live Editor** &#8594; https://mermaid-js.github.io/mermaid-live-editor/
 
 ## Complaints
 
@@ -88,12 +68,4 @@
   1. LTS periods are getting shorter
   1. The best tech is fringe
   1. Marketing driven adoption
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-
-
 
