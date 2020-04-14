@@ -20,17 +20,10 @@
   + See more of these via Chris Coyier (2020), *No-Class CSS Frameworks* &#8594; https://css-tricks.com/no-class-css-frameworks/
 + Ollie Williams (2020), **Styling in the Shadow DOM With CSS Shadow Parts** &#8594; https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/
 
-## State Transitions
+## Conflict-free Replicated Data Types
 
-+ Karl Wiegers (2020), **Modeling System States: State-Transition Diagrams and State Tables** &#8594;  https://medium.com/@karlwiegers/modeling-system-states-state-transition-diagrams-and-state-tables-d37fe908ff23
-+ Mermaid-js, **Mermaid JS State Diagrams** &#8594; https://mermaid-js.github.io/mermaid/#/stateDiagram
-  + **Mermaid Live Editor** &#8594; https://mermaid-js.github.io/mermaid-live-editor/
-
-## React in 33 lines
-
-+ Oliver Russell (2020), **33 line React** &#8594; https://leontrolski.github.io/33-line-react.html
-+ **Hacker news discussion** &#8594; https://news.ycombinator.com/item?id=22776753
-+ Oliver Russell (2020), **Follow-up** &#8594; https://leontrolski.github.io/33-line-react-thoughts.html
++ **crdt.tech** &#8594; https://crdt.tech/
+  > A Conflict-free Replicated Data Type (CRDT) is a data structure that simplifies distributed data storage systems and multi-user applications.
   
 ## Kafka
 
@@ -39,3 +32,15 @@
 + Matt Walters (2019), **`sourced` - Tiny framework for building models with the event sourcing pattern (events and snapshots)** &#8594; https://github.com/mateodelnorte/sourced
 + Túlio Ornelas (2019), **`kafkajs` - Apache Kafka client for node.js** &#8594; https://github.com/tulios/kafkajs
 + Joseph Rea (2019), **Consuming Messages Out of Apache Kafka in a Browser** &#8594; https://www.confluent.io/blog/consuming-messages-out-of-apache-kafka-in-a-browser/
+
+## React in 33 lines
+
++ Oliver Russell (2020), **33 line React** &#8594; https://leontrolski.github.io/33-line-react.html
++ **Hacker news discussion** &#8594; https://news.ycombinator.com/item?id=22776753
++ Oliver Russell (2020), **Follow-up** &#8594; https://leontrolski.github.io/33-line-react-thoughts.html
+
+## State Transitions
+
++ Karl Wiegers (2020), **Modeling System States: State-Transition Diagrams and State Tables** &#8594;  https://medium.com/@karlwiegers/modeling-system-states-state-transition-diagrams-and-state-tables-d37fe908ff23
++ Mermaid-js, **Mermaid JS State Diagrams** &#8594; https://mermaid-js.github.io/mermaid/#/stateDiagram
+  + **Mermaid Live Editor** &#8594; https://mermaid-js.github.io/mermaid-live-editor/
