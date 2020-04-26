@@ -24,8 +24,8 @@
   - "On desktop, per session, users who experienced **fast rendering times** bring 212% more revenue than average and **572% more revenue** than slow."
   - See the "How did we do it" section (added more code to defer and batch processing) which sounds suspiciously like Alex Russell's complaint o 4 September &#8594; https://twitter.com/slightlylate/status/1037108595551297536
 + Tim Kadlec (2020), **The Cost of JavaScript _Frameworks_** &#8594; https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/
-  - In 2015, React (0.12.2) was as fast as Backbone. In 2020, React hs become by far the worst performer, especially as the total app size. grows.
-  - Wonder whether anyone follows this advice from Christopher Chedeau (2013), **React’s diff algorithm** &#8594; https://calendar.perfplanet.com/2013/diff/
+  - In 2015, React (0.12.2) was as fast as Backbone. In 2020, React has become by far the worst performer, especially as the total app size grows.
+  - Should revisit this advice from Christopher Chedeau (2013), **React’s diff algorithm** &#8594; https://calendar.perfplanet.com/2013/diff/
     - > The performance cost model of React is also very simple to understand: every setState re-renders the whole sub-tree. If you want to squeeze out performance, call `setState` as low as possible and use `shouldComponentUpdate` to prevent re-rendering an [sic] large sub-tree. 
 
 ## Approval Testing
