@@ -6,6 +6,28 @@
 
 + author (date), **title** &#8594; link
 
+## JavaScript & Framework Performance, a timeline
+
++ John Bender (2014), **Researching the Performance costs of JavaScript MVC Frameworks** &#8594; https://www.filamentgroup.com/lab/mv-initial-load-times.html
+  - Compares Backbone, Angular, and Ember (which fares worst here)... plus React 0.12.2 which performs as well as Backbone. 
++ Paul Lewis (2015), **React plus Performance equals What?** &#8594; https://aerotwist.com/blog/react-plus-performance-equals-what/
+  - "For mobile there’s a remarkable cost to using React over not doing so, and the cost is so high as to be reasonably prohibitive."
++ Paul Lewis (2015), **The Cost of Frameworks** &#8594; https://aerotwist.com/blog/the-cost-of-frameworks/
+  - Tries to generalize the "particular costs that are unique to frameworks," such as "a pretty hefty tax to using Frameworks on mobile, especially compared to writing vanilla JavaScript."
++ Alex Russell (2017), **Can You Afford It?: Real-world Web Performance Budgets** &#8594; https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/
+  - Alex's tweet from 4 September, 2020: "`"`Modern`"` frontend development as practices in the React/Redux/JS-all-the-things style is a disaster. Everything designed to fix your last mistake instead makes it worse."
+ &#8594; https://twitter.com/slightlylate/status/1037108595551297536
++ Addy Osmani (2018), **The Cost Of JavaScript In 2018** &#8594; https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
++ Addy Osmani (2019), **The Cost Of JavaScript In 2019** &#8594; https://v8.dev/blog/cost-of-javascript-2019
++ CP Clermont (2020), **The Impact of Web Performance** &#8594; https://simplified.dev/performance/impact-of-web-performance
+  - "On mobile, per session, users who experienced **fast rendering times** bring 75% more revenue than average and **327% more revenue** than slow."
+  - "On desktop, per session, users who experienced **fast rendering times** bring 212% more revenue than average and **572% more revenue** than slow."
+  - See the "How did we do it" section (added more code to defer and batch processing) which sounds suspiciously like Alex Russell's complaint o 4 September &#8594; https://twitter.com/slightlylate/status/1037108595551297536
++ Tim Kadlec (2020), **The Cost of JavaScript _Frameworks_** &#8594; https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/
+  - In 2015, React (0.12.2) was as fast as Backbone. In 2020, React hs become by far the worst performer, especially as the total app size. grows.
+  - Wonder whether anyone follows this advice from Christopher Chedeau (2013), **React’s diff algorithm** &#8594; https://calendar.perfplanet.com/2013/diff/
+    - > The performance cost model of React is also very simple to understand: every setState re-renders the whole sub-tree. If you want to squeeze out performance, call `setState` as low as possible and use `shouldComponentUpdate` to prevent re-rendering an [sic] large sub-tree. 
+
 ## Approval Testing
 
 + Angie Jones (2019), **Verifying Entire Api Responses** &#8594; http://angiejones.tech/verifying-entire-api-responses/
