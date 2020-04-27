@@ -28,9 +28,11 @@
   - Should revisit this advice from Christopher Chedeau (2013), **React’s diff algorithm** &#8594; https://calendar.perfplanet.com/2013/diff/
     - > The performance cost model of React is also very simple to understand: every setState re-renders the whole sub-tree. If you want to squeeze out performance, call `setState` as low as possible and use `shouldComponentUpdate` to prevent re-rendering an [sic] large sub-tree. 
 
-## Approval Testing
+## Testing
 
-+ Angie Jones (2019), **Verifying Entire Api Responses** &#8594; http://angiejones.tech/verifying-entire-api-responses/
++ Cal Paterson (2020), **The argument against clearing the database between tests** &#8594; http://calpaterson.com/against-database-teardown.html
+  > I'm of the school of thought that most useful "unit"1 tests should involve the database. Consequently I don't mock out, fake or stub the database in tests that I write... You can't write tests that assume that data it has created is the only thing present... Instead each test needs to be written to assert only on the basis of data it has created (or has not created). It should handle data created by others.
++ Angie Jones (2019), **Verifying Entire Api Responses _(with Approval Testing)_** &#8594; http://angiejones.tech/verifying-entire-api-responses/
 
 ## CSS
 
