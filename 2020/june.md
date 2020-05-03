@@ -34,4 +34,12 @@
 + Karl Groves (2011), **Accessible Form Labeling & Instructions** &#8594; https://karlgroves.com/2011/10/10/accessible-form-labeling-instructions
 + Adrian Roselli (2019), **Basic Custom Control Requirements** &#8594; https://adrianroselli.com/2019/08/basic-custom-control-requirements.html
 
+## async generators revisited
+
++ Vitaliy Akimov (2018), **Async Generators as an alternative to State Management** &#8594; https://medium.com/dailyjs/async-generators-as-an-alternative-to-state-management-f9871390ffca
++ Vitaliy Akimov (2018), **Simpler Transducers for JavaScript** &#8594; https://codeburst.io/simpler-transducers-for-javascript-4d02a0926648
++ Vitaliy Akimov (2019), **How to Decouple Business Logic using Async Generators** &#8594; https://www.freecodecamp.org/news/decoupling-business-logic/
++ James Forbes (2020), **Hooks and Streams** &#8594; https://james-forbes.com/#!/posts/hooks-and-streams
+  - > Something I've found while working with streams for UI development for the past 5 or 6 years is that I reach for components less often, because streams are simpler and more composable than components.
+
 
