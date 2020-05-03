@@ -1114,7 +1114,6 @@ https://stackoverflow.com/questions/13255389/ldapjs-authentification-user-login-
 + (podcast, 10:32) Eric Normand on [Representing state changes with pure functions](https://lispcast.com/how-can-pure-functions-represent-state-change/)
 + server-side rendering JavaScript views with [Hypernova](https://github.com/airbnb/hypernova)
     > First and foremost, server-side rendering is a better user experience compared to just client-side rendering. The user gets the content faster, the webpage is more accessible when JS fails or is disabled, and search engines have an easier time indexing it.
-    
     > Secondly, it provides a better developer experience. Writing the same markup twice both on the server in your preferred templating library and in JavaScript can be tedious and hard to maintain. Hypernova lets you write all of your view code in a single place without having to sacrifice the user‘s experience.
 + Axax, [Async Iterator Extensions for JavaScript](https://github.com/jamiemccrindle/axax)
 + [JavaScript fluent validation library](https://imbrn.github.io/v8n)
@@ -1131,7 +1130,7 @@ https://stackoverflow.com/questions/13255389/ldapjs-authentification-user-login-
     - > *Instead of throwing an exception or returning a null reference, return a null object (i.e. an empty list) instead, so that there is no need to verify that the return value is in fact a list.*
 + Happy 10th birthday to [**MinUnit**](http://www.jera.com/techinfo/jtns/jtn002.html), a minimal unit testing framework in 3 lines of C.
 + Frank McSherry on [`Differential Dataflow`](https://github.com/frankmcsherry/differential-dataflow), "an implementation of differential dataflow over timely dataflow on `Rust`."
-+ [**Async Generators as an alternative to State Management**](https://medium.com/dailyjs/async-generators-as-an-alternative-to-state-management-f9871390ffca)
++ Vitaliy Akimov(2018), [**Async Generators as an alternative to State Management**](https://medium.com/dailyjs/async-generators-as-an-alternative-to-state-management-f9871390ffca)
 + [5 Mistakes I Made When Doing Custom Data Visualization With `D3.js`](https://blog.sicara.com/5-mistakes-avoid-custom-data-visualizations-d3-js-ac431e57aeff)
 + CSS Tricks 2014, [**Centering in CSS**: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 + The A11Y Project, [An accessible widget & pattern library](https://a11yproject.com/patterns)
