@@ -22,6 +22,7 @@
 
 ## Design
 
++ Josh W Comeau (2020), **HTML Skeleton (starter for every web page)** &#8594; https://joshwcomeau.com/snippets/html/html-skeleton
 + Zoë Bijl (2020), **Testing `aria-live` support** &#8594; https://moiety.me/research/aria-live/
   - > What is the current support of aria-live regions?
 + Leonie Watson (2017), **What is an accessible name?** &#8594; https://developer.paciellogroup.com/blog/2017/04/what-is-an-accessible-name/
