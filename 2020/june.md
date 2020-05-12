@@ -6,6 +6,17 @@
 
 + author (date), **title** &#8594; link
 
+## Object-oriented opinions...
+
++ Ilya Suzdalnitski (2019), **Object-Oriented Programming — The Trillion Dollar Disaster** &#8594; https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7
++ Ben Lynn (?), **Object-oriented oblivion** &#8594; https://crypto.stanford.edu/~blynn/c/object.html
++ Zed A. Shaw (2015), **The Web Will Die When OOP Dies (video)** &#8594; https://www.youtube.com/watch?v=_CEBG_s92P8%20
++ Lawrence Krubner (2014), **Object Oriented Programming is an expensive disaster which must end** &#8594; http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end
++ John Barker (2013), **All evidence points to OOP being bullshit** &#8594; https://tanzu.vmware.com/content/blog/all-evidence-points-to-oop-being-bullshit
++ Joe Armstrong (2011), **Why OO Sucks** &#8594; http://harmful.cat-v.org/software/OO_programming/why_oo_sucks
++ Oscar Nierstrasz (2010), **Ten Things I Hate About Object-Oriented Programming** &#8594; http://blog.jot.fm/2010/08/26/ten-things-i-hate-about-object-oriented-programming/
++ Jeff Atwood (2007), **Your Code: OOP or POO?** &#8594; https://blog.codinghorror.com/your-code-oop-or-poo/
+
 ## Online utilities
 
 + `dillinger`, **Online Markdown Editor** &#8594; https://dillinger.io/
