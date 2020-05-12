@@ -29,10 +29,11 @@
 + `confrere`, **Accessible Color Palette Generator** &#8594; https://confrere.com/a11y/test/
   - see Ida Aalen (2017),**Automatically generating an accessible color palette** &#8594; https://medium.com/confrere/automatically-creating-an-accessible-color-palette-from-any-color-sure-e735c3f2f45e
 + `csslayout.io`, **a collection of popular layouts and patterns made with CSS** &#8594; https://csslayout.io/patterns
-+ **Front-end Bookmarks** &#8594; https://www.frontendbookmarks.com/
 
 ## Design
 
++ Stephanie Eckles (2020), **Modern CSS Solutions for Old CSS Problems** &#8594; https://moderncss.dev  
++ **Front-end Bookmarks** &#8594; https://www.frontendbookmarks.com/
 + Josh W Comeau (2020), **HTML Skeleton (starter for every web page)** &#8594; https://joshwcomeau.com/snippets/html/html-skeleton
 + Zoë Bijl (2020), **Testing `aria-live` support** &#8594; https://moiety.me/research/aria-live/
   - > What is the current support of aria-live regions?
