@@ -1,11 +1,5 @@
 # June 2020
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-
 ## Object-oriented opinions...
 
 + Ilya Suzdalnitski (2019), **Object-Oriented Programming — The Trillion Dollar Disaster** &#8594; https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7
