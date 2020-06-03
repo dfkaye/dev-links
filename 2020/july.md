@@ -37,4 +37,6 @@
 + Dave Rupert (2017), **Transpiled for-of Loops are Bad for the Client** &#8594; https://daverupert.com/2017/10/for-of-loops-are-bad/
 + Fred Hebert (2020), **Complexity Has to Live Somewhere** &#8594; https://ferd.ca/complexity-has-to-live-somewhere.html
 + `@_______lord` (2019), **Text Editing Hates You Too** &#8594; https://lord.io/blog/2019/text-editing-hates-you-too/
++ Maggie Gram (2019), **Design Thinking** &#8594; https://nplusonemag.com/issue-35/reviews/on-design-thinking/
+  - "Savior Complex," "Synthetic Contrivance," "creative class," "ideating," "solutioning" &#8594; rebranded magical thinking that rebrands garbage into synthetic CDOs.
 
