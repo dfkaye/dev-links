@@ -24,6 +24,7 @@
 
 ## model checking
 
-+ Nitish Kumar (on geeksforgeeks.org), **How to solve a dynamic programming problem** &#8594; https://www.geeksforgeeks.org/solve-dynamic-programming-problem/
++ OOAD (object-oriented analysis and design), **Dynamic modeling** &#8594; https://www.tutorialspoint.com/object_oriented_analysis_design/ooad_dynamic_modeling.htm
++ Nitish Kumar (on geeksforgeeks.org), **How to solve a Dynamic Programming problem** &#8594; https://www.geeksforgeeks.org/solve-dynamic-programming-problem/
 + Oskar Wickstrom (2020), **WebCheck: generative browser testing** &#8594; https://webcheck.tools/
 + Wikipedia, **Kripke structure** &#8594; https://en.wikipedia.org/wiki/Kripke_structure_(model_checking)
