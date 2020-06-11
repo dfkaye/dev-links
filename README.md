@@ -41,6 +41,7 @@ Links to different topics for developers like me interested in javascript, test-
   - see Ida Aalen (2017),**Automatically generating an accessible color palette** &#8594; https://medium.com/confrere/automatically-creating-an-accessible-color-palette-from-any-color-sure-e735c3f2f45e
 + `csslayout.io`, **a collection of popular layouts and patterns made with CSS** &#8594; https://csslayout.io/patterns
 + `simple-icons`, **Free SVG icons for popular brands** &#8594; https://simpleicons.org/
++ `real-favicon-generator`, **Favicon generator for perfect icons on all browsers** &#8594; https://realfavicongenerator.net/
 
 ## Design
 
