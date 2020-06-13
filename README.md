@@ -35,6 +35,7 @@ Links to different topics for developers like me interested in javascript, test-
   
 ## Patterns
 
++ David Wells (2020), **Cleaner async JavaScript code without the try/catch mess (using `safeAwait`)** &#8594; https://davidwells.io/blog/cleaner-async-await-code-without-try-catch
 + Stephanie Eckles (2020), **Modern CSS Solutions for Old CSS Problems** &#8594; https://moderncss.dev/
 + Marko Marinovich (2020), **JavaScript magic with Symbols** &#8594; https://dev.to/marinovicmarko/javascript-magic-with-symbols-och
   - Interesting way to re-write custom valueOf() and toString() functionality
@@ -43,8 +44,9 @@ Links to different topics for developers like me interested in javascript, test-
 + Will Boyd (2020), **Using CSS to Control Text Selection** &#8594;https://codersblock.com/blog/using-css-to-control-text-selection/
 + Christian Behrens (2014), **Enter, Exit, Update** &#8594; https://medium.com/@c_behrens/enter-update-exit-6cafc6014c36 > An Introduction to D3.js, The Web’s Most Popular Visualization Toolkit
 
-## anti-patterns
+## Anti-patterns
 
++ Luis Soares (2020), **Anti-patterns of automated software testing** &#8594; https://medium.com/swlh/anti-patterns-of-automated-software-testing-b396283a4cb6
 + Dave Rupert (2017), **Transpiled for-of Loops are Bad for the Client** &#8594; https://daverupert.com/2017/10/for-of-loops-are-bad/
 + Fred Hebert (2020), **Complexity Has to Live Somewhere** &#8594; https://ferd.ca/complexity-has-to-live-somewhere.html
 + `@_______lord` (2019), **Text Editing Hates You Too** &#8594; https://lord.io/blog/2019/text-editing-hates-you-too/
