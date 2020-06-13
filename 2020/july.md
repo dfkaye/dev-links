@@ -1,11 +1,5 @@
 # July 2020
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-
 ## Repeats
 
 + Vitalii Akimov (2018) **Async Generators as an alternative to State Management** &#8594; https://www.freecodecamp.org/news/async-generators-as-an-alternative-to-state-management/
@@ -32,8 +26,9 @@
 + Will Boyd (2020), **Using CSS to Control Text Selection** &#8594;https://codersblock.com/blog/using-css-to-control-text-selection/
 + Christian Behrens (2014), **Enter, Exit, Update** &#8594; https://medium.com/@c_behrens/enter-update-exit-6cafc6014c36 > An Introduction to D3.js, The Web’s Most Popular Visualization Toolkit
 
-## anti-patterns
+## Anti-patterns
 
++ Luis Soares (2020), **Anti-patterns of automated software testing** &#8594; https://medium.com/swlh/anti-patterns-of-automated-software-testing-b396283a4cb6
 + Dave Rupert (2017), **Transpiled for-of Loops are Bad for the Client** &#8594; https://daverupert.com/2017/10/for-of-loops-are-bad/
 + Fred Hebert (2020), **Complexity Has to Live Somewhere** &#8594; https://ferd.ca/complexity-has-to-live-somewhere.html
 + `@_______lord` (2019), **Text Editing Hates You Too** &#8594; https://lord.io/blog/2019/text-editing-hates-you-too/
