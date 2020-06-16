@@ -6,9 +6,10 @@
 
 + author (date), **title** &#8594; link
 
-## *Server-Side Rendering is a Thiel Truth*
+## Thiel Truths
 
 + Tim Ruffles (2020), **Server-Side Rendering is a Thiel Truth** &#8594; https://timr.co/server-side-rendering-is-a-thiel-truth
++ Jeremy Bowers (2020), **Why Duck Typing Is Safe** &#8594; http://www.jerf.org/iri/post/2954
 
 ## Design help
 
