@@ -6,15 +6,14 @@
 
 + author (date), **title** &#8594; link
 
-## Thiel Truths
+## Thiel Truth Rebellion
 
 + Tim Ruffles (2020), **Server-Side Rendering is a Thiel Truth** &#8594; https://timr.co/server-side-rendering-is-a-thiel-truth
 + Jeremy Bowers (2020), **Why Duck Typing Is Safe** &#8594; http://www.jerf.org/iri/post/2954
 
 ## Design help
 
-+ Aral Roca (2020), **App with React API without tools as Webpack or Babel** &#8594; https://aralroca.com/blog/app-with-react-api-without-tools-as-webpack-or-babel
-  - using `preact` and `unkpkg.com`
++ Danny Moerkerke (2019), **Data binding for Web Components in just a few lines of code** &#8594; https://www.dannymoerkerke.com/blog/data-binding-for-web-components-in-just-a-few-lines-of-code
 + Stephanie Eckles (2020), **Container Query Solutions with CSS Grid and Flexbox** &#8594; https://dev.to/5t3ph/container-query-solutions-with-css-grid-and-flexbox-30cj
 + Christian Heilmann (2020), **Progressively enhancing radio buttons with SVG whilst staying accessible** &#8594; https://christianheilmann.com/2020/05/05/progressively-enhancing-radio-buttons-with-svg-whilst-staying-accessible/
 + John Wickerson (2019), **How to draw block diaagrams** &#8594; https://johnwickerson.wordpress.com/2019/08/08/block-diagrams/
