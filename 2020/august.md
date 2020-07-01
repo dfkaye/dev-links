@@ -17,7 +17,7 @@
 + Erik Kroes (2020), **Guide to Accessible Web Components** &#8594; https://dev.to/erikkroes/the-guide-to-accessible-web-components-1mkd
 + Stephanie Eckles (2020), **Container Query Solutions with CSS Grid and Flexbox** &#8594; https://dev.to/5t3ph/container-query-solutions-with-css-grid-and-flexbox-30cj
 + Christian Heilmann (2020), **Progressively enhancing radio buttons with SVG whilst staying accessible** &#8594; https://christianheilmann.com/2020/05/05/progressively-enhancing-radio-buttons-with-svg-whilst-staying-accessible/
-+ John Wickerson (2019), **How to draw block diaagrams** &#8594; https://johnwickerson.wordpress.com/2019/08/08/block-diagrams/
++ John Wickerson (2019), **How to draw block diagrams** &#8594; https://johnwickerson.wordpress.com/2019/08/08/block-diagrams/
 + `No Design Development`, **A collection of tools for developers who have little to no artistic talent** &#8594;  https://nodesign.dev/
 + `Basic.css`, **Classless CSS Starter File** &#8594; https://vladocar.github.io/Basic.css/
 
