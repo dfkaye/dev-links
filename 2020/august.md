@@ -19,7 +19,10 @@
 + Christian Heilmann (2020), **Progressively enhancing radio buttons with SVG whilst staying accessible** &#8594; https://christianheilmann.com/2020/05/05/progressively-enhancing-radio-buttons-with-svg-whilst-staying-accessible/
 + John Wickerson (2019), **How to draw block diagrams** &#8594; https://johnwickerson.wordpress.com/2019/08/08/block-diagrams/
 + `No Design Development`, **A collection of tools for developers who have little to no artistic talent** &#8594;  https://nodesign.dev/
-+ `Basic.css`, **Classless CSS Starter File** &#8594; https://vladocar.github.io/Basic.css/
++ `Basic.css`, **Basic.css: Classless CSS Starter File** &#8594; https://vladocar.github.io/Basic.css/
++ Bennett Feely (2020), **USA.css**  https://bennettfeely.com/usacss/
+  - > The most American CSS stylesheet. Style your webpage with the stars and stripes as CSS backgrounds. All units are set in inches.
+
 
 ## JavaScript
 
