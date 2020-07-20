@@ -23,6 +23,17 @@
 + Bennett Feely (2020), **USA.css**  https://bennettfeely.com/usacss/
   - > The most American CSS stylesheet. Style your webpage with the stars and stripes as CSS backgrounds. All units are set in inches.
 
+## TypeScript
+
++ @TruckJS (2018), **Type Safe JavaScript with JSDoc** &#8594; https://medium.com/@trukrs/type-safe-javascript-with-jsdoc-7a2a63209b76
+  - **BEST RESOURCE I'VE FOUND regarding TS checks via JSDoc without polluting JS with annotations** - however, some examples go far too deep, and the author admits early that type errors will be least of your problems:
+    - > Don’t assume that because your code passed type checks during build time that there will be no type errors. Type errors that happen during runtime can be avoided by using type guards at appropriate places. In general, type errors are going to be the smallest number of bugs that you will have to deal with. For your users, UI/UX inconsistencies will be the things that drive them up the wall. Management will label UI bugs as Pri-1, and your type errors will at best be Pri-3 or else backlogged.
+  - Go to VS Code preferences &gt: settings and enter `"javascript.implicitProjectConfig.checkJs": true`
+  - Add `// @ts-check`, or `// @ts-nocheck` at top of file
+  - Add `// @ts-ignore` before blocks with issues
+  - In a `jsconfig.json` file, set`"compilerOptions": { "checkJs": true }`
+  - In package.json add a script, `"scripts": { "checkjs": "tsc --allowJs --checkJs --noEmit --target ES5 src/*.js" }`
+  - Plenty of examples to pick from.
 
 ## JavaScript
 
