@@ -35,8 +35,19 @@
   - In package.json add a script, `"scripts": { "checkjs": "tsc --allowJs --checkJs --noEmit --target ES5 src/*.js" }`
   - Plenty of examples to pick from.
 
+## Property Testing
+
++ Carolyn Stransky (2020), **Property-based testing for JavaScript developers** &#8594; https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2
+  - An introduction using Nicolas Dubien's fast-check` &#8594; https://github.com/dubzzz/fast-check/
++ Lars Hupel (2020), **Series: Conflict-Free Replicated Data Types** &#8594; https://lars.hupel.info/topics/crdt/01-intro
+  - Lars uses `fast-check` in the browser in hais CRDT series.
++ Oskar Wickstrom (2020), **WebCheck: generative browser testing** &#8594; https://webcheck.tools/
+  - *coming soon!*
+  
 ## JavaScript
 
++ Menelaos Perdikeas (repo), **js-structural-sharing** &#8594; https://github.com/mperdikeas/js-structural-sharing
+  - > Tests whether two objects (recursively) have structural sharing. In other words, whether they access a common memory location. If the exported method `shareMemory` returns `false` then each of the objects can be modified, anywhere in its graph, without affecting the other.
 + David Wells (2020), **Cleaner async JavaScript code without the try/catch mess** &#8594; https://davidwells.io/blog/cleaner-async-await-code-without-try-catch
 + @ealush (2020), **`vest` - validation testing** &#8594; https://github.com/ealush/vest
   - contract utility to separate validation logic from feature logic.
@@ -57,10 +68,6 @@
 ## Abstract interpretation
 
 + Wikipedia, **Abstract interpretation" &#8594; https://en.wikipedia.org/wiki/Abstract_interpretation
-+ Lars Hupel (2020), **Series: Conflict-Free Replicated Data Types** &#8594; https://lars.hupel.info/topics/crdt/01-intro
-+ Nicolas Dubien (repo), **`fast-check`: Property based testing framework for JavaScript/TypeScript** &#8594; https://github.com/dubzzz/fast-check/
-+ Menelaos Perdikeas (repo), **js-structural-sharing** &#8594; https://github.com/mperdikeas/js-structural-sharing
 + OOAD (object-oriented analysis and design), **Dynamic modeling** &#8594; https://www.tutorialspoint.com/object_oriented_analysis_design/ooad_dynamic_modeling.htm
 + Nitish Kumar (on geeksforgeeks.org), **How to solve a Dynamic Programming problem** &#8594; https://www.geeksforgeeks.org/solve-dynamic-programming-problem/
-+ Oskar Wickstrom (2020), **WebCheck: generative browser testing** &#8594; https://webcheck.tools/
 + Wikipedia, **Kripke structure** &#8594; https://en.wikipedia.org/wiki/Kripke_structure_(model_checking)
