@@ -6,6 +6,11 @@
 
 + author (date), **title** &#8594; link
 
+## User Safety
+
++ Anders Hovmöller (2020), **Transparent sync** &#8594; https://kodare.net/2020/08/01/transparent-sync.html
+  - @andershovmoller does an excellent, succint job describing an unsafe state in an application and affording the user a way back to a safe state.
+
 ## Algorithms
 
 + @ProCode (2020), **Sliding Window Technique - From O(N²) to O(N)🔥** &#8594; https://dev.to/procode/sliding-window-technique-from-o-n-to-o-n-3la3
