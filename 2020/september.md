@@ -18,8 +18,7 @@
   - Quote from Cai, Giarrusso, Rendel and Ostermann (2013), **A Theory of Changes for Higher-Order Languages (PDF)** &#8594; https://arxiv.org/abs/1312.0658:
     > If the result of an expensive computation is invalidated by a small change to the input, the old result should be updated incrementally instead of reexecuting the whole computation.
 + @ProCode (2020), **Sliding Window Technique - From O(N²) to O(N)🔥** &#8594; https://dev.to/procode/sliding-window-technique-from-o-n-to-o-n-3la3
-+ John D. Cook (2020), **Decomposing functions of many variables to functions of one variable** &#8594; https://www.johndcook.com/blog/2020/07/15/kolmogorov-superposition/
-  - using *Komogorov superposition*
++ John D. Cook (2020), **Decomposing functions of many variables to functions of one variable (using *Kolmogorov superposition*)** &#8594; https://www.johndcook.com/blog/2020/07/15/kolmogorov-superposition/
 + Kirill Rakhman (2020), **Solving Sudoku with Graph Theory** &#8594; https://rakhman.info/blog/solving-sudoku-with-graph-theory/
 
 ## TypeScript (can't avoid it)
