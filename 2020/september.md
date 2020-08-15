@@ -11,6 +11,11 @@
 + Anders Hovmöller (2020), **Transparent sync** &#8594; https://kodare.net/2020/08/01/transparent-sync.html
   - @andershovmoller does an excellent, succint job describing an unsafe state in an application and affording the user a way back to a safe state.
 
+## VendorOps
+
++ rachelbythebay (2020), **We are a spectrum of jobs, not just one** &#8594; http://rachelbythebay.com/w/2020/08/14/jobs/
+  - > It's VendorOps. You are hired to tend the vendor's stuff.
+
 ## Algorithms
 
 + Phil Freeman (2018), **Incrementally Improving The DOM** &#8594; https://blog.functorial.com/posts/2018-04-08-Incrementally-Improving-The-DOM.html
