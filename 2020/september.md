@@ -33,6 +33,11 @@
   - keep the state in the JavaScript, observe our events, and react to changes as they happen.
   - >  Working with a pattern like this maintains a single source of truth in your state object that you control, you can trust and you can enforce. If you ever lose trust that your DOM is correct, all you need to do is re-run the update function with no arguments and your values become consistent with the state object again.
 
+## Testing
+
++ @terjanq (2020), **Tiny XSS payloads** &#8594; https://github.com/terjanq/Tiny-XSS-Payloads
+  - > A collection of short XSS payloads that can be used in different contexts.
+  
 ## TypeScript (JSDoc approaches)
 
 + Caleb Williams (2020), **TypeScript, Minus TypeScript** &#8594; https://css-tricks.com/typescript-minus-typescript/
