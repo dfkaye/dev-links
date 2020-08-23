@@ -16,6 +16,17 @@
 + rachelbythebay (2020), **We are a spectrum of jobs, not just one** &#8594; http://rachelbythebay.com/w/2020/08/14/jobs/
   - > It's VendorOps. You are hired to tend the vendor's stuff.
 
+## XPath
+
++ Jack Wrenn ...? (2020), **Javascript Generators, Meet XPath** &#8594; https://jack.wrenn.fyi/blog/xpath-for-2020/
+  - Using XPath to select *textNodes* directly (and avoid child-node indexing, etc.).
+
+## Zola
+
++ Figbert (2020), **Going Full Static with Zola** &#8594; https://figbert.com/posts/going-full-static/
+  - Good argument for using static site generators (simplicity, custom CSS, fast).
+  - Figbert is a high school student (in 2020).
+  
 ## Algorithms
 
 + Phil Freeman (2018), **Incrementally Improving The DOM** &#8594; https://blog.functorial.com/posts/2018-04-08-Incrementally-Improving-The-DOM.html
