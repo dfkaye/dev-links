@@ -69,7 +69,10 @@ Links to different topics for developers like me interested in javascript, test-
   - > Standard but also use TypeScript on JS files with jsdoc.
 + @TruckJS (2018), **Type Safe JavaScript with JSDoc** &#8594; https://medium.com/@trukrs/type-safe-javascript-with-jsdoc-7a2a63209b76
   - Repeating this one for probably the third time now...
-  
+
+
+# August 2020 
+
 ## Thiel Truth Rebellion
 
 + Tim Ruffles (2020), **Server-Side Rendering is a Thiel Truth** &#8594; https://timr.co/server-side-rendering-is-a-thiel-truth
