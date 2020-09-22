@@ -31,6 +31,14 @@
   - > \[Gatsby\] was my first experience with React, and I hated it. It was so complicated to do just tiny bits of functionality.
   - > If you can live without GraphQL, Next.js will do everything Gatsby does and more.
   - > \[S\]lightly inclined to Next.js over Gatsby... The top feature for me is the file-based routing that also supports dynamic routes and compatibility with Sourcebit, which allows me to switch the data source or SSG any way I want in the future without reimplementing everything from scratch.
+  
+## Fixing the React Eco-system
+
++ Albert Gao (2020), **The evil pattern of Redux that reduces boilerplate** &#8594; https://www.albertgao.xyz/2020/09/22/evil-pattern-of-redux-that-reduces-boilerplate/
+  - Uses @redux/toolkit's `createSlice()`, e.g., `slice.actions.setState(nextState)` - more at https://redux-toolkit.js.org/api/createSlice
++ Luna Ruan (2020), **Introducing the New JSX Transform** &#8594; https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html
+  - > With the new transform, you can use JSX without importing React.
++ Nick Scialli (2020), **Learn the Basics of Redux by Writing Your Own Version in 30 Lines** &#8594; https://dev.to/nas5w/learn-the-basics-of-redux-by-writing-your-own-version-in-30-lines-1if3 
 
 ## The Ugly Side of TypeScript
 
