@@ -6,6 +6,23 @@
 
 + author (date), **title** &#8594; link
 
+## Accessibility
+
++ Andrew Coyle (2020), **Form Design Best practices** &#8594; https://medium.com/nextux/form-design-best-practices-9525c321d759
++ Manuel Matuzovic (2020), **Test the accessibility of a page in different scenarios with `a11y-tests.css`** &#8594; https://github.com/matuzo/a11y-tests.css
+  - See also Manuel's `CSS with a11y in mind` on codepen &#8594; https://codepen.io/collection/XpqyvJ
++ Doug Schepers (2020), **Reliable and Valid SVG Accessibility** &#8594; https://fizz.studio/blog/reliable-valid-svg-accessibility/
++ Joel Strohmeier (2020), **How to build accessible cards–block links** &#8594; https://www.nomensa.com/blog/2020/how-build-accessible-cards%E2%80%93block-links
++ Web Axe (2020), **Resources for developing accessible cards/tiles** &#8594; http://www.webaxe.org/resources-for-developing-accessible-cards-tiles/
+
+## CSS Colors
+
++ Bennett Feely (2020), **CSS Scales** &#8594; https://bennettfeely.com/cssscales/
+
+## Folders
+
++ Vasyl Boroviak (2014), **From folder structure to microservices** (slides) &#8594; https://docs.google.com/presentation/d/1aN2DIclCnf9oc_mlUeSoXWcqe6LWus-E7RY5HXXsPUk/edit#slide=id.p
+
 ## Functional
 
 + Sebastien Filion (2020), **Common Functional Programming Algebraic data types for JavaScript** &#8594;  https://github.com/sebastienfilion/functional
@@ -45,15 +62,3 @@
 + Dave Schinkel (2020), **Including Custom TypeScript Declaration files with Mocha.js** &#8594; https://www.linkedin.com/pulse/including-custom-typescript-declaration-files-mochajs-dave-schinkel/
   - > I use TypeScript for tests and production code for my site WeDoTDD.com, however I'm not a big fan of it because it becomes pretty cumbersome to maintain it and to continually make TypeScript "happy" in my opinion.
 
-## Accessibility
-
-+ Andrew Coyle (2020), **Form Design Best practices** &#8594; https://medium.com/nextux/form-design-best-practices-9525c321d759
-+ Manuel Matuzovic (2020), **Test the accessibility of a page in different scenarios with `a11y-tests.css`** &#8594; https://github.com/matuzo/a11y-tests.css
-  - See also Manuel's `CSS with a11y in mind` on codepen &#8594; https://codepen.io/collection/XpqyvJ
-+ Doug Schepers (2020), **Reliable and Valid SVG Accessibility** &#8594; https://fizz.studio/blog/reliable-valid-svg-accessibility/
-+ Joel Strohmeier (2020), **How to build accessible cards–block links** &#8594; https://www.nomensa.com/blog/2020/how-build-accessible-cards%E2%80%93block-links
-+ Web Axe (2020), **Resources for developing accessible cards/tiles** &#8594; http://www.webaxe.org/resources-for-developing-accessible-cards-tiles/
-
-## CSS Colors
-
-+ Bennett Feely (2020), **CSS Scales** &#8594; https://bennettfeely.com/cssscales/
