@@ -109,7 +109,7 @@ Links to different topics for developers like me interested in javascript, test-
 + Lars Hupel (2020), **Series: Conflict-Free Replicated Data Types** &#8594; https://lars.hupel.info/topics/crdt/01-intro
   - Lars uses `fast-check` in the browser in hais CRDT series.
 + Oskar Wickstrom (2020), **WebCheck: generative browser testing** &#8594; https://webcheck.tools/
-  - *coming soon!*
+  - Re-branded as **Quickstrom** at https://quickstrom.io/
   
 ## JavaScript
 
