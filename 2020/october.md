@@ -22,10 +22,16 @@
 ## Folders
 
 + Vasyl Boroviak (2014), **From folder structure to microservices** (slides) &#8594; https://docs.google.com/presentation/d/1aN2DIclCnf9oc_mlUeSoXWcqe6LWus-E7RY5HXXsPUk/edit#slide=id.p
+  - see also Gleb Bahmutov (2018), **Use subfolders installed as NPM dependencies to avoid long relative paths in require.** &#8594; https://glebbahmutov.com/blog/subfolders-as-dependencies/
 
 ## Functional
 
 + Sebastien Filion (2020), **Common Functional Programming Algebraic data types for JavaScript** &#8594;  https://github.com/sebastienfilion/functional
+
+## Git
+
++ Seth Robertson (date unknown), **On undoing, fixing, or removing commits in git** &#8594; http://sethrobertson.github.io/GitFixUm/fixup.html
+  - fairly comprehensive guide to recovering from what you did not mean to do when using git.
 
 ## Partial Ordering
 
@@ -39,7 +45,15 @@
 
 + Andrea Giammarchi (2020), **Reactive State for Data & DOM** &#8594; https://medium.com/@WebReflection/reactive-state-for-data-dom-78332ddafd0e
 + @WebReflection (2020), **An all-in-one implementation of the `Reactive State for Data & DOM` patterns** &#8594; https://github.com/webreflection/reactive-props
-  
++ Andrea Giammarchi (2020), **uce-template: Inspired by Vue 3 "One Piece", uce-template provides a custom builtin `<template>` element to define components in a Vue fashion.** &#8594; https://github.com/WebReflection/uce-template
+
+## Web Components 
+
++ Duet Design System, duetds.com (2020), **Duet Date Picker** &#8594; https://duetds.github.io/date-picker/
+  - __*NB: Accessiblility issues*__
++ Danny Moerkerke (2019), **Material Design Web Components** &#8594; https://dannymoerkerke.github.io/material-webcomponents
+  - __*NB: Accessiblility issues*__
+
 ## The Ugly Side of React
 
 + Nir Yosef (2020), **The Ugly Side of React Hooks** &#8594; https://medium.com/swlh/the-ugly-side-of-hooks-584f0f8136b6
