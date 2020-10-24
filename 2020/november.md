@@ -6,6 +6,10 @@
 
 + author (date), **title** &#8594; link
 
+## Editors
+
++ Andrew Ray (2020), **Some Useful VSCode Settings** &#8594; https://blog.andrewray.me/some-useful-vscode-settings/
+
 ## HTML and related
 
 + Gergely Nemeth (2020), **6 Quick Tips to Build Your Blog From Scratch** &#8594; https://nemethgergely.com/blog/building-your-blog-from-scratch
