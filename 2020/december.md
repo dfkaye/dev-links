@@ -18,8 +18,11 @@
 
 ## Accessibility: Text
 
-+ author (date), **title** &#8594; link
 + Steve Faulkner (2020), **Not so short note on aria-label usage – Big Table Edition** &#8594; https://html5accessibility.com/stuff/2020/11/07/not-so-short-note-on-aria-label-usage-big-table-edition/
+
+## Accessibility: Input
+
++ Adam Silver (2020), **Form design: multiple inputs versus one input** &#8594; https://adamsilver.io/articles/form-design-multiple-inputs-versus-one-input/
 
 ## Bryan Braun posts on ES6, letting go of React, *et al*
 
@@ -37,7 +40,8 @@
 
 ## Tools, Libraries
 
-+ Graphery SVG (2020), **Graphery JavaScript SVG library** &#8594; https://www.graphery.org/svg/guide/
-+ Polypane (2020), **The browser for developing responsive & accessible websites** &#8594; https://polypane.app/
-
-
++ David Nicholas Williams (2020), **`React Frontload`: Simple full-stack data loading for React** &#8594; https://davnicwil.com/react-frontload/
++ Matthew Williams (2020), **How to Check Your Globally Installed `npm` Packages** &#8594; https://medium.com/better-programming/how-to-check-your-globally-installed-npm-packages-32a14469b95a
++ Vivek Chauhan (2020), **7 `Git` tricks that changed my life** &#8594; https://dev.to/vivekagent47/7-git-tricks-that-changed-my-life-3aj3
++ Graphery SVG (2020), **`Graphery` JavaScript SVG library** &#8594; https://www.graphery.org/svg/guide/
++ Polypane (2020), **`Polypane`: The browser for developing responsive & accessible websites** &#8594; https://polypane.app/
