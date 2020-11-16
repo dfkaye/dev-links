@@ -6,23 +6,27 @@
 
 + author (date), **title** &#8594; link
 
-## Accessibility: Speech
+## Accessibility: Input
 
-+ Josh W. Comeau (2020), **Coding with Voice Dictation using Talon Voice** &#8594; https://joshwcomeau.com/accessibility/hands-free-coding/
-+ James Robertson (2020), **Voice Recognition: Build a simple voice controlled web app** &#8594;  https://rephrased.substack.com/p/voice
++ Adam Silver (2020), **Form design: multiple inputs versus one input** &#8594; https://adamsilver.io/articles/form-design-multiple-inputs-versus-one-input/
+
+## Accessibility: Landmarks
+
++ Graham Armfield (2020), **How to use HTML5 sectioning elements to create useful accessible landmarks** &#8594; https://www.hassellinclusion.com/blog/html5-sectioning-elements-accessible-landmarks/
 
 ## Accesibility: Links
 
 + Stefan Judis (2020), **How to let all your users know what to expect when they click a link** &#8594; https://www.stefanjudis.com/snippets/how-to-let-all-your-users-know-what-to-expect-when-they-click-a-link/
 + Adrian Roselli (2019), **Showing File Types in Links** &#8594; https://adrianroselli.com/2019/12/showing-file-types-in-links.html
 
+## Accessibility: Speech
+
++ Josh W. Comeau (2020), **Coding with Voice Dictation using Talon Voice** &#8594; https://joshwcomeau.com/accessibility/hands-free-coding/
++ James Robertson (2020), **Voice Recognition: Build a simple voice controlled web app** &#8594;  https://rephrased.substack.com/p/voice
+
 ## Accessibility: Text
 
 + Steve Faulkner (2020), **Not so short note on aria-label usage – Big Table Edition** &#8594; https://html5accessibility.com/stuff/2020/11/07/not-so-short-note-on-aria-label-usage-big-table-edition/
-
-## Accessibility: Input
-
-+ Adam Silver (2020), **Form design: multiple inputs versus one input** &#8594; https://adamsilver.io/articles/form-design-multiple-inputs-versus-one-input/
 
 ## Bryan Braun posts on ES6, letting go of React, *et al*
 
