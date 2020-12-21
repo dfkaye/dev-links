@@ -6,6 +6,15 @@
 
 + author (date), **title** &#8594; link
 
+## Accessibility post of the year 2020
+
++ Benjy Stanton (2020), **A plan for accessible maps** &#8594; https://www.benjystanton.co.uk/blog/a-plan-for-accessible-maps/
+  - Nearly complete guide to planning, building, testing, and fixing applications focusing on *accessibility first*.
+
+## Accessibility: Data Visualization
+
++ Sarah L. Fossheim (2020), **How (not) to make accessible data visualizations, illustrated by the US presidential election.** &#8594; https://fossheim.io/writing/posts/accessible-dataviz-us-elections/
+
 ## Accessibility: Input
 
 + Adam Silver (2020), **Form design: multiple inputs versus one input** &#8594; https://adamsilver.io/articles/form-design-multiple-inputs-versus-one-input/
@@ -37,6 +46,8 @@
 
 ## Dynamic Logic or Knowledge Update
 
++ Elliot Evans (2020), **Dynamic Epistemic Logic Playground** &#8594; https://vezwork.github.io/modallogic/
+  - based on Ross Kirsling's [Modal Logic Playground](http://rkirsling.github.io/modallogic/)
 + Explain Algorithms (2020), **How you could have come up with Paxos yourself** &#8594; https://explain.yshui.dev/distributed%20system/2020/09/20/paxos.html
 + Nicholas Carlo (2020), **The key points of "Working Effectively with Legacy Code"** &#8594; https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/
 + `@_______lord` (2020), **How to Recalculate a Spreadsheet** &#8594; https://lord.io/blog/2020/spreadsheets/
@@ -44,6 +55,9 @@
 
 ## Tools, Libraries
 
++ Microsoft TypeScript Wiki (2020), **Performance `>` Writing Easy-to-Compile Code** &#8594; https://github.com/microsoft/TypeScript/wiki/Performance#writing-easy-to-compile-code
++ Ruan Martinelli (2020), **What You Need To Know About npm Workspaces** &#8594; https://hyperfoo.io/posts/npm-7-workspaces-1
++ Nathan Sebhastian (2020), **Redux-Free State Management with Jotai** &#8594; https://blog.bitsrc.io/redux-free-state-management-with-jotai-2c8f34a6a4a
 + David Nicholas Williams (2020), **`React Frontload`: Simple full-stack data loading for React** &#8594; https://davnicwil.com/react-frontload/
 + Matthew Williams (2020), **How to Check Your Globally Installed `npm` Packages** &#8594; https://medium.com/better-programming/how-to-check-your-globally-installed-npm-packages-32a14469b95a
 + Vivek Chauhan (2020), **7 `Git` tricks that changed my life** &#8594; https://dev.to/vivekagent47/7-git-tricks-that-changed-my-life-3aj3
