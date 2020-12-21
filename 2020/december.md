@@ -6,10 +6,15 @@
 
 + author (date), **title** &#8594; link
 
-## Accessibility post of the year 2020
+## Accessibility: Post of the Year, 2020
 
 + Benjy Stanton (2020), **A plan for accessible maps** &#8594; https://www.benjystanton.co.uk/blog/a-plan-for-accessible-maps/
   - Nearly complete guide to planning, building, testing, and fixing applications focusing on *accessibility first*.
+
+## Accessibility: Color Palettes
+
++ Steve Schoger & Adam Wathan (2020), **Building Your Color Palette** &#8594; https://refactoringui.com/previews/building-your-color-palette/
+  - Adapted from their book and video series, [Refactoring UI](https://refactoringui.com/book/).
 
 ## Accessibility: Data Visualization
 
