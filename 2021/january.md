@@ -28,6 +28,12 @@
 
 + Fernando Doglio (2020), **Aspect-Oriented Programming in JavaScript** &#8594; https://blog.bitsrc.io/aspect-oriented-programming-in-javascript-c4cb43f6bfcc
 
+## State Machine
+
++ Nicolas Fränkel (2018), **Builder Pattern as a Finite State Machine** &#8594; https://blog.frankel.ch/builder-pattern-finite-state-machine/
++ David Khoursid (2020), **Redux is half of a pattern (1/2)** &#8594; https://dev.to/davidkpiano/redux-is-half-of-a-pattern-1-2-1hd7
++ Yoshua Wuyts (2020), **State Machines in Rust today** &#8594; https://blog.yoshuawuyts.com/state-machines/#state-machines-in-rust-today
+
 ## Spreadsheet: Batch Update
 
 + Pascal Schilp (2020), **LitElement: A Deepdive Into Batched Updates** &#8594; https://medium.com/ing-blog/litelement-a-deepdive-into-batched-updates-b9431509fc4f
