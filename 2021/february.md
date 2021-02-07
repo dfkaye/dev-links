@@ -1,11 +1,5 @@
 # February 2021
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-
 ## Picks
 
 + Florian Hartmann (2020), **That XOR trick** &#8594; https://florian.github.io/xor-trick/
