@@ -6,6 +6,10 @@
 
 + author (date), **title** &#8594; link
 
+## Accessibility
+
++ Rachel Opperman (2020), **10 Foolproof Tips for Maximizing Website Accessibility** &#8594; https://zaengle.com/blog/10-foolproof-tips-for-maximizing-website-accessibility
+
 ## CSS
 
 + Josh W. Comeau (2021), **An Interactive Guide to CSS Transitions** &#8594; https://www.joshwcomeau.com/animation/css-transitions/
@@ -18,6 +22,10 @@
 + Tamás Losonczi (2020), **Introduction to Data-Oriented Programming: A Shift from objects to data** &#8594; https://medium.com/mirum-budapest/introduction-to-data-oriented-programming-85b51b99572d
   - *Promises to be a trend...*
 + Shachee Swadia (2021), **How to Create a Diverging Bar Chart with a JavaScript Charting Library** &#8594; https://www.freecodecamp.org/news/diverging-bar-chart-javascript/
+
+## TLA+
+
++ Hillel Wayne (Feb 24, 2021), **Hilleogram's Twitter thread on Predicate Logic** &#8594; https://twitter.com/hillelogram/status/1364723003720925185
 
 ## The Trouble with TypeScript 
 
