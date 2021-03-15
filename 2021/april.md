@@ -12,6 +12,9 @@
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
++ author (date), **title** &#8594; link
++ author (date), **title** &#8594; link
+
 
 ## DOM
 
@@ -19,8 +22,11 @@
 + Andrea Giammarchi (2021), **LinkeDOM: A JSDOM Alternative** &#8594; https://webreflection.medium.com/linkedom-a-jsdom-alternative-53dd8f699311
 + Chris Ferdinandi (2021), **The difference between attributes and properties in vanilla JS** &#8594; https://gomakethings.com/the-difference-between-attributes-and-properties-in-vanilla-js/
 
-## TLA+
+## Specifications (Alloy, TLA+)
 
++ Marianne Bellotti (2020), **The Subtle Power of Booleans** &#8594; https://www.codercto.com/a/106027.html
+  - Original paywall version on medium is here &#8594; https://medium.com/software-safety/the-subtle-power-of-booleans-e6d5fa2fcc4a
++ Marianne Bellotti (2019), **Using TLA+ to model cascading failures** &#8594; https://medium.com/software-safety/using-tla-to-model-cascading-failures-5d1ebc5e4c4f
 + Lenin Kumar Pothabattula (2021), **Time, Clocks and the Ordering of Events in Distributed Systems** &#8594; https://leninkumar31.github.io/2021-02-26/Time-Clocks-And-Ordering-of-Events-in-Distributed-Systems
 
 ## Functions
