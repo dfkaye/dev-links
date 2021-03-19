@@ -7,11 +7,20 @@
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
+
+## !important
+
++ Merrick Christensen (2020), **Lazy Evaluation in JavaScript** &#8594; https://www.merrickchristensen.com/articles/lazy-evaluation-in-javascript/
+
+## Charts
+
++ Rami Yushuvaev (2020), **ChartsCSS** &#8594; https://chartscss.org/
+  + CSS utility classes to style HTML tables as charts, with no JavaScript.
++ Flowcharts, **FlowChart Fun** &#8594; https://flowchart.fun/
 
 ## CSS
 
++ Substack (2021), **WebGL map label solution** &#8594; https://substack.net/wip/label1.html
 + Iris Lješnjanin (2021), **CSS Generators** &#8594; https://www.smashingmagazine.com/2021/03/css-generators/
 
 ## DOM
@@ -25,6 +34,7 @@
 + Andre Ye (2020), **The Programmer’s Short and Practical Guide to Graph Theory** &#8594; https://betterprogramming.pub/a-short-practical-programmers-guide-to-graph-theory-bfc87bc52581
 + Krasimir Tsonev (2021), **Using JavaScript module system for state management** &#8594; https://krasimirtsonev.com/blog/article/javascript-module-system-for-state-management
 + Artem Zakharchenko (2021), **Thinking In Functions, Part II: Higher-Order Functions** &#8594; https://redd.one/blog/thinking-in-functions-higher-order-functions
+  + See the *createXHR* function.
 
 ## Specifications (Alloy, TLA+)
 
