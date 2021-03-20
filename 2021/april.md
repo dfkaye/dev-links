@@ -6,7 +6,6 @@
 
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
 
 ## !important
 
@@ -36,8 +35,9 @@
 + Artem Zakharchenko (2021), **Thinking In Functions, Part II: Higher-Order Functions** &#8594; https://redd.one/blog/thinking-in-functions-higher-order-functions
   + See the *createXHR* function.
 
-## Specifications (Alloy, TLA+)
+## Logic
 
++ Richard Zach (ongoing), **Logic Textbooks** &#8594; https://github.com/OpenLogicProject/OpenLogic/wiki/Other-Logic-Textbooks
 + Ron Pressler (2017), **TLA+ in Practice and Theory** &#8594; https://pron.github.io/tlaplus
   - Series in four parts, richly detailed and argued (where argument arises).
 + Marianne Bellotti (2020), **The Subtle Power of Booleans** &#8594; https://www.codercto.com/a/106027.html
