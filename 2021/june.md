@@ -7,10 +7,6 @@
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-
 
 ## !important
 
@@ -35,6 +31,12 @@
 + Stephen R. Baker (2021), **History of RSpec** &#8594; https://www.stevenrbaker.com/tech/history-of-rspec.html
 
 ## JavaScript
+
++ Marius Andra (2021), **It's time for a data-first frontend revolution** &#8594; https://kea.js.org/blog/2021/05/14/data-first-frontend-revolution
++ Peter de Croos (2015), **Shen: Higher order flow control functions for creating generators** &#8594; https://github.com/cultofmetatron/Shen
+  - beta yet still active in 2020
+  - See Peter's video from 2015, **Functional programming with generators** &#8594; https://www.youtube.com/watch?v=B2ASp0jb6FY
++ `geekAbyte` (2021), **How to implement `sleep` function in JavaScript** &#8594; https://www.geekabyte.io/2021/05/how-to-implement-sleep-function-in.html
 + **JavaScript for Data Science** (2020), &#8594; https://js4ds.org/
   + Online version of the book, a gigantic all-in-one learning site for data science using JavaScript: tests, data-forge, etc.
 + Matthias Jouan (2018), **simple-undo** &#8594; https://github.com/mattjmattj/simple-undo
@@ -49,6 +51,7 @@
 
 ## Specification
 
++ Ruben Berenguel (2021),  **Modelling data pipelines with Alloy** &#8594; https://mostlymaths.net/2021/05/data-pipelines-alloy.html/
 + Mark Truluck (2018), **Automata vs. Spaghetti Code** &#8594; https://mark-truluck.medium.com/automata-vs-spaghetti-code-47f91edc05b8
   + See also **Frame: A Software Architecture Language** &#8594; https://frame-lang.org/
     - > a textual language for describing state machines
