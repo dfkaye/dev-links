@@ -14,6 +14,8 @@
 
 ## Accessibility
 
++ Scott O'Hara (2021), **Disabling a link** &#8594; https://www.scottohara.me/blog/2021/05/28/disabled-links.html
+  - tl;dr &#8594; `<a role="link" aria-disabled="true">placeholder</a>
 + Slicker (2018), **Basic Canvas sprite animation** &#8594; https://slicker.me/javascript/sprite.htm
 + Sarah Fossheim (2021), **How to create a screen reader accessible graph like Apple's with D3.js** &#8594; https://fossheim.io/writing/posts/apple-dataviz-a11y-tutorial/
 + Gaël Poupard (2019), **chaarts: accessible charts with HTML & CSS** &#8594; https://ffoodd.github.io/chaarts/
