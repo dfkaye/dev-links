@@ -37,3 +37,10 @@
       interactions.
 + author (date), **title** &#8594; link
 
+### Headless React
+
++ Steven Wittens (2021), **Headless React** &#8594; https://acko.net/blog/live-headless-react/
+  + Neither a typo, redundancy, nor oxymoron.
+  + Site is nifty with a lot of cool CSS and other effects, plus deep dive posts on programming structure.
+
+ 
