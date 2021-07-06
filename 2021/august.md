@@ -12,6 +12,7 @@
 + Ahmad Shadeed (2021), **Using HSL Colors In CSS** &#8594; https://www.smashingmagazine.com/2021/07/hsl-colors-css/
     > HSL stands for hue, saturation, and lightness. It’s based on the RGB color wheel. Each color has an angle and a percentage value for the saturation and lightness values.
 + author (date), **title** &#8594; link
++ author (date), **title** &#8594; link
 
 
 ### Graph Programming
@@ -19,7 +20,7 @@
 + Uri Valevski (2020), **Graph Programming** &#8594; https://www.hyro.ai/post/graph-programming
     > This work presents the notion of graph programming, a way to program by building graphs of functions from connecting pairs of functions in a non-enclosing way, and aims to replace typical function composition.
 + author (date), **title** &#8594; link
-
++ author (date), **title** &#8594; link
 
 ### Find of the Month!
 
@@ -36,11 +37,16 @@
       behavior of the system components. Accidents result from a lack of appropriate constraints on the
       interactions.
 + author (date), **title** &#8594; link
++ author (date), **title** &#8594; link
+
 
 ### Headless React
 
 + Steven Wittens (2021), **Headless React** &#8594; https://acko.net/blog/live-headless-react/
   + Neither a typo, redundancy, nor oxymoron.
   + Site is nifty with a lot of cool CSS and other effects, plus deep dive posts on programming structure.
++ author (date), **title** &#8594; link
++ author (date), **title** &#8594; link
+
 
  
