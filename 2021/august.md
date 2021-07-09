@@ -7,19 +7,23 @@
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 
-### Colors
+### Browser
 
 + Ahmad Shadeed (2021), **Using HSL Colors In CSS** &#8594; https://www.smashingmagazine.com/2021/07/hsl-colors-css/
     > HSL stands for hue, saturation, and lightness. It’s based on the RGB color wheel. Each color has an angle and a percentage value for the saturation and lightness values.
++ Manuel Matuzovic (2021), **Dev Tools: Debugging DOM Tree modifications** &#8594; https://www.matuzo.at/blog/dev-tools-debugging-dom-tree-modifications/
++ Jason Grigsby (2016), **Autofill: What web devs should know, but don’t** &#8594; https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/
++ Ben Nadel (2021), **Animating The Pseudo-Element Content Property Using CSS Keyframes Animation** &#8594; https://www.bennadel.com/blog/4077-animating-the-pseudo-element-content-property-using-css-keyframes-animation.htm
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 
-
-### Graph Programming
+### Programming
 
 + Uri Valevski (2020), **Graph Programming** &#8594; https://www.hyro.ai/post/graph-programming
     > This work presents the notion of graph programming, a way to program by building graphs of functions from connecting pairs of functions in a non-enclosing way, and aims to replace typical function composition.
-+ author (date), **title** &#8594; link
++ Eric Bower (2019), **Simplify testing async I/O in javascript** &#8594; https://erock.io/2019/04/12/simplify-testing-async-io-javascript.html
+    - using his [cofx](https://github.com/neurosnap/cofx) which "is a way to declaratively write asynchronous IO code in a synchronous way. It leverages the flow control of generators and makes testing even the most complex async IO relatively straight forward."
+    - and using his [gen-tester](https://github.com/neurosnap/gen-tester), "a small \[nicer] API for testing generators."
 + author (date), **title** &#8594; link
 
 ### Find of the Month!
