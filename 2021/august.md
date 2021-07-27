@@ -26,6 +26,8 @@
 
 ### Async state
 
++ Dale Schumacher (2020), **Requirements for an Actor Programming Language** &#8594; http://www.dalnefre.com/wp/2020/01/requirements-for-an-actor-programming-language/
+  + That's Dale from [Actor model in a tweet](https://twitter.com/dfkaye/status/1343784103674400769).
 + Yves Goeleven (2021), **Client side Event sourcing** &#8594; https://www.goeleven.com/blog/client-side-event-sourcing/
   + On moving server-side logic (CQRS architecture, cache aside pattern, store and forward pattern) to the client to allow a user to work offline, for extended amounts of time.
 + Craig Buckler (2021), **How to Use IndexDB to Manage State in JavaScript** &#8594; https://blog.openreplay.com/how-to-use-indexdb-to-manage-state-in-javascript
