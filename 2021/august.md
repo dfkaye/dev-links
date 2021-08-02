@@ -21,8 +21,6 @@
       Emergent properties are controlled or enforced by a set of constraints (control laws) related to the
       behavior of the system components. Accidents result from a lack of appropriate constraints on the
       interactions.
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
 
 ### Async state
 
@@ -47,8 +45,10 @@
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 
-### Oddities
+### Programming
 
++ David Nolen (2021), **ClojureScript in the Age of TypeScript** &#8594; https://www.youtube.com/watch?v=3HxVMGaiZbc
+  - Video talk by [@swannodette](https://twitter.com/swannodette) on how successful development of any program really depends on working interactively with it at *runtime* so you can test and make changes to it while also *preserving state*.
 + Uri Valevski (2020), **Graph Programming** &#8594; https://www.hyro.ai/post/graph-programming
     > This work presents the notion of graph programming, a way to program by building graphs of functions from connecting pairs of functions in a non-enclosing way, and aims to replace typical function composition.
 + Steven Wittens (2021), **Headless React** &#8594; https://acko.net/blog/live-headless-react/
