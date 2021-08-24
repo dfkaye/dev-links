@@ -10,6 +10,8 @@
 
 + Leslie Lamport and [Markus Kuppe](https://twitter.com/lemmster) (2021), **TLA+: Viewed from 40,000 Feet and Ground Level** &#8594; https://www.youtube.com/watch?v=Ocxczi-CvRQ
   + Video talk is happily easy to follow, and should be required viewing for anyone sincerely interested in making quality software we can be proud of.
+  + Related video: Jay Parlar (2019), **Alloy for TLA+ users** &#8594; https://www.youtube.com/watch?v=tZywZc04lJg
+    + > This talk provides a high level overview of [Alloy](http://alloytools.org/), a modelling language for software systems, for a typical TLA+ user, and shows instances where one might choose Alloy over TLA+, and vice-versa, and more importantly, why it’s hugely valuable to know both systems.
 + David Nolen (2021), **ClojureScript in the Age of TypeScript** &#8594; https://www.youtube.com/watch?v=3HxVMGaiZbc
   + Video talk by [@swannodette](https://twitter.com/swannodette) on how successful development of any program really depends on working interactively with it at *runtime* so you can test and make changes to it while also *preserving state*.
 + @devbyrayray (2021), **Getting Started with Storybook without a JavaScript framework** &#8594; https://betterprogramming.pub/getting-started-with-storybook-without-a-javascript-framework-c2968d3f3d9f
