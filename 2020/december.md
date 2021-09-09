@@ -1,11 +1,5 @@
 # December 2020
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-
 ## Accessibility: Post of the Year, 2020
 
 + Benjy Stanton (2020), **A plan for accessible maps** &#8594; https://www.benjystanton.co.uk/blog/a-plan-for-accessible-maps/
