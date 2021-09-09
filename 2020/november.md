@@ -1,11 +1,5 @@
 ## November 2020
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-
 ## Cool, Useful, and Interesting
 
 + Marco Zuccaroli (2020), **How to deploy only changed packages in a Lerna Monorepo** &#8594; https://itnext.io/how-to-deploy-only-changed-packages-in-a-lerna-monorepo-7e5fb234b32a
