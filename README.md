@@ -2,6 +2,9 @@
 
 ...to different topics for developers like me interested in JavaScript, test-driven development, and a better front-end architecture.
 
+## TO DO
+
+Organize the readme into links to each month file, use *search or jump to...* field at top with "this repo".
 ## First
 
 + **Search within the page for 'accessibility', '@heydon' or '@heydonworks'**
