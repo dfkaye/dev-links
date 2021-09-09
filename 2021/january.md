@@ -1,11 +1,5 @@
 # January 2021
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-
 ## Accessibility: Data Visualization
 
 + Bradley Taunt (2020), **Pure CSS Bar Graphs with Graceful Mobile Fallbacks** &#8594; https://uglyduck.ca/flexbox-bar-graphs/
