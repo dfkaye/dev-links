@@ -1,7 +1,5 @@
 # February 2020
 
-+ *coming soon eventually...*
-
 ## JavaScript
 
 + @TruckJs (2018), **Type Safe JavaScript with JSDoc** &#8594; https://medium.com/@trukrs/type-safe-javascript-with-jsdoc-7a2a63209b76 - write JavaScript with JSDoc, then use VS Code to lint for you - no compile-to-js step.
