@@ -1,12 +1,6 @@
-## September 2021
+# September 2021
 
-+ *coming soon eventually...*
-
-### section
-
-+ author (date), **title** &#8594; link
-
-### What a month!
+## What a month!
 
 + Leslie Lamport and [Markus Kuppe](https://twitter.com/lemmster) (2021), **TLA+: Viewed from 40,000 Feet and Ground Level** &#8594; https://www.youtube.com/watch?v=Ocxczi-CvRQ
   + Video talk is happily easy to follow, and should be required viewing for anyone sincerely interested in making quality software we can be proud of.
@@ -69,11 +63,3 @@
   + Samll (just over 1kB)
   + Parses deep objects.
   + Generates CSV from deep objects.
-
-
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-
-
-
