@@ -1,11 +1,5 @@
 # May 2020
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-
 ## JavaScript & Framework Performance, a timeline
 
 + John Bender (2014), **Researching the Performance costs of JavaScript MVC Frameworks** &#8594; https://www.filamentgroup.com/lab/mv-initial-load-times.html
