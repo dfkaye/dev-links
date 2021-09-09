@@ -5,6 +5,95 @@
 ## TO DO
 
 Organize the readme into links to each month file, use *search or jump to...* field at top with "this repo".
+
+### 2021
+
++ [september](/2021/september.md)
++ [august](/2021/august.md)
++ [july](/2021/july.md)
++ [june](/2021/june.md)
++ [may](/2021/may.md)
++ [april](/2021/april.md)
++ [march](/2021/march.md)
++ [february](/2021/february.md)
++ [january](/2021/january.md)
+
+### 2020
+
++ [december](/2020/december.md)
++ [november](/2020/november.md)
++ [october](/2020/october.md)
++ [september](/2020/september.md)
++ [august](/2020/august.md)
++ [july](/2020/july.md)
++ [june](/2020/june.md)
++ [may](/2020/may.md)
++ [april](/2020/april.md)
++ [march](/2020/march.md)
++ [february](/2020/february.md)
++ [january](/2020/january.md)
+
+### 2019
+
++ [december](/2019/december.md)
++ [november](/2019/november.md)
++ [october](/2019/october.md)
++ [september](/2019/september.md)
++ [august](/2019/august.md)
++ [july](/2019/july.md)
++ [june](/2019/june.md)
++ [may](/2019/may.md)
++ [april](/2019/april.md)
++ [march](/2019/march.md)
++ [february](/2019/february.md)
++ [january](/2019/january.md)
+
+### 2018
+
++ [december](/2018/december.md)
++ [november](/2018/november.md)
++ [october](/2018/october.md)
++ [september](/2018/september.md)
++ [august](/2018/august.md)
++ [july](/2018/july.md)
++ [june](/2018/june.md)
++ [may](/2018/may.md)
++ [april](/2018/april.md)
++ [march](/2018/march.md)
++ [february](/2018/february.md)
++ [january](/2018/january.md)
+
+### 2017
+
++ [december](/2017/december.md)
++ [november](/2017/november.md)
++ [october](/2017/october.md)
++ [september](/2017/september.md)
++ [august](/2017/august.md)
++ [july](/2017/july.md)
++ [june](/2017/june.md)
++ [may](/2017/may.md)
++ [april](/2017/april.md)
++ [march](/2017/march.md)
++ [february](/2017/february.md)
++ [january](/2017/january.md)
+
+### 2016
+
++ [december](/2016/december.md)
++ [november](/2016/november.md)
++ [october](/2016/october.md)
++ [september](/2016/september.md)
++ [august](/2016/august.md)
++ [july](/2016/july.md)
++ [june](/2016/june.md)
++ [may](/2016/may.md)
++ [april](/2016/april.md)
++ [march](/2016/march.md)
++ [february](/2016/february.md)
++ [january](/2016/january.md)
+
+
 ## First
 
 + **Search within the page for 'accessibility', '@heydon' or '@heydonworks'**
