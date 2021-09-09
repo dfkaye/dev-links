@@ -1,11 +1,5 @@
 # March 2021
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-
 ## Accessibility
 
 + Rachel Opperman (2020), **10 Foolproof Tips for Maximizing Website Accessibility** &#8594; https://zaengle.com/blog/10-foolproof-tips-for-maximizing-website-accessibility
