@@ -1,8 +1,6 @@
 
 # December 2019 
 
-+ *coming soon eventually...*
-
 ## User focused
 
 + Paul J. Adam (2017), Accessibility Testing Tools for Desktop and Mobile Websites &#8594; https://www.24a11y.com/2017/accessibility-testing-tools-desktop-mobile-websites/
