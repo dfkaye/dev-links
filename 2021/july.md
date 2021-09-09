@@ -1,13 +1,11 @@
-## July 2021
+# July 2021
 
-+ *coming soon eventually...*
-
-### Most Important Post in June
+## Most Important Post in June
 
 + Scott Jehl (2021), **CSS responsive table with fixed column and row headers and scroll snap** &#8594; https://codepen.io/scottjehl/pen/abJrPOP
   + **_This is the one!_**
 
-### Anti-patterns
+## Anti-patterns
 
 + Jan Schaumann (2021), **Your E-Mail Validation Logic is Wrong** &#8594; https://www.netmeister.org/blog/email.html
   + 15 things to allow or prevent when validating email address strings.
@@ -24,7 +22,7 @@
 + Jim Nielsen (2021), **Useful and Useless Code Comments** &#8594; https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/
   + Useless to whom? Disagreement runs deep. Worth a read.
 
-### Logic
+## Logic
 
 + Hillel Wayne (2020), **Decision Table Patterns** &#8594; https://www.hillelwayne.com/post/decision-table-patterns/
   + Ways to work with decision tables (which are maps of input to output, and *not* finite state machines).
@@ -33,12 +31,12 @@
 + Bruno Calza (2021), **Getting To Know Logical Clocks By Implementing Them** &#8594; https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/
   + Includes implementations of Lamport clock and Vector clock.
 
-### Fun
+## Fun
 
 + pkh (2021), **The most useful math formulas** &#8594; http://blog.pkh.me/p/29-the-most-useful-math-formulas.html
 + Antigone Journal (2021), **Ancient Greek Accents In Ten Rules** &#8594; https://antigonejournal.com/2021/06/greek-accents-ten-rules/
 
-### Snippets and code
+## Snippets and code
 
 + Jack Domleo (2021), **A set of useful global CSS defaults to add to your site alongside a reset stylesheet (with explanations)** &#8594; https://gist.github.com/jackdomleo7/55659bafe581d19cc341ef775d6a9e6b
   + Turns out to be useful (!), especially `touch-action: manipulation;` to prevent button double taps zooming in mobile.
@@ -49,4 +47,3 @@
 + Sebastian Vollnhals (2021), **sanitize.js - sanitize values to be exported in an csv file** &#8594; https://gist.github.com/yetzt/59cddebf6e1f5d74c004ba839ff759d8
 + Matt Baker (2014-2017), **reactive.js** &#8594; https://github.com/mattbaker/reactive.js
   + *Re-visiting this lib from a 2014 or so.* > Reactive.js will augment ("reactify") a given Javascript function so that it may track dependencies on other reactive functions (similar to cells in a spreadsheet). 
-
