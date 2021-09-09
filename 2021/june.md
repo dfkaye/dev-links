@@ -1,13 +1,5 @@
 # June 2021
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-
 ## !important
 
 + Baldur Bjarnason (2021), **136 facts every web dev should know before they burn out and turn to landscape painting or nude modelling** &#8594; https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/
@@ -61,4 +53,3 @@
   + See also **Quickstrom** &#8594 https://quickstrom.io/
 + **swimlanes.io** (2021),  &#8594  https://swimlanes.io/
   + > simple online tool for creating *sequence diagrams*.
-
