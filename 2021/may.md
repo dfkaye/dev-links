@@ -1,12 +1,5 @@
 # May 2021
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-
 ## CSS
 
 + Marko Denic (2021), **CSS Generators** &#8594; https://markodenic.com/css-generators/
