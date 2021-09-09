@@ -1,12 +1,5 @@
 # April 2021
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-
 ## !important
 
 + Merrick Christensen (2020), **Lazy Evaluation in JavaScript** &#8594; https://www.merrickchristensen.com/articles/lazy-evaluation-in-javascript/
