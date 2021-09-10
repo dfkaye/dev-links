@@ -2,7 +2,7 @@
 
 ...to different topics for developers like me interested in JavaScript, test-driven development, and a better front-end architecture.
 
-**Use the github "Searchor jump to..." field at top to search for things in this repository. Examples, 'accessibility', '@heydon', '@heydonworks', 'TLA+', 'React', et cetera.**
+**Use the github "Search or jump to..." field at top to search for things in this repository, such as 'accessibility', '@heydon', '@heydonworks', 'TLA+', 'React', et cetera.**
 
 ## Some favorites from 2015
 
