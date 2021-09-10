@@ -1,19 +1,20 @@
-# Links...
+# Links
 
-...to different topics for developers like me interested in JavaScript, test-driven development, and a better front-end architecture.
+Collection of links to articles on different topics for developers like me interested in JavaScript, test-driven development, and a better front-end architecture.
+
+## Finding things
 
 **Use the github "Search or jump to..." field at top to search for things in this repository, such as 'accessibility', '@heydon', '@heydonworks', 'TLA+', 'React', et cetera.**
 
-## Some favorites from 2015
-
-+ [#video: **Dr. Leslie Lamport** Silicon Valley Leaders Symposium Spring 2011](https://www.youtube.com/watch?v=FRLFrZdTkuI) - can't recommend this one enough.
-+ [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
-+ [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
-+ [@redconfetti's rubycoloredglasses cheat-sheets](http://www.rubycoloredglasses.com/resources/cheat-sheets/) (aka, Jason Miller, UCB colleague twitter/@redconfetti)
+## Some favorites
+  + [#video: **Dr. Leslie Lamport** Silicon Valley Leaders Symposium Spring 2011](https://www.youtube.com/watch?v=FRLFrZdTkuI) - can't recommend this one enough.
+  + [How Much Testing is Too Much?](http://verraes.net/2014/12/how-much-testing-is-too-much/)
+  + [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
+  + [@redconfetti's rubycoloredglasses cheat-sheets](http://www.rubycoloredglasses.com/resources/cheat-sheets/) (aka, Jason Miller, UCB colleague twitter/@redconfetti)
 
 ## Latest
 
-+ [september](/2021/september.md)
++ **[September 2021](/2021/september.md)**
 
 ## Previous
 
