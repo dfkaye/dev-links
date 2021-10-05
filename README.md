@@ -20,7 +20,7 @@ Collection of links to articles on different topics for developers like me inter
 
 ### 2021
 
-+ [September](/2021/september.md)**
++ [September](/2021/september.md)
 + [August](/2021/august.md)
 + [July](/2021/july.md)
 + [June](/2021/june.md)
