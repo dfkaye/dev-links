@@ -8,6 +8,9 @@
 
 + **`execCommand()` is now obsolete, what's the alternative?** &#8594; https://stackoverflow.com/a/62266439
 
+## Computerphile 
+
++ Videos on the Computerphile YouTube channel &#8594; https://www.youtube.com/user/Computerphile/videos
 
 ## Cool languages
 
@@ -62,13 +65,14 @@
   > minimal, efficient and practical proof and programming language
 + Lorin Hochstein (2018), **TLA+ is hard to learn** &#8594; https://surfingcomplexity.blog/2018/12/24/tla-is-hard-to-learn/
 
-
 ## Rants
 
 + Dawid Ciężarkiewicz (2021), **Growing Object-Oriented Software vs what I would do** &#8594; https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do
 + Magne (2020), **What happened to Components being just a visual thing?** &#8594; https://dev.to/redbar0n/what-happened-to-components-being-just-a-visual-thing-22hc
   > I feel that **putting all sorts of logical components into the rendering is abusing the original idea of components**.
   > **logic-posing-as-markup**.
++ Oleg Isonen (2021), **Last words on UI architecture before an AI takes over** &#8594; https://dev.to/oleg008/last-words-on-ui-architecture-before-an-ai-takes-over-dd3
+> “Big Ball of Mud” is the current state of the UI architecture, despite component-based composition.
 
 ## Research
 
