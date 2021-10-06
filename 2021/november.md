@@ -11,8 +11,15 @@
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
+
+## section
+
++ Bouke van der Bijl (2021), **Spreadsheet Formulas for Personal Finance** &#8594; https://bou.ke/blog/formulas/
+
+## section
+
++ Nasi Jofche (2019), **Using the Command Pattern** &#8594; https://betterprogramming.pub/utilizing-the-command-pattern-to-support-undo-redo-and-history-of-operations-b28fa9d58910
+> To support undo, redo, and history of operations
 
 ## section
 
@@ -22,6 +29,3 @@
 ## section
 
 + Privacy Guides (2021), **The guide to restoring your online privacy.** &#8594; https://privacyguides.org/
-
-
-
