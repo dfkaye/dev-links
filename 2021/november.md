@@ -33,3 +33,36 @@
 + David Harel, Guy Katz, Rami Marelly, and Assaf Marron (2016), **First Steps Towards a Wise Development Environment for Behavioral Models** &#8594; https://www.wisdom.weizmann.ac.il/~harel/papers/First%20Steps%20WDE.pdf (PDF)
 + David Harel, Robby Lampert, Assaf Marron, and Gera Weiss (2014), **Model-Checking Behavioral Programs** &#8594; https://www.wisdom.weizmann.ac.il/~harel/papers/Model%20checking%20BP.pdf (PDF)
 
+## DOM
+
++ Jack Jey (2021), **Safe DOM manipulation with the Sanitizer API** &#8594; https://web.dev/sanitizer/
+
+
+
++ Jay Perlman (2021), **Doodle Ipsum: A New Illustration Tool for Developers** &#8594; https://blush.design/blog/post/doodle-ipsum-tool-for-developers
+> A Lorem Ipsum tool for placeholder illustrations
++ Mark Steadman (2021), **A Tangled Web of ARIA** &#8594; https://dev.to/steady5063/a-tangled-web-of-aria-50nk
+  + ARIA-first development is an anti-pattern, not as maintainable as using semantic HTML, can override native semantics, and is not fully supported by all assistive technologies anyway.
++ Jeff Muller (2020), **Stop Testing Design Candidates** &#8594; https://uxdesign.cc/stop-testing-design-candidates-c5c4e66a548f
+> I can teach a designer a new approach. I can’t teach them not to be an asshole. Hire people you would enjoy spending a big part of your life with.
+
++ Jake Archibald (2021), **Don't use functions as callbacks unless they're designed for it** &#8594; https://jakearchibald.com/2021/function-callback-risks/
+> TypeScript doesn't solve this
++ Chuánqí Sun (2021), **The vanishing designer** &#8594; https://uxdesign.cc/the-vanishing-designer-6d3d999f9540
+> UX design in the age of <del>destruction</del> <ins>standardization<ins>.
+  
+
++ author (date), **title** &#8594; link
+
+
+
+
+
+
+
+
+
+
+
+
+
