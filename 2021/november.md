@@ -8,13 +8,17 @@
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
 
 
 ## Patterns
 
 + Nasi Jofche (2019), **Using the Command Pattern** &#8594; https://betterprogramming.pub/utilizing-the-command-pattern-to-support-undo-redo-and-history-of-operations-b28fa9d58910
 > To support undo, redo, and history of operations
++ *leastbad* (2020), **Mutation-First Development: A Call to Action** &#8594; https://leastbad.com/mutation-first-development
+  1. Developers should create or update libraries and their documentation to assume re-entrancy by default.
+  2. A library is not considered high-quality unless it is idempotent. Developers should be able to initialize and destroy an instance many times during a single browser page context, including releasing event handlers and cleaning up/preparing the DOM state for caching during an unload event.
+  3. The most celebrated libraries will be atomic, making as few assumptions about DOM structure or CSS framework as possible while allowing several simultaneous instances of the library on a page.
+
 
 ## Algorithms
 
@@ -46,16 +50,14 @@
 + Jeff Muller (2020), **Stop Testing Design Candidates** &#8594; https://uxdesign.cc/stop-testing-design-candidates-c5c4e66a548f
   > I can teach a designer a new approach. I can’t teach them not to be an asshole. Hire people you would enjoy spending a big part of your life with.
 
-## 
+## Anti-patterns
+
 + Jake Archibald (2021), **Don't use functions as callbacks unless they're designed for it** &#8594; https://jakearchibald.com/2021/function-callback-risks/
   > TypeScript doesn't solve this
 + Chuánqí Sun (2021), **The vanishing designer** &#8594; https://uxdesign.cc/the-vanishing-designer-6d3d999f9540
   > UX design in the age of <del>destruction</del> <ins>standardization<ins>.
 + Chuánqí Sun (2018), **Are you experiencing the Kessler Syndrome?** &#8594; https://uxdesign.cc/are-you-experiencing-the-kessler-syndrome-23bab3cdd446
   + Describes the front-end ecosystem as the Low Earth orbit polluted to the point of impenetrability by space debris endlessly colliding and creating more space debris.
++ Dillon Shook (2020), **A Critique of React Hooks** &#8594; https://dillonshook.com/a-critique-of-react-hooks/
 
-+ *leastbad* (2020), **Mutation-First Development: A Call to Action** &#8594; https://leastbad.com/mutation-first-development
-  1. Developers should create or update libraries and their documentation to assume re-entrancy by default.
-  2. A library is not considered high-quality unless it is idempotent. Developers should be able to initialize and destroy an instance many times during a single browser page context, including releasing event handlers and cleaning up/preparing the DOM state for caching during an unload event.
-  3. The most celebrated libraries will be atomic, making as few assumptions about DOM structure or CSS framework as possible while allowing several simultaneous instances of the library on a page.
 
