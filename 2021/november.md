@@ -9,10 +9,6 @@
   + > Insight problems are typically posed in such a way that there are multiple ways that they could be represented. 
   + > The main barrier to solving problems like this is to abandon the default representation and adopt a more productive one. Once the alternative representation is identified, the rest of the problem-solving process may be very rapid. Laboratory versions of insight problems generally do not require any specific deep technical knowledge. Most of them can be solved by gaining one or two insights that change the nature of how the solver thinks about the problem.
 
-## JSDoc
-
-+ Valérian Galliat (2021), **JSDoc: TypeScript inside JavaScript and not the other way around** &#8594; https://www.codejam.info/2021/10/jsdoc-typescript-inside-javascript.html
-
 ## Algorithms
 
 + Bouke van der Bijl (2021), **Spreadsheet Formulas for Personal Finance** &#8594; https://bou.ke/blog/formulas/
@@ -25,10 +21,6 @@
 
 + David Harel, Guy Katz, Rami Marelly, and Assaf Marron (2016), **First Steps Towards a Wise Development Environment for Behavioral Models** &#8594; https://www.wisdom.weizmann.ac.il/~harel/papers/First%20Steps%20WDE.pdf (PDF)
 + David Harel, Robby Lampert, Assaf Marron, and Gera Weiss (2014), **Model-Checking Behavioral Programs** &#8594; https://www.wisdom.weizmann.ac.il/~harel/papers/Model%20checking%20BP.pdf (PDF)
-
-## DOM
-
-+ Jack Jey (2021), **Safe DOM manipulation with the Sanitizer API** &#8594; https://web.dev/sanitizer/
 
 ## Design
 
@@ -57,6 +49,15 @@
 + Chuánqí Sun (2018), **Are you experiencing the Kessler Syndrome?** &#8594; https://uxdesign.cc/are-you-experiencing-the-kessler-syndrome-23bab3cdd446
   + Describes the front-end ecosystem as the Low Earth orbit polluted to the point of impenetrability by space debris endlessly colliding and creating more space debris.
 + Dillon Shook (2020), **A Critique of React Hooks** &#8594; https://dillonshook.com/a-critique-of-react-hooks/
+
+## DOM
+
++ Jack Jey (2021), **Safe DOM manipulation with the Sanitizer API** &#8594; https://web.dev/sanitizer/
+
+## JSDoc for TypeScript (again)
+
++ Valérian Galliat (2021), **JSDoc: TypeScript inside JavaScript and not the other way around** &#8594; https://www.codejam.info/2021/10/jsdoc-typescript-inside-javascript.html
+
 
 ## Privacy
 
