@@ -55,4 +55,5 @@ Two merit mention this month.
 + Alex Weisberger (2021), **Misspecification: The Blind Spot of Formal Verification** &#8594; https://concerningquality.com/misspecification/
      > Misspecification is the omission or misstatement of an important behavior or property such that a program can be verified to fully meet its spec, but the spec permits undesirable behavior.
 + Amazon Science (2021), **Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3** &#8594; \[pdf] https://assets.amazon.science/07/6c/81bfc2c243249a8b8b65cc2135e4/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3.pdf
-
+    > Implementing the reference model as executable code is a design choice. We could instead have used a language intended for modeling (Alloy [23], Promela [22], P [12], etc.), which would have given us better expressiveness and built-in checking tools. However, we found that by writing reference models in the same language as the implementation, we make them easier for engineers to keep up to date. We also minimize the cognitive burden of learning a new language and mapping concepts between model and implementation.
+    > Writing reference models in the implementation language means we can also use them as mocks during unit testing.
