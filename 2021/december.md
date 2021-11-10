@@ -9,16 +9,19 @@
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
+
 
 ## Find of the month
 
-Two merit mention this month.
+*Three* posts merit mention this month.
 
 1 Pavel Panchekha and Chris Harrelson (2021), \[Online Book] **Web Browser Engineering** &#8594; https://browser.engineering/
   + Web browser complete, in a thousand lines of Python.
 2 Bruno Sutic (2021), **Async Ruby** &#8594; https://brunosutic.com/blog/async-ruby
-  + Doesn't work with Rails yet (November 2021), but I haven't been so jealous of Ruby in a long time (maybe since before using it at Cal Berkeley). 
+  + Doesn't work with Rails yet (November 2021), but I haven't been so jealous of Ruby in a long time (maybe since before using it at Cal Berkeley).
+3 Svyatoslav Kryukov, Travis Turner (2021), **A no-go fantasy: writing Go in Ruby with Ruby Next** &#8594; https://evilmartians.com/chronicles/a-no-go-fantasy-writing-go-in-ruby-with-ruby-next
+  + Show off piece demonstrates how to use [Ruby Next](https://github.com/ruby-next/ruby-next) to add interesting capabilities to Ruby.
+   
 
 ## Algorithms
 
