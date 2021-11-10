@@ -8,7 +8,6 @@
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
 
 
 ## Find of the month
@@ -22,6 +21,15 @@
 3 Svyatoslav Kryukov, Travis Turner (2021), **A no-go fantasy: writing Go in Ruby with Ruby Next** &#8594; https://evilmartians.com/chronicles/a-no-go-fantasy-writing-go-in-ruby-with-ruby-next
   + Show off piece demonstrates how to use [Ruby Next](https://github.com/ruby-next/ruby-next) to add interesting capabilities to Ruby.
    
+## Types
+
++ François Lamontagne (2007), **Ruby is dynamically *and* strongly typed** &#8594; http://www.rubyfleebie.com/2007/07/09/ruby-is-dynamically-and-strongly-typed/
+  + Good rundown on dynamic vs. static, and strong vs. weak types.
+  > + A **dynamically** typed language is a language where the type of a variable can be altered at any time. (It is a string, now it is a Fixnum, now it is a Time object, etc.)
+  > + A **statically** typed language is the opposite. (Decide what x is once for all and don’t change your mind!)
+  > + A **strongly** typed language is a language that is being strict about what you can do with your typed variables. (Don’t mix them… or I will throw you an error in the face!)
+  > + A **weakly** typed language is the opposite. (Do what you want with your different types. Mix them all! We’ll see what happens!)
+
 
 ## Algorithms
 
@@ -60,3 +68,4 @@
 + Amazon Science (2021), **Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3** &#8594; \[pdf] https://assets.amazon.science/07/6c/81bfc2c243249a8b8b65cc2135e4/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3.pdf
     > Implementing the reference model as executable code is a design choice. We could instead have used a language intended for modeling (Alloy [23], Promela [22], P [12], etc.), which would have given us better expressiveness and built-in checking tools. However, we found that by writing reference models in the same language as the implementation, we make them easier for engineers to keep up to date. We also minimize the cognitive burden of learning a new language and mapping concepts between model and implementation.
     > Writing reference models in the implementation language means we can also use them as mocks during unit testing.
+
