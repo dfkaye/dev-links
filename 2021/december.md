@@ -7,8 +7,16 @@
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
 
+## Major Alloy 6 release
+
++ alloytools.org (2021), **Alloy 6 released** &#8594; https://alloytools.org/alloy6.html
+    + *Major new version with temporal logic support, including:*
+        + Mutable signatures and fields
+        + Value of an expression in the next state
+        + Instances are now infinite sequences of states (traces)
+        + Time horizon
+        + Complete model-checking
 
 ## Find of the month
 
