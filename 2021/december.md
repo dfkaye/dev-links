@@ -14,21 +14,21 @@
 
 *Three* posts merit mention this month.
 
-1 Pavel Panchekha and Chris Harrelson (2021), \[Online Book] **Web Browser Engineering** &#8594; https://browser.engineering/
-  + Web browser complete, in a thousand lines of Python.
-2 Bruno Sutic (2021), **Async Ruby** &#8594; https://brunosutic.com/blog/async-ruby
-  + Doesn't work with Rails yet (November 2021), but I haven't been so jealous of Ruby in a long time (maybe since before using it at Cal Berkeley).
-3 Svyatoslav Kryukov, Travis Turner (2021), **A no-go fantasy: writing Go in Ruby with Ruby Next** &#8594; https://evilmartians.com/chronicles/a-no-go-fantasy-writing-go-in-ruby-with-ruby-next
-  + Show off piece demonstrates how to use [Ruby Next](https://github.com/ruby-next/ruby-next) to add interesting capabilities to Ruby.
+1. Pavel Panchekha and Chris Harrelson (2021), \[Online Book] **Web Browser Engineering** &#8594; https://browser.engineering/
+    + Web browser complete, in a thousand lines of Python.
+2. Bruno Sutic (2021), **Async Ruby** &#8594; https://brunosutic.com/blog/async-ruby
+    + Doesn't work with Rails yet (November 2021), but I haven't been so jealous of Ruby in a long time (maybe since before using it at Cal Berkeley).
+3. Svyatoslav Kryukov, Travis Turner (2021), **A no-go fantasy: writing Go in Ruby with Ruby Next** &#8594; https://evilmartians.com/chronicles/a-no-go-fantasy-writing-go-in-ruby-with-ruby-next
+    + Show off piece demonstrates how to use [Ruby Next](https://github.com/ruby-next/ruby-next) to add interesting capabilities to Ruby.
    
 ## Types
 
 + François Lamontagne (2007), **Ruby is dynamically *and* strongly typed** &#8594; http://www.rubyfleebie.com/2007/07/09/ruby-is-dynamically-and-strongly-typed/
   + Good rundown on dynamic vs. static, and strong vs. weak types.
-  > + A **dynamically** typed language is a language where the type of a variable can be altered at any time. (It is a string, now it is a Fixnum, now it is a Time object, etc.)
-  > + A **statically** typed language is the opposite. (Decide what x is once for all and don’t change your mind!)
-  > + A **strongly** typed language is a language that is being strict about what you can do with your typed variables. (Don’t mix them… or I will throw you an error in the face!)
-  > + A **weakly** typed language is the opposite. (Do what you want with your different types. Mix them all! We’ll see what happens!)
+  + > A **dynamically** typed language is a language where the type of a variable can be altered at any time. (It is a string, now it is a Fixnum, now it is a Time object, etc.)
+  + > A **statically** typed language is the opposite. (Decide what x is once for all and don’t change your mind!)
+  + > A **strongly** typed language is a language that is being strict about what you can do with your typed variables. (Don’t mix them… or I will throw you an error in the face!)
+  + > A **weakly** typed language is the opposite. (Do what you want with your different types. Mix them all! We’ll see what happens!)
 
 
 ## Algorithms
