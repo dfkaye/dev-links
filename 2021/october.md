@@ -17,8 +17,8 @@
 + Jesse Duffield (2021), **OK?** &#8594; https://github.com/jesseduffield/OK
   > OK? is a modern, dynamically typed programming language with a vision for the future. OK?'s mission is to do away with the needless complexity of today's programming languages and let you focus on what matters. 
 + Inria, the French National Research Institute for Computer Science (2020), **Catala** &#8594; https://catala-lang.org/
-> Catala is a domain-specific programming language designed for deriving correct-by-construction implementations from legislative texts.
-> Catala works by annotating legislative texts with their code translation.
+  > Catala is a domain-specific programming language designed for deriving correct-by-construction implementations from legislative texts.
+  > Catala works by annotating legislative texts with their code translation.
 
 ## Data
 
@@ -47,7 +47,7 @@
 + Mike Wilcox at Club Ajax (2021), **on** &#8594; https://github.com/clubajax/on
   > A library for making it easy to manage DOM Node events.
 + Elise Hein (2021), **Using the platform** &#8594; https://elisehe.in/2021/08/22/using-the-platform
-> How far can framework-free, zero-build codebases take you in 2021?
+  > How far can framework-free, zero-build codebases take you in 2021?
 
 ## JavaScript Proxy
 
@@ -72,7 +72,7 @@
   > I feel that **putting all sorts of logical components into the rendering is abusing the original idea of components**.
   > **logic-posing-as-markup**.
 + Oleg Isonen (2021), **Last words on UI architecture before an AI takes over** &#8594; https://dev.to/oleg008/last-words-on-ui-architecture-before-an-ai-takes-over-dd3
-> “Big Ball of Mud” is the current state of the UI architecture, despite component-based composition.
+  > “Big Ball of Mud” is the current state of the UI architecture, despite component-based composition.
 
 ## Research
 
@@ -84,4 +84,4 @@
 
 + Wes Goulet (2021), **How to Write TypeScript Interfaces in JSDoc Comments** &#8594; https://goulet.dev/posts/how-to-write-ts-interfaces-in-jsdoc/
 + Gil Tayar (2020), **JSDoc typings: all the benefits of TypeScript, with none of the drawbacks** &#8594; https://gils-blog.tayar.org/posts/jsdoc-typings-all-the-benefits-none-of-the-drawbacks/
-> Hilarious article on keep using plain old vanilla JavaScript, without transpilation, AND getting type safety thanks to JSDocs + TypeScript compiler --https://twitter.com/nodepractices/status/1440940286981689344
+  > Hilarious article on keep using plain old vanilla JavaScript, without transpilation, AND getting type safety thanks to JSDocs + TypeScript compiler --https://twitter.com/nodepractices/status/1440940286981689344
