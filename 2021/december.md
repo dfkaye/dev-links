@@ -8,7 +8,7 @@
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 
-## Major Alloy 6 release
+## Major Alloy 6 release!
 
 + alloytools.org (2021), **Alloy 6 released** &#8594; https://alloytools.org/alloy6.html
     + *Major new version with temporal logic support, including:*
@@ -44,6 +44,15 @@
 + stackoverflow (2011), **"Explain Morris inorder tree traversal without using stacks or recursion"** &#8594; https://stackoverflow.com/questions/5502916/explain-morris-inorder-tree-traversal-without-using-stacks-or-recursion
   + Lots of answers
   + Another implementation at geeksforgeeks.org &#8594; https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/
++ Andrew Ray (2014: updated 2021), **The Mental Model That Helped Me Finally Understand "Flux"** &#8594; https://andrewray.me/blog/the-mental-model-that-helped-me-finally-understand-flux
+    > This is what I wish someone had told me when I struggled learning Flux. It's not straightforward, not well documented, and has many moving parts.
+
+## SAM and Other Design Patterns
+
++ Achim Schneider (2021), **The SAM Pattern** &#8594; https://codingconnects.com/sam-pattern
+    > The SAM Pattern as an alternative approach to widely adopted Frontend architectures. I show how to implement a simple browser game with this pattern.
++ Adrian Mos (2021), **User-Interfacing Software Design Patterns, Revisited** &#8594; https://medium.com/codex/user-interfacing-software-design-patterns-revisited-2ac1dcfd445d
+    > We will look at MVC (model-view-controller), MVVM (model-view-viewmodel), **SAM (state-action-model)** and CQRS (command-query responsibility segregation), with the BFF (backend for frontend) 'anti'-pattern.
 
 ## HTML
 
@@ -52,11 +61,15 @@
 + Fredrik Holmquist (2021), **Static Websites** &#8594; https://www.fredrikholmqvist.com/posts/static-websites/
     > It’s always easy to add complexity, it is substantially harder to remove it.
 
-## JavaScript
+## JavaScript and TypeScript
 
 + Kailash Nadh (2021), **The Javascript "ecosystem" is a hot mess and so is software development in general** &#8594; https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess/
+    > I cannot recollect any language’s ecosystem getting "modernized" like this, becoming this comically complicated that one might think it’s parody. Of course, the symptoms were evident with left-pad.
 + Wiktor Toporek (2021), **It's not JavaScript's ugly cousin. See how Typescript improves Developer Experience** &#8594; https://tsh.io/blog/typescript-improves-developer-experience/
-  + Questionable React-centric state-combinations-are-harder-to-test-exhaustively claims that equate "improving the developer experience" with "instant (visible) feedback" - consider the ableism in that phrase.
+  + Questionable ReactJS-centric *state-combinations-are-harder-to-test-exhaustively* claims that equate "improving the developer experience" with "instant (visible) feedback" - consider the ableism in that phrase.
+
+## Data Structures
+
 + Anish Kumar (2021), **Trie in Javascript: the Data Structure behind Autocomplete** &#8594; https://stackfull.dev/trie-in-javascript-the-data-structure-behind-autocomplete
   + *Nice implementation and walk-through.*
 + Phil Eaton (2021), **Writing an efficient object previewer for JavaScript** &#8594; https://datastation.multiprocess.io/blog/2021-07-15-writing-an-efficient-javascript-object-previewer.html
