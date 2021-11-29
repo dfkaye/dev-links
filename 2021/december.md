@@ -1,13 +1,5 @@
 # December 2021
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-
 ## Major Alloy 6 release!
 
 + alloytools.org (2021), **Alloy 6 released** &#8594; https://alloytools.org/alloy6.html
