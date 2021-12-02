@@ -36,8 +36,6 @@
 + stackoverflow (2011), **"Explain Morris inorder tree traversal without using stacks or recursion"** &#8594; https://stackoverflow.com/questions/5502916/explain-morris-inorder-tree-traversal-without-using-stacks-or-recursion
   + Lots of answers
   + Another implementation at geeksforgeeks.org &#8594; https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/
-+ Andrew Ray (2014: updated 2021), **The Mental Model That Helped Me Finally Understand "Flux"** &#8594; https://andrewray.me/blog/the-mental-model-that-helped-me-finally-understand-flux
-    > This is what I wish someone had told me when I struggled learning Flux. It's not straightforward, not well documented, and has many moving parts.
 
 ## SAM and Other Design Patterns
 
