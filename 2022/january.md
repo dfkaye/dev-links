@@ -24,6 +24,7 @@
 ## Flux pattern
 
 + Andrew Ray (2021), **The Mental Model That Helped Me Finally Understand "Flux"** &#8594; https://andrewray.me/blog/the-mental-model-that-helped-me-finally-understand-flux
+    > This is what I wish someone had told me when I struggled learning Flux. It's not straightforward, not well documented, and has many moving parts.
     - Originally published 2014, updated and re-styled 2021, post describes one-way data flow pattern recommended in the early days of ReactJS. 
     - This was easier to follow in 2021, my having worked with both Redux.js and the SAM pattern.
 
@@ -38,7 +39,6 @@
     > By carefully constructing a multidimensional and well-connected graph, a team of researchers has finally created a long-sought locally testable code that can immediately betray whether it’s been corrupted.
     > To create an optimal method for encoding information, researchers represented it in a graph that takes the form of a richly interconnected web of booklets that explodes outward. Each square in the graph represents one single bit of information from a message.
     - Presentation by Irit Dinur (Weizmann Institute of Science) at UC Berkeley, (Oct. 2021), **Breakthroughs — Locally Testable Codes with Constant Rate, Distance, and Locality** &#8594; https://simons.berkeley.edu/events/breakthroughs-locally-testable-codes-constant-rate-distance-and-locality
-
 
 ## Model checking
 
@@ -63,9 +63,7 @@
 + Jeb Beich (2017), **Restate Your UI: Using State Machines to Simplify User Interface Development** &#8594; https://cognitect.com/blog/2017/5/22/restate-your-ui-using-state-machines-to-simplify-user-interface-development
 + Jeb Beich (2017), **Restate Your UI: Creating a User Interface with Re-frame and State Machines** &#8594; https://cognitect.com/blog/2017/8/14/restate-your-ui-creating-a-user-interface-with-re-frame-and-state-machines
 
-
 ## Temporal Logic
 
 + Hillel Wayne (2021), **Alloy 6: it's about Time** &#8594; https://hillelwayne.com/post/alloy6/
     - A short walk through Alloy's new built-in temporal operators.
-  
