@@ -16,6 +16,7 @@ Software is only complex as we choose to make it or refuse to mitigate it. Using
   + See also (2021), **Using a framework can make you stupid** &#8594; https://unixsheikh.com/articles/using-a-framework-can-make-you-stupid.html
 + Romain Ruetschi (2021), **react-if** &#8594; https://github.com/romac/react-if
   + *sigh* JSX developers reinvent the JSTL wheel to handle conditional component rendering.
+  + It does solve a real problem, though. Props for that.
 + Travis Waith-Mair (2020), Stop Writing Reusable React Components &#8594; https://non-traditional.dev/stop-writing-reusable-react-components-bd649cba2700
   + More an argument in adopting *YAGNI* (you ain't gonna need it) when making components re-usable: most of the time your component won't be re-used.
 + Matthew Dean (2021), **Simplicity as a Feature** &#8594; https://dev.to/matthewdean/simplicity-as-a-feature-14be
