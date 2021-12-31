@@ -24,6 +24,7 @@ Software is only complex as we choose to make it or refuse to mitigate it. Using
   + Prioritizing milestones over projects sharply reduces complexity (by reducing hard-and-fast planning) and increases team agility.
   > \[Milestones\] unlock project shaping, better handle exploration projects, encourage incremental design, improve teams, make engineering look good, and increase trust.
 + Tyler Hawkins (2021), **In defense of _Clean Code_: 100+ pieces of timeless advice from Uncle Bob** &#8594; https://dev.to/thawkin3/in-defense-of-clean-code-100-pieces-of-timeless-advice-from-uncle-bob-5flk
+    + Really, you should read this post about Robert Martin's *Clean Code* as it lays out all the advice without the code samples.
 
 ## Behavioral Programming
 
@@ -57,6 +58,8 @@ Software is only complex as we choose to make it or refuse to mitigate it. Using
 
 ## Formal Methods
 
+NB: I've divided these into two camps - model-checking, and property-based testing - because the authors have done so.
+
 ### Model checking
 
 + Edmund M. Clarke, Jr. (undated), **Symbolic Model Checking with BDDs** &#8594; https://www.cs.cmu.edu/~emc/15-820A/reading/lecture_1.pdf
@@ -81,13 +84,13 @@ Software is only complex as we choose to make it or refuse to mitigate it. Using
 + Ben Myers (2021), **Form autocomplete** &#8594; https://12daysofweb.dev/2021/form-autocomplete/
     > Learn how to help users fill out forms more efficiently and accurately with autocomplete and virtual keyboard options.
 + Adrian Roselli (2021), **Under-engineered dependency questions** &#8594; https://adrianroselli.com/2021/12/under-engineered-dependency-questions.html
-    - Basic HTML and CSS approach for radio groups in forms.
+    - Reliable HTML-and-CSS approach for radio groups in forms.
 + Jeb Beich (2017), "Restate your UI" Series
     + **Restate Your UI: Using State Machines to Simplify User Interface Development** &#8594; https://cognitect.com/blog/2017/5/22/restate-your-ui-using-state-machines-to-simplify-user-interface-development
     + **Restate Your UI: Creating a User Interface with Re-frame and State Machines** &#8594; https://cognitect.com/blog/2017/8/14/restate-your-ui-creating-a-user-interface-with-re-frame-and-state-machines
 
 ## UI Testing
 
-Alister Scott (2021), **Playwright is better than Cypress** &#8594; https://alisterbscott.com/2021/10/27/five-reasons-why-playwright-is-better-than-cypress/
++ Alister Scott (2021), **Playwright is better than Cypress** &#8594; https://alisterbscott.com/2021/10/27/five-reasons-why-playwright-is-better-than-cypress/
     - "Scripted playback tests" (AKA end-to-end tests) are hard to read at first and therefore hard to keep organized later. Alister gives 5 reasons (good ones) why using Playwright over Cypress solves these issues.
 
