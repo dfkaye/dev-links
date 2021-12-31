@@ -1,6 +1,6 @@
 # Links
 
-Collection of links to articles on different topics for developers like me interested in JavaScript, test-driven development, and a better front-end architecture.
+Collection of links to articles on different topics for developers like me interested in JavaScript, test-driven development, front-end architecture, model-checking, and in general, gate-keeping against ideas and policies that actively harm front-end web development and user experience.
 
 ## Finding things
 
@@ -14,12 +14,13 @@ Collection of links to articles on different topics for developers like me inter
 
 ## Latest
 
-+ **[December 2021](/2021/december.md)**
++ **[January 2022](/2022/january.md)**
 
 ## Previous
 
 ### 2021
 
++ [December 2021](/2021/december.md)
 + [November 2021](/2021/november.md)
 + [October 2021](/2021/october.md)
 + [September](/2021/september.md)
