@@ -8,17 +8,27 @@
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
 
-Continuing the **Formal Methods** theme from [January 2022](https://github.com/dfkaye/dev-links/blob/6659ab1c42c87949884f9ae4220075818fde5a18/2022/january.md#formal-methods).
+## Pick of the Month
 
-## Model Checking
++ Robert Thompson (2020), **Javascript RORO pattern** &#8594; https://www.tinyblog.dev/blog/2020-07-13-javascript-roro-pattern/
+    - "Receive an Object, Return an Object", an object-parameters-only pattern for JavaScript functions.
+    - Object parameter fields are named and can be assigned default values in the function signature.
+    - Returning an object means never returning primitives or null or undefined.
+    - Returned objects can be destructured by the caller.
+    - All well-supported by ES6 without requiring TypeScript.
+
+## Formal methods
+
+Continuing the theme from [January 2022](https://github.com/dfkaye/dev-links/blob/6659ab1c42c87949884f9ae4220075818fde5a18/2022/january.md#formal-methods).
+
+### Model Checking
 
 + Edmund M. Clarke, Jr. (unk), **Lecture1: Symbolic Model Checking with BDDs** \[PDF\] &#8594; https://www.cs.cmu.edu/~emc/15-820A/reading/lecture_1.pdf
     - Edmund Clarke's slides from Carnegie Mellon course on&hellip; *Model Checking*.
     - More at https://www.cs.cmu.edu/~emc/research_interests.html.
 
-## Property Based Testing
+### Property Based Testing
 
 + Nicolas Dubien (2018), **Introduction to Property Based Testing** &#8594; https://medium.com/criteo-engineering/introduction-to-property-based-testing-f5236229d237
     - PBT (especially the concept of "shrinking") explained by the originator of [fast-check](https://github.com/dubzzz/fast-check), a PBT library for JavaScript.
