@@ -1,6 +1,6 @@
 # February 2022
 
-## Pick of the Month
+## Picks of the Month
 
 + Robert Thompson (2020), **Javascript RORO pattern** &#8594; https://www.tinyblog.dev/blog/2020-07-13-javascript-roro-pattern/
     - "Receive an Object, Return an Object", an object-parameters-only pattern for JavaScript functions.
@@ -8,6 +8,25 @@
     - Returning an object means never returning primitives or null or undefined.
     - Returned objects can be destructured by the caller.
     - All well-supported by ES6 without requiring TypeScript.
+
+
+## TypeScript Features You Should Avoid
+
++ Gary Bernhardt (2022), **TypeScript Features to Avoid** &#8594; https://www.executeprogram.com/blog/typescript-features-to-avoid
+    - Four things
++ Sean Amarasinghe (2021), **TypeScript Features You Should No Longer Use** &#8594; https://szaranger.medium.com/typescript-features-you-should-no-longer-use-82ede931243
+    - *Already?*
++ Jose Granja (2021), **7 TypeScript Common Mistakes To Avoid** &#8594; https://betterprogramming.pub/7-typescript-common-mistakes-to-avoid-581c30e514d6
+    - Only seven?
++ Michael Krasnov (2020), **7 really good reasons not to use TypeScript** &#8594; https://everyday.codes/javascript/7-really-good-reasons-not-to-use-typescript/
+    - Avoid these features by avoiding TypeScript altogether
++ Nivrith Gomatam (2020), **Why You Should Avoid Type Assertions in TypeScript** &#8594; https://medium.com/swlh/why-you-should-avoid-type-assertions-in-typescript-5494e3d04dd
+    - This seems *niche*.
++ Mateusz Ledwoń (2020), **15 Typescript Mistakes To Avoid** &#8594; https://blog.softwaremill.com/typescript-mistakes-to-avoid-d3ab240c90eb
+    - *Fifteen?!?*
++ (repeat from March 2020): Ryan Carniato (2020), **The Trouble with TypeScript** &#8594; https://dev.to/ryansolid/the-trouble-with-typescript-4fpp
+    - It's not a real language.
+
 
 ## Formal methods
 
