@@ -1,14 +1,5 @@
 # February 2022
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-
 ## Pick of the Month
 
 + Robert Thompson (2020), **Javascript RORO pattern** &#8594; https://www.tinyblog.dev/blog/2020-07-13-javascript-roro-pattern/
