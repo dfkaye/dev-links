@@ -7,7 +7,7 @@
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
+
 
 ## Ignorance
 
@@ -37,9 +37,13 @@ Barbara Liskov and Steven Zilles referred to Mealy's paper in their own in 1974,
 
 ## Types
 
++ Elise Maria LaBonte (2022), **A Controversial Case for Double Equality** &#8594; https://dev.to/eliselabonte/a-controversial-case-for-double-equality-5fnn
+  + > Using strict equality essentially implies that the author does not know (or does not care) what types of data are being passed in...
+  + That's controversial, yes.
 + @hirrolot (2022), **Why Static Languages Suffer From Complexity** &#8594; https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity.html
   + Stunning insightful eloquent essay by a 17-year-old programmer.
   + One comment likens TypeScript's "compile-time validation" to **technical debt dressed like a solution**.
+  + That's controversial, too.
 
 ## I/O
 
