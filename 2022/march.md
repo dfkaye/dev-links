@@ -8,10 +8,9 @@
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
-+ 
 
 
-**One reason most web developers don't know anything is that they spend all their time writing instead of reading**
+**One reason most web developers don't know anything while asserting everything is that they spend all their time writing instead of reading.**
 
 While feeling his way toward a theory of data, George H. Mealy, in 1967, wrote this about programming languages:
 
@@ -27,3 +26,6 @@ which they follow up with Specification Techniques for Data Abstractions, 1975
 http://csg.csail.mit.edu/CSGArchives/memos/Memo-117.pdf
 
 
+## Topics
+
++ Germano Gabbianelli (2022), **Server-Sent Events: the alternative to WebSockets you should be using** &#8594; https://germano.dev/sse-websockets
