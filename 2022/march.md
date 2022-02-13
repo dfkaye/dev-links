@@ -15,18 +15,13 @@
 
 While feeling his way toward a theory of data, George H. Mealy, in 1967, wrote this about programming languages:
 
-"[W]hat we really need is fewer data types along with apparatus which will allow the user to define his own [data type]."
+> [W]hat we really need is fewer data types along with apparatus which will allow the user to define his own [data type].
 
-George Mealy, Another look at Data, 1967,
-https://mba.eci.ufmg.br/wp-content/uploads/data_mealy.pdf
+<cite>Source: [Another look at Data](https://mba.eci.ufmg.br/wp-content/uploads/data_mealy.pdf).</cite>
 
-Barbara Liskov and Steven Zilles referred to this paper in their own in 1974, Programming with Abstract Data Types,
-https://gleitzman.com/media/docs/adt-liskov.pdf
+Barbara Liskov and Steven Zilles referred to Mealy's paper in their own in 1974, [Programming with Abstract Data Types](https://gleitzman.com/media/docs/adt-liskov.pdf), which they follow up a year later with [Specification Techniques for Data Abstractions](http://csg.csail.mit.edu/CSGArchives/memos/Memo-117.pdf).
 
-which they follow up with Specification Techniques for Data Abstractions, 1975
-http://csg.csail.mit.edu/CSGArchives/memos/Memo-117.pdf
-
-## Abstraction
+## Abstraction.
 
 + Marianne Bellotti (2022), **The Unreasonableness of Math is Context Independence** &#8594; https://medium.com/@bellmar/the-unreasonableness-of-math-is-context-independence-6826fd5f3515
   - > \[safety] controls work best when the abstractions at their foundation are *context-independent*.
