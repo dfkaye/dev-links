@@ -14,12 +14,13 @@ Collection of links to articles on different topics for developers like me inter
 
 ## Latest
 
-+ **[January 2022](/2022/january.md)**
++ **[February 2022](/2022/february.md)**
 
 ## Previous
 
 ### 2021
 
++ [January 2022](/2022/january.md)
 + [December 2021](/2021/december.md)
 + [November 2021](/2021/november.md)
 + [October 2021](/2021/october.md)
