@@ -1,14 +1,5 @@
 # March 2022
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-
-
 ## Ignorance
 
 **One reason most web developers don't know anything while asserting everything is that they spend all their time writing instead of reading.**
@@ -55,30 +46,11 @@ Barbara Liskov and Steven Zilles referred to Mealy's paper in their own in 1974,
   - > When developing real-time web applications, WebSockets might be the first thing that come to your mind. However, Server Sent Events (SSE) are a simpler alternative that is often superior.
 + Baldur Bjarnason (2021), **The event listening toolkit: five ways to get out of an event handling mess** &#8594; https://www.baldurbjarnason.com/2021/five-ways-to-get-out-of-the-event-handling-mess/
 
-## Frameworks
+## Vanilla
 
 + Noam Rosenthal (2022), **What Web Frameworks Solve: The Vanilla Alternative (Part 2)** &#8594; https://www.smashingmagazine.com/2022/02/web-frameworks-guide-part2/
-
 
 ## Generators
 
 + goqr.me (2015), **QR Code Generator** &#8594; https://goqr.me/
 + Mozilla (2018), **SubResource Integrity (SRI) Hash Generator** &#8594; https://www.srihash.org/
-
-
-### Cancelable promise
-
-+ Pierre-Yves Gérardy (2016), **You can already cancel ES6 Promises** &#8594; https://gist.github.com/pygy/6290f78b078e22418821b07d8d63f111
-  - Cancelable promise implementation with links to others in the comments.
-  - However, promises represent values rather than actions.
-  - Values can't be "cancelled" but actions can (so long as they haven't yet completed).
-  - Values can be awaited, but actions... and here the semantics of the terminology breaks down.
-  - Suppose we await values from a stream of values. Is the stream a value?
-  - OK, stop it. The stream is not the values it sends, but is its own value.
-  - An action is its own value.
-  - We don't cancel streams, we stop listening to them, or unsubscribe.
-  - Which is to say, *we cancel our subscriptions to them*.
-  - async/await makes directly cancelling or unsubscribing from promises impossible.
-  - Keep working on the distinction between `await promise` and `await value`...
-
-
