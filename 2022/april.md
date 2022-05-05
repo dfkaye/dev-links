@@ -1,14 +1,5 @@
 # April 2022
 
-+ *coming soon eventually...*
-
-## section
-
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-
 ### Cancelable promise
 
 + Pierre-Yves Gérardy (2016), **You can already cancel ES6 Promises** &#8594; https://gist.github.com/pygy/6290f78b078e22418821b07d8d63f111
@@ -48,10 +39,4 @@
   > Isn’t this type of bug exactly what using TypeScript and types is supposed to prevent? How in the world had the type system allowed something that was not renderable by React to be passed into a prop with type `string | React.ReactNode`?
   + Turns out, **DefinitelyTyped** ships its own override of the `ReactFragment` type as either an empty object or a `ReactNodeArray`.
   + No discussion of tests.
-
-
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-
 
