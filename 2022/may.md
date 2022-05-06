@@ -3,9 +3,17 @@
 + *coming soon eventually...*
 
 ## section
++ author (date), **title** &#8594; link
++ author (date), **title** &#8594; link
++ author (date), **title** &#8594; link
++ author (date), **title** &#8594; link
 
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
+
+## Web Component Strategy: Wrap, don't replace, semantic HTML elements
+
++ Paul Heber (2022), **Web Components as Progressive Enhancement** &#8594; https://cloudfour.com/thinks/web-components-as-progressive-enhancement/
++ Zach Leatherman (2022), **Add Responsive-friendly Enhancements To `<details>` With `<details-utils>`** &#8594; https://www.zachleat.com/web/details-utils/
+
 
 ## Functional UI
 
@@ -35,6 +43,9 @@
 + @winterbe (2015),  **How Streams Work** &#8594; https://winterbe.github.io/streamjs/#how-streams-work
   + documentation for **stream.js** &#8594; https://github.com/winterbe/streamjs
   > Lazy Object Streaming Pipeline for JavaScript - inspired by the Java 8 Streams API
++ Mozilla Developer Network (date), **Streams API** &#8594; https://developer.mozilla.org/en-US/docs/Web/API/Streams_API
+  + Streams in the Browser are here (ReadableStream, WritableStream) and their APIs are vastly different from Node.js and the various user land stream libraries
+
 
 ## Blog
 
