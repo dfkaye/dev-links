@@ -6,7 +6,6 @@
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
 + author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
 
 
 ## Web Component Strategy: Wrap, don't replace, semantic HTML elements
@@ -26,11 +25,17 @@
   + Found `raj` while reading...
 + Bruno Couriol (2020), **Functional UI (Framework-Free at Last)** &#8594; https://www.infoq.com/articles/functional-UI-introduction-no-framework/
 
+
 ## Streams
 
 *There are many ways to create stream APIs. Some of these have been listed previously.*
 
+### User land streams
+
+*Stream implementations from the community tend to be general purpose or platform-agnostic - "a sequence of values handled lazily".*
+
 + Chris Arnott (2017), **A quick guide to javascript streams** &#8594; https://medium.com/@ChrisCanCompute/a-quick-guide-to-javascript-streams-273576613857
+  + Includes link to [bacon.js](https://baconjs.github.io/)
 + Gregor Elke (2014), **Streams in JavaScript: a versatile Tool** &#8594; https://blog.codecentric.de/en/2014/05/streams-javascript-versatile-tool/
 + Caolan McMahon (2014), **highland** &#8594; https://caolan.github.io/highland/#
 + Fred Daoud (2018), **the Meiosis pattern** &#8594; http://meiosis.js.org/docs/01-introduction.html
@@ -41,10 +46,20 @@
 + Mithril (2018), **mithril/stream** &#8594; https://mithril.js.org/stream.html
   + Stream generators package in the Mithril UI framework.
 + @winterbe (2015),  **How Streams Work** &#8594; https://winterbe.github.io/streamjs/#how-streams-work
-  + documentation for **stream.js** &#8594; https://github.com/winterbe/streamjs
+  + documentation for [stream.js](https://github.com/winterbe/streamjs)
   > Lazy Object Streaming Pipeline for JavaScript - inspired by the Java 8 Streams API
++ RXJS v7 (2022), **Testing RxJS Code with Marble Diagrams** &#8594; https://rxjs.dev/guide/testing/marble-testing
+  + Utility belt library for events, treating observables as collections (hence, streams).
+  + *__The marble testing guide is just darned interesting.__*
+
+### Platform streams
+
+*Platform streams are built specifically to handle network data transfer. They distinguish between stream types as readable, writable, duplex, and transform.*
+
++ Nodejs.dev (date), **Node.js Streams** &#8594; https://nodejs.dev/learn/nodejs-streams
+  + Node.js streams are built on Node's event loop (the EventEmitter).
 + Mozilla Developer Network (date), **Streams API** &#8594; https://developer.mozilla.org/en-US/docs/Web/API/Streams_API
-  + Streams in the Browser are here (ReadableStream, WritableStream) and their APIs are vastly different from Node.js and the various user land stream libraries
+  + Streams in the Browser are here (ReadableStream, WritableStream) and their APIs are vastly different from Node.js and the various user land stream libraries.
 
 
 ## Blog
