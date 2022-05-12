@@ -30,27 +30,34 @@
 
 *There are many ways to create stream APIs. Some of these have been listed previously.*
 
-### User land streams
-
-*Stream implementations from the community tend to be general purpose or platform-agnostic - "a sequence of values handled lazily".*
+### Overview
 
 + Chris Arnott (2017), **A quick guide to javascript streams** &#8594; https://medium.com/@ChrisCanCompute/a-quick-guide-to-javascript-streams-273576613857
   + Includes link to [bacon.js](https://baconjs.github.io/)
 + Gregor Elke (2014), **Streams in JavaScript: a versatile Tool** &#8594; https://blog.codecentric.de/en/2014/05/streams-javascript-versatile-tool/
++ @winterbe (2015),  **How Streams Work** &#8594; https://winterbe.github.io/streamjs/#how-streams-work
+  + Documentation for [stream.js](https://github.com/winterbe/streamjs), an early userland streaming library, "inspired by the Java 8 Streams API".
+  
+### Community
+
+*Stream implementations from the community tend to be general purpose or platform-agnostic - "a sequence of values handled lazily" or "A Stream is a reactive data structure, similar to cells in spreadsheet applications.*
+
 + Caolan McMahon (2014), **highland** &#8594; https://caolan.github.io/highland/#
-+ Fred Daoud (2018), **the Meiosis pattern** &#8594; http://meiosis.js.org/docs/01-introduction.html
-  - upgraded documentation 2022
-  - **Test suite for `meiosis.stream.simpleStream` package** &#8594; https://github.com/foxdonut/meiosis/blob/master/helpers/setup/source/tests/index-simple-stream.js
+  + One of the first, if not *the* first, user land streaming utility belt libraries.
+  + Highland begins with *pause*, *resume*, and *write* concepts, and offers a wealth of operation methods of processing, grouping, etc.
 + Simon Friis Vindum (2015), **flyd** &#8594; https://github.com/paldepind/flyd
-  + flyd is a library for combining observable streams
+  + flyd is a library for combining *observable* streams.
+  + flyd streams are functions, and can be used as *event handlers*.
 + Mithril (2018), **mithril/stream** &#8594; https://mithril.js.org/stream.html
   + Stream generators package in the Mithril UI framework.
-+ @winterbe (2015),  **How Streams Work** &#8594; https://winterbe.github.io/streamjs/#how-streams-work
-  + documentation for [stream.js](https://github.com/winterbe/streamjs)
-  > Lazy Object Streaming Pipeline for JavaScript - inspired by the Java 8 Streams API
+  + API is smaller than highland or flyd, but, like flyd, treats streams as functions.
 + RXJS v7 (2022), **Testing RxJS Code with Marble Diagrams** &#8594; https://rxjs.dev/guide/testing/marble-testing
-  + Utility belt library for events, treating observables as collections (hence, streams).
+  + Big utility belt library for events, treating *observables* as collections (hence, streams).
   + *__The marble testing guide is just darned interesting.__*
++ Fred Daoud (2018), **the Meiosis pattern** &#8594; http://meiosis.js.org/docs/01-introduction.html
+  - *Meiosis* is a pattern, not a library, dependent on streaming input events.
+  - Documentation updated, April 2022.
+  - The `meiosis.stream.simpleStream` package is strongly influenced by Mithril and flyd &#8594; https://github.com/foxdonut/meiosis/blob/master/helpers/setup/source/tests/index-simple-stream.js
 
 ### Platform streams
 
