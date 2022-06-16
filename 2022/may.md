@@ -9,9 +9,7 @@ The theme is [streams](#streams) this month, but first...
 
 ## Functional UI
 
-*We still need to fix something in the SAM architecture claim that "the view is a function of the model", because the view is too easily confused with "the UI" vs. its representation. It is more correct to say that the view depends on a representation which is a function of the model.*
-
-*The following deal with view-as-UI, but `raj` really offers something close to SAM: side-effects (that is, mutations to the view and possibly other actions) as first-class citizens.*
+*We still need to fix something in the web architecture claim that "the view is a function of the model", because the view is too easily confused with "the UI" vs. its representation. It is more correct to say that the view depends on a representation which is a function of the model. The following deal with view-as-UI, but `raj` offers something close to the SAM pattern: side-effects (that is, mutations to the view and possibly other actions) as first-class citizens.*
 
 + Chris Andrejewski (2018), **`raj`: the Elm architecture in JavaScript** &#8594; https://github.com/andrejewski/raj
   + [What is raj?](https://jew.ski/what-is-raj/)
