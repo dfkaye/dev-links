@@ -119,4 +119,4 @@ Collection of links to articles on different topics for developers like me inter
 
 + [December](/2015/december.md)
 + [November](/2015/november.md)
-+ [Everything before November 2015](everything-before-november-2015.md)
++ [Everything before November 2015](/2015/everything-before-november-2015.md)
