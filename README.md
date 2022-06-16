@@ -14,18 +14,22 @@ Collection of links to articles on different topics for developers like me inter
 
 ## Latest
 
-+ **[April 2022](/2022/april.md)**
++ **[May 2022](/2022/may.md)**
 
 ## Previous
 
+### 2022
+
++ [April](/2022/april.md)
++ [March](/2022/march.md)
++ [February](/2022/february.md)
++ [January](/2022/january.md)
+
 ### 2021
 
-+ [March 2022](/2022/march.md)
-+ [February 2022](/2022/february.md)
-+ [January 2022](/2022/january.md)
-+ [December 2021](/2021/december.md)
-+ [November 2021](/2021/november.md)
-+ [October 2021](/2021/october.md)
++ [December](/2021/december.md)
++ [November](/2021/november.md)
++ [October](/2021/october.md)
 + [September](/2021/september.md)
 + [August](/2021/august.md)
 + [July](/2021/july.md)
