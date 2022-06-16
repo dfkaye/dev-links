@@ -1,18 +1,11 @@
 # May 2022
 
-+ *coming soon eventually...*
-
-## section
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-+ author (date), **title** &#8594; link
-
+The theme is [streams](#streams) this month, but first...
 
 ## Web Component Strategy: Wrap, don't replace, semantic HTML elements
 
 + Paul Heber (2022), **Web Components as Progressive Enhancement** &#8594; https://cloudfour.com/thinks/web-components-as-progressive-enhancement/
 + Zach Leatherman (2022), **Add Responsive-friendly Enhancements To `<details>` With `<details-utils>`** &#8594; https://www.zachleat.com/web/details-utils/
-
 
 ## Functional UI
 
@@ -24,7 +17,6 @@
   + [What is raj?](https://jew.ski/what-is-raj/)
   + Found `raj` while reading...
 + Bruno Couriol (2020), **Functional UI (Framework-Free at Last)** &#8594; https://www.infoq.com/articles/functional-UI-introduction-no-framework/
-
 
 ## Streams
 
@@ -68,13 +60,15 @@
 + Mozilla Developer Network (date), **Streams API** &#8594; https://developer.mozilla.org/en-US/docs/Web/API/Streams_API
   + Streams in the Browser are here (ReadableStream, WritableStream) and their APIs are vastly different from Node.js and the various user land stream libraries.
 
-
-## Blog
+## Code playground 
 
 + Rasmus Porsager (2018), **flems** &#8594; https://github.com/porsager/flems
   > Flems is a static web app - no strings attached - browser code playground. It's great for documentation, examples, presentations, issues and what not.
   - unpkg URL example: `https://unpkg.com/flems@1.5.10/dist/flems.html`
   - hat tip to Fred Daoud (@foxdonut) who uses it on his Meiosis tutorial documentation.
+
+## Hugo migration advice
+
 + cloudfare (2022), **cloudfare-docs github issue 3609: migrate to Hugo** &#8594; https://github.com/cloudflare/cloudflare-docs/pull/3609
   + Surprisingly great advice on using Hugo shortcodes, etc.
 
