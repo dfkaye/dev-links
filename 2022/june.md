@@ -2,7 +2,7 @@
 
 + *coming soon eventually...*
 
-## Railway-oriented programming
+## Railway-oriented programming (ROP)
 
 Prompted by Wes Bos tweet -- https://twitter.com/wesbos/status/1536720926112460801
 
@@ -13,9 +13,10 @@ Prompted by Wes Bos tweet -- https://twitter.com/wesbos/status/15367209261124608
 + Victor Jonah (@Vectormike_) (2020), **What is railway oriented programming?** &#8594; https://blog.logrocket.com/what-is-railway-oriented-programming/
   + While Wlaschin coined the term ROP in 2014, I think this introduction more accessible.
 
-### Related
+### Related patterns
+
 + Jean-Jacques Dubray (2021), **Revisiting Switch and If-then-else** &#8594; https://dzone.com/articles/revisiting-switch-and-if-then-else
-+ Seán Barry (2020), **Using the Switch(true) Pattern in JavaScript** &#8594; https://dzone.com/articles/revisiting-switch-and-if-then-else
++ Seán Barry (2020), **Using the Switch(true) Pattern in JavaScript** &#8594; https://seanbarry.dev/posts/switch-true-pattern
 
 
 ## section
