@@ -1,11 +1,19 @@
 # July 2022
 
+> Suffocating your programs with type definitions means you've already decided that whatever fancy architecture you've built should not be changed without a suitable amount of analysis paralysis.
+
 ## Section
 
 + author (yyyy), **title** &#8594; url
 + author (yyyy), **title** &#8594; url
-+ author (yyyy), **title** &#8594; url
 
+## Find of the Month
+
++ Jeremy Bowers (2020), **Why Duck Typing Is Safe** &#8594; http://www.jerf.org/iri/post/2954
+  1. The interface must be simple enough to accidentally implement.
+  2. The objects have to get mixed up.
+  3. Something bad has to actually happen.
+  > I'm not claiming the combination of these three things is impossible. It isn't. My point is that this is exceedingly rare, and it should be treated as such. It is not something one should spend precious, precious design budget on in a language's design to avoid. 
 
 ## Model Verification
 
