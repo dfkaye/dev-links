@@ -40,6 +40,17 @@ Prompted by Wes Bos tweet -- https://twitter.com/wesbos/status/15367209261124608
   > Declarative validations framework inspired by unit testing libraries
 + Craig Buckler (2022), ***stateZ (state-easy)* is a simple client-side state manager used to save values** &#8594; https://github.com/craigbuckler/statez
 
+### Streams
+
+Streams get their own section. This one is laden with detail...
+
++ Axel Rauschmayer (2022), **Using web streams on Node.js** &#8594; https://2ality.com/2022/06/web-streams-nodejs.html
+
+### Workers
+
++ Stackoverflow (2016), **Answer to `How to wait for multiple WebWorkers in a loop`** &#8594; https://stackoverflow.com/a/39282225
+  > You will want to use promises for this...`Promise.all` does the magic of waiting for concurrently running results, and the `step` function does the asynchronous looping using a recursive approach.
+
 ## CSS
 
 + Matthew Howell (2022), **Reasonable Colors** &#8594; https://reasonable.work/colors/
