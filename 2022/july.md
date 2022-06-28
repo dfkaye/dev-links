@@ -1,0 +1,31 @@
+# July 2022
+
+## Section
+
++ author (yyyy), **title** &#8594; url
++ author (yyyy), **title** &#8594; url
++ author (yyyy), **title** &#8594; url
+
+
+## Model Verification
+
++ eclipse.org (2022), **The Epsilon Unit Testing Framework (EUnit)** &#8594; https://www.eclipse.org/epsilon/doc/eunit/
+  > EUnit is an unit testing framework specifically designed to test model management tasks, based on EOL and the Ant workflow tasks. It provides assertions for comparing models, files and directories. Tests can be reused with different sets of models and input data, and differences between the expected and actual models can be graphically visualized. This chapter describes how tests are organized and written and shows two examples of how a model-to-model transformation can be tested with EUnit. This chapter ends with a discussion of how EUnit can be extended to support other modelling and model management technologies.
++ dafny-lang (2022), **dafny: verification-aware programming language** &#8594; https://github.com/dafny-lang/dafny
+  > Dafny is a verification-ready programming language. As you type in your program, Dafny's verifier constantly looks over your shoulder, flags any errors, shows you counterexamples, and congratulates you when your code matches your specifications. When you're done, Dafny can compile your code to C#, Java, JavaScript or Go (more to come!), so it can integrate with your existing workflow.
+
+## Diagrams
+
++ Scott Antipa (2022), **Why we need a flowchart editor that doesn't give you carpal tunnel** &#8594; https://www.scottantipa.com/why-knotend
+  > This is a post about why I'm making [knotend](https://www.knotend.com/), a flowchart editor designed for speed, and why we need to get away from mouse-based flowchart editors. 
++ Simon Brown (2021), **Getting started with `Structurizr Lite`** &#8594; https://dev.to/simonbrown/getting-started-with-structurizr-lite-27d0
+  + ... **Diagrams as code** &#8594; https://dev.to/simonbrown/diagrams-as-code-2-0-82k
+  + ... **The `C4 model` for visualising software architecture** &#8594; https://c4model.com/
+
+## TLA+
+
++ Elliot Swart (2022), **Introduction to Pragmatic Formal Modeling** &#8594; https://elliotswart.github.io/pragmaticformalmodeling/
+  + Series that demonstrates symbolic logic modeling with `TLA+` as an **iterative process** - similar to but not the same as TDD.
++ Marc Brooker (2022), **Simple Simulations for System Builders** &#8594; https://brooker.co.za/blog/2022/04/11/simulation.html
+
+
