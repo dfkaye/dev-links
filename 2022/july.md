@@ -15,6 +15,12 @@
   3. Something bad has to actually happen.
   > I'm not claiming the combination of these three things is impossible. It isn't. My point is that this is exceedingly rare, and it should be treated as such. It is not something one should spend precious, precious design budget on in a language's design to avoid. 
 
+## Logic
+
++ Spencer Mortensen (2020), **Logic as Algebra** &#8594; https://spencermortensen.com/articles/boolean-algebra/
+  > The algebraic method \[of constructing proofs\] treats logic like high school algebra, where the values are limited to {0,1} instead of C, and the operators are the boolean operators. Constructing a proof amounts to solving a system of equations.
+
+
 ## Model Verification
 
 + eclipse.org (2022), **The Epsilon Unit Testing Framework (EUnit)** &#8594; https://www.eclipse.org/epsilon/doc/eunit/
