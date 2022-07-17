@@ -16,7 +16,7 @@ Couple pretty interesting concepts here...
 
 + Jakub T. Jankiewicz (2019), **jquery.terminal** &#8594; https://github.com/jcubic/jquery.terminal
   > JavaScript Library for Web Based Terminal Emulators
-+ Jakub T. Jankiewicz (2022), **wayne** &#8594; [url](https://github.com/jcubic/wayne)
++ Jakub T. Jankiewicz (2022), **wayne** &#8594; https://github.com/jcubic/wayne
   > Service Worker Routing library for in browser HTTP requests
 
 ## Logic
