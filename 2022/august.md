@@ -1,7 +1,5 @@
 # August 2022
 
-*coming soon, eventually...*
-
 ## Post of the month
 
 + Julia Furst Morgado (2022), **Get paid to write technical articles** &#8594; https://dev.to/juliafmorgado/get-paid-to-write-technical-articles-16cl
