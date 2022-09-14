@@ -2,6 +2,10 @@
 
 Collection of links to articles on different topics for developers like me interested in JavaScript, test-driven development, front-end architecture, model-checking, and in general, gate-keeping against ideas and policies that actively harm front-end web development and user experience.
 
+## Latest
+
++ **[September 2022](/2022/september.md)**
+
 ## Finding things
 
 **Use the github "Search or jump to..." field at top to search for things in this repository, such as 'accessibility', '@heydon', '@heydonworks', 'TLA+', 'React', et cetera.**
@@ -12,14 +16,11 @@ Collection of links to articles on different topics for developers like me inter
   + [@makasanas, Old Browser CSS Hacks](http://www.webrexstudio.com//old-browser-css-hacks)
   + [@redconfetti's rubycoloredglasses cheat-sheets](http://www.rubycoloredglasses.com/resources/cheat-sheets/) (aka, Jason Miller, UCB colleague twitter/@redconfetti)
 
-## Latest
-
-+ **[August 2022](/2022/august.md)**
-
-## Previous
+## Archive
 
 ### 2022
 
++ [August 2022](/2022/august.md)
 + [July 2022](/2022/july.md)
 + [June](/2022/june.md)
 + [May](/2022/may.md)
