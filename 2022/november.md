@@ -12,13 +12,13 @@
 
 + Greg Young (2014), **The art of destroying software** &#8594; https://vimeo.com/108441214
   - 40-minute video of Greg's talk promoting "deletability" as part of software design.
-  - That is, you should be able to delete it and start over *without fear*.
+  - Design a program so you can delete it later if necessary and start over *without fear*.
 
 ## Atrocity Exhibition
 
 + Richard Gabriel (2002), **Objects have failed** &#8594; https://www.dreamsongs.com/ObjectsHaveFailedNarrative.html
-  - From 20 years ago this essay captures the essence of smashmouth, in-your-face, non-cooperation that has infected "software" "engineering" as now pushed by "entrepeneurs" and "technology saviors".
-  - The truth is all this is driven by the obsessive fixation with static types.
+  - From 20 years ago, this essay discusses the essence of smashmouth, in-your-face, non-cooperation that has infected "software" "engineering" as now pushed by right-wing reactionary technology "saviors" and self-styled "entrepeneurs".
+  - The truth is all this is driven by the obsessive fixation with static types which focuses on local optima and completely ignores objects as services that send and receive messages.
 + Brett Slatkin (2022), **The case for dynamic, functional programming** &#8594; https://www.onebigfluke.com/2022/11/the-case-for-dynamic-functional.html
   - All the problems with objects yoked to static types in the Gabriel essay melt away in this one.
   > Similar to how dynamic languages don't require you to "emulate the compiler" in your head, purely functional languages don't require you to "emulate the state machine". Functional languages reduce the need to reason about time and state changes.
