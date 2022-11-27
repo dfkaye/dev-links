@@ -1,12 +1,5 @@
 # October 2022
 
-*coming soon, eventually...*
-
-## Section
-
-+ author (yyyy), **title** &#8594; url
-+ author (yyyy), **title** &#8594; url
-
 ## History and Versioning
 
 + The Pijul manual (2022), **Theory** &#8594; https://pijul.com/manual/theory.html
@@ -28,7 +21,6 @@
 + Peter Krautzberger (2022), **Thoughts on Print Equation Layout** &#8594; https://www.peterkrautzberger.org/0218/
   + On `MathML` still not well-supported after at least a decade...
 + Craig Buckler (2022), **Making your Web Pages Printer-Friendly with CSS** &#8594; https://blog.openreplay.com/making-your-web-pages-printer-friendly-with-css
-
 
 ## section to be named later
 
