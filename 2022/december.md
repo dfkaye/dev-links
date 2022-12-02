@@ -19,6 +19,8 @@
 
 ## maybe, maybe not
 
++ `Syncpup` (2022), **‘Let It Crash’ under attack** &#8594; http://blog.syncpup.com/posts/let-it-crash-under-attack.html
+  - Consternation at Syncpup over unit tests for Erlang feels like a form of "I'm just asking questions" move-fast-and-break-things garbage. 
 + Aaron Hedges (2016), **Coroutines** &#8594; https://dashron.com/posts/coroutines
   - explains his javascript library for creating coroutines
   - 2022: library is deprecated, recommends async/await instead...
