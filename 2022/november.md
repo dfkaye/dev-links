@@ -1,13 +1,5 @@
 # November 2022
 
-*coming soon, eventually...*
-
-## Section
-
-+ author (yyyy), **title** &#8594; url
-+ author (yyyy), **title** &#8594; url
-
-
 ## Find of the Month
 
 + Greg Young (2014), **The art of destroying software** &#8594; https://vimeo.com/108441214
