@@ -7,6 +7,10 @@
 + author (yyyy), **title** &#8594; url
 + author (yyyy), **title** &#8594; url
 
+## Adam Silver Site Update
+
++ Adam Silver (2022), **No Style Design System** &#8594; https://nostyle.onrender.com/
+  - Adam has relocated this site which "contains all the stlyes \[sic], components and patterns from my book Form Design Patterns published by Smashing Magazine in 2018".
 
 ## Find of the Month
 
