@@ -1,5 +1,13 @@
 # December 2022
 
+*coming soon, eventually...*
+
+## Section
+
++ author (yyyy), **title** &#8594; url
++ author (yyyy), **title** &#8594; url
+
+
 ## Adam Silver Site Update
 
 + Adam Silver (2022), **No Style Design System** &#8594; https://nostyle.onrender.com/
