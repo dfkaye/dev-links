@@ -4,7 +4,7 @@ Collection of links to articles on different topics for developers like me inter
 
 ## Latest
 
-+ **[November 2022](/2022/november.md)**
++ **[December 2022](/2022/december.md)**
 
 ## Finding things
 
@@ -20,6 +20,7 @@ Collection of links to articles on different topics for developers like me inter
 
 ### 2022
 
++ [November 2022](/2022/november.md)
 + [October 2022](/2022/october.md)
 + [September 2022](/2022/september.md)
 + [August 2022](/2022/august.md)
