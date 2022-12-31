@@ -21,7 +21,7 @@ From 10 years ago...
   + An "atheists" approach toward frameworks as religion: *use none*.
 + James Shore (2022), **Testing Without Mocks: A Pattern Language** &#8594; https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks
   + Design patterns  that *combine sociable, state-based tests with a novel infrastructure technique called "Nullables."*
-+ Tomasz Jakut (2018), **title** &#8594; https://medium.com/content-uneditable/implementing-single-file-web-components-22adeaa0cd17
++ Tomasz Jakut (2018), **Implementing single file Web Components** &#8594; https://medium.com/content-uneditable/implementing-single-file-web-components-22adeaa0cd17
   + I linked to this one in May 2018, dismissing it as a "hack-laden dynamic import fest". I now think that's the best part, the rabbit holes of invention that opens up...
 + Nicholas Zakas (2021), **The lazy-loading property pattern in JavaScript** &#8594; https://humanwhocodes.com/blog/2021/04/lazy-loading-property-pattern-javascript/
   > You can defer computationally-expensive operations until needed using an accessor property.
