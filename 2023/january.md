@@ -9,11 +9,10 @@
 
 ## Find of the month
 
-From 10 years ago...
+*From 10 years ago!*
 
 + Andrew Petersen (2012), **Using Signals and Actors with Web Workers** &#8594; https://kirbysayshi.com/2012/06/28/signals-actors-web-workers.html
   > Using a bastardized Actor Model (I'm barely even using the concept properly), you can setup \[sic] web workers to instead respond to Signals, and provide a common interface.
-
 
 ## And in no particular order
 
@@ -33,5 +32,9 @@ From 10 years ago...
   + Problems arising from CSS `position: sticky` rules in page headers. 
 + Philosophy Overdose (2022), Video: **A Portrait of Frank Ramsey - Better than the Stars (1978)** &#8594; https://www.youtube.com/watch?v=FllJfUcNM3Y
   > The following is a portrait of the life and thought of F. P. Ramsey from a 1978 BBC Radio broadcast. The presenter was Hugh Mellor, and it includes contributions by A. J. Ayer, Richard Braithwaite, Dick Jeffrey, Lord Ramsey, Mrs Lettice Ramsey and I. A. Richards. Excerpts from Ramsey's writings are read by Hugh Dickson and from Maynard Keynes's writings by Gabriel Woolf.
++ Ted Neward (2023), **You Want Modules, Not Microservices** &#8594; https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html
+  > *tl;dr* Architecture is hard sometimes--people keep offering up some new idea that quickly becomes the mainstream "way to do it" without any context or nuance, and the industry, desperate to find ways to improve their architecture, snaps it up without hesitation. Microservices was the latest in the trend, and it's time we dissected the idea and got to the real root of what's going on. 
++ Bertrand Meyer, Alisa Arkadova, Alexander Kogtenkov (2021-2022), **The concept of class invariant in object-oriented programming** &#8594; https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html
+  + Long paper introduces a proof rule to clarify the notation of class invariant - "consistency constraints preserved by every operation on objects of a given type" - and to address the three associated problems with verification: callbacks, furtive access, and reference leak.
 
 
