@@ -7,6 +7,8 @@
 + author (yyyy), **title** &#8594; url
 + author (yyyy), **title** &#8594; url
 
+
+
 ## Find of the month
 
 *From 10 years ago!*
@@ -16,6 +18,7 @@
 
 ## And in no particular order
 
++ Mahmoud Harmouch (2023), **17 Compelling Reasons To Start Ditching TypeScript Now.** &#8594; https://dev.to/wiseai/17-compelling-reasons-to-start-ditching-typescript-now-249b
 + Jérôme Beau (2022), **Design: #noFramework** &#8594; https://javarome.medium.com/design-noframework-bbc00a02d9b3
   + An "atheists" approach toward frameworks as religion: *use none*.
 + James Shore (2022), **Testing Without Mocks: A Pattern Language** &#8594; https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks
